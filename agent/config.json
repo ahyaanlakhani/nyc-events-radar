@@ -1,0 +1,37 @@
+{
+  "timezone": "America/New_York",
+  "horizon_days": 120,
+  "max_searches_per_run": 8,
+  "monthly_search_credits": 300,
+  "max_pages_per_run": 60,
+  "max_llm_calls_per_run": 30,
+  "llm_min_interval_seconds": 6.5,
+  "llm_rate_limit_backoff_seconds": 20,
+  "request_timeout_seconds": 18,
+  "listing_urls": [
+    "https://www.eventbrite.com/d/ny--new-york/all-events/",
+    "https://www.eventbrite.com/d/ny--new-york/science-and-tech/",
+    "https://www.eventbrite.com/d/ny--new-york/machine-learning/"
+  ],
+  "event_urls": [],
+  "queries": [
+    "site:lu.ma New York City AI machine learning technology events {month}",
+    "site:eventbrite.com New York City AI developer workshop {month}",
+    "site:meetup.com New York City AI developer events {month}",
+    "site:gdg.community.dev New York City developer events {month}",
+    "New York City university student AI hackathon workshop {month}",
+    "site:linkedin.com/posts New York City AI event registration {month}",
+    "site:facebook.com/events New York City technology workshop {month}",
+    "NYC AI agents machine learning meetup {month}"
+  ],
+  "free_queries": [
+    "New York City AI event {month}",
+    "New York City hackathon {month}",
+    "New York City agentic AI workshop {month}",
+    "NYU tech event {month}",
+    "Columbia University AI event {month}",
+    "Cornell Tech event {month}",
+    "AI Tinkerers New York City {month}",
+    "online LangGraph CrewAI MCP agent workshop {month}"
+  ]
+}
