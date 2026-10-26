@@ -20,7 +20,7 @@ def raw(**overrides):
 
 
 def event_html(**overrides):
-    obj = {'@context':'https://schema.org','@type':'Event','name':'AI workshop','startDate':'2026-10-10T10:00:00-04:00','url':URL,'location':{'@type':'Place','name':'Innovation Hub','address':{'addressLocality':'New York City'}},'organizer':{'name':'Builders New York City'},'offers':{'price':'0','priceCurrency':'PKR'},'description':'A machine learning workshop'}
+    obj = {'@context':'https://schema.org','@type':'Event','name':'AI workshop','startDate':'2026-10-10T10:00:00-04:00','url':URL,'location':{'@type':'Place','name':'Innovation Hub','address':{'addressLocality':'New York City'}},'organizer':{'name':'Builders New York City'},'offers':{'price':'0','priceCurrency':'USD'},'description':'A machine learning workshop'}
     obj.update(overrides)
     return '<html><script type="application/ld+json">'+json.dumps({'@graph':[obj]})+'</script></html>'
 
