@@ -49,6 +49,18 @@ python -m agent.radar
 
 For isolated experiments, supply `--output .artifacts/live --state-dir .artifacts/state`. Credit accounting in a separate state directory does not include production usage, so keep one state directory for actual runs using the same key. Use `--config path/to/config.json` to select a different configuration.
 
+## Scope and sources
+
+The agent covers **in-person events in New York City** only. Online and hybrid events are rejected, and a venue counts as New York City when it mentions New York, NYC, Manhattan, Brooklyn, Queens, the Bronx or Staten Island.
+
+Sources are set in `agent/config.json`:
+
+- `listing_urls`: Eventbrite pages for New York City, science and tech, and machine learning.
+- `queries` and `free_queries`: web searches for NYC AI and developer meetups, GDG chapters, and university tech events at NYU, Columbia and Cornell Tech.
+- `timezone`: `America/New_York`. Event times are shown in Eastern Time, with daylight saving handled automatically.
+
+To cover another city, change the listing URLs, the search queries, the timezone, and the venue hints in `NYC_HINTS` in `agent/radar.py`.
+
 ## What the agent does
 
 1. Reads configured listing pages for Luma, Eventbrite, Meetup and GDG, discovers event links, and runs bounded Tavily basic searches for those sources, university societies, public LinkedIn/Facebook posts and online events. It respects robots.txt and never attempts a login or bypasses an access block.
