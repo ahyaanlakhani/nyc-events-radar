@@ -15,7 +15,7 @@ function calendarURL(event) {
   const params = new URLSearchParams({action:'TEMPLATE', text:event.title,
     dates: allDay ? `${day(event.start)}/${day(next)}` : `${stamp(event.start)}/${stamp(end)}`,
     details: `${event.description || ''}\n\n${safeURL(event.source_url)}`,
-    location: event.format === 'online' ? 'Online' : event.venue || 'New York City'});
+    location: event.venue || 'New York City'});
   return 'https://calendar.google.com/calendar/render?' + params;
 }
 const tagClasses = {'AI/ML':'tag-ai', Agents:'tag-agents', Sustainability:'tag-sustainability', Students:'tag-students'};
@@ -29,7 +29,7 @@ function card(event) {
   return `<article class="event-card">
     <div class="card-top"><div class="date-tile"><div class="date-box"><span>${localTime(event.start,{month:'short'})}</span><strong>${localTime(event.start,{day:'2-digit'})}</strong></div><div class="date-meta">${localTime(event.start,{weekday:'long'})}<span>${event.time_known === false ? 'Time to be confirmed' : localTime(event.start,{hour:'numeric',minute:'2-digit',hour12:true})+' ET'}</span></div></div>${newThisWeek ? '<span class="new-badge">New this week</span>' : ''}</div>
     <h3>${escapeHTML(event.title)}</h3><p class="organizer">${escapeHTML(event.organizer || 'Organizer not listed')}</p>
-    <div class="event-meta"><span class="meta-line">${icon}${escapeHTML(event.format === 'online' ? 'Online' : event.venue || 'New York City · venue TBC')}</span><span class="meta-line">${escapeHTML(event.cost || 'Cost not listed')}</span>${demo ? '' : `<a class="meta-line" href="${escapeHTML(calendarURL(event))}" target="_blank" rel="noopener noreferrer">+ Add to calendar</a>`}</div>
+    <div class="event-meta"><span class="meta-line">${icon}${escapeHTML(event.venue || 'New York City · venue TBC')}</span><span class="meta-line">${escapeHTML(event.cost || 'Cost not listed')}</span>${demo ? '' : `<a class="meta-line" href="${escapeHTML(calendarURL(event))}" target="_blank" rel="noopener noreferrer">+ Add to calendar</a>`}</div>
     <p class="description">${escapeHTML(event.description)}</p><div class="tags">${categoryTags}${event.student_only ? '<span class="tag tag-students">Students only</span>' : ''}</div>
     <div class="card-bottom"><div class="source-info"><span class="verification ${verified && !demo ? 'verified' : ''}">${demo ? '◇ SAMPLE EVENT' : verified ? '✓ SOURCE VERIFIED' : '◇ UNVERIFIED'}</span>${source && !demo ? `<a href="${escapeHTML(source)}" target="_blank" rel="noopener noreferrer">${escapeHTML(event.source_name)}</a>` : `<span style="display:block;margin-top:3px">${escapeHTML(event.source_name)}</span>`}</div>${demo || !registration ? '<button class="register" disabled>Sample event</button>' : `<a class="register" href="${escapeHTML(registration)}" target="_blank" rel="noopener noreferrer">${event.registration_url ? 'Register' : 'View event'}</a>`}</div>
     ${!demo ? `<details class="evidence"><summary>Evidence · ${Number(event.confidence)||0}/100</summary><p>${escapeHTML(event.verification_reason)}<br>Last checked: ${event.last_checked ? localTime(event.last_checked,{day:'numeric',month:'short',hour:'2-digit',minute:'2-digit'})+' ET' : 'Not checked'}</p></details>` : ''}
