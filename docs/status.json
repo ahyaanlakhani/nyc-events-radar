@@ -1,17 +1,6 @@
 {
-  "state": "partial",
-  "last_attempt": "2026-10-27T18:36:08.669428+00:00",
+  "state": "failed",
+  "last_attempt": "2026-10-28T18:43:26.327737+00:00",
   "last_success": "2026-10-27T18:36:08.669428+00:00",
-  "message": "13 upcoming events",
-  "warnings": [
-    "Eventbrite: discovery page unavailable",
-    "Eventbrite: event page unavailable",
-    "Free web search unavailable",
-    "LinkedIn: event page unavailable",
-    "No extraction key configured; only structured event data can be read",
-    "Tavily key not configured; using free web search only"
-  ],
-  "pages_checked": 8,
-  "llm_calls": 0,
-  "search_credits_reserved": 0
+  "message": "Collection stopped unexpectedly. Inspect workflow configuration and retry."
 }
