@@ -1,18 +1,25 @@
 {
   "state": "partial",
-  "last_attempt": "2026-11-03T19:59:23.696511+00:00",
-  "last_success": "2026-11-03T19:59:23.696511+00:00",
-  "message": "61 upcoming events",
+  "last_attempt": "2026-11-04T20:20:18.563704+00:00",
+  "last_success": "2026-11-04T20:20:18.563704+00:00",
+  "message": "55 upcoming events",
   "warnings": [
     "Eventbrite: discovery page unavailable",
-    "Facebook: event page unavailable",
-    "Free web search unavailable",
+    "Eventbrite: event page unavailable",
     "No extraction key configured; only structured event data can be read",
     "Page budget reached; some sources await the next run",
     "Some events retained from earlier checks",
-    "Tavily key not configured; using free web search only"
+    "Tavily key not configured; using free web search only",
+    "allnyu.nyu.edu: event page unavailable",
+    "apnews.com: event page unavailable",
+    "cloud.google.com: event page unavailable",
+    "cnn.com: event page unavailable",
+    "en.wikipedia.org: event page unavailable",
+    "news.google.com: event page unavailable",
+    "nytimes.com: event page unavailable",
+    "nyu.edu: event page unavailable"
   ],
-  "pages_checked": 54,
+  "pages_checked": 44,
   "llm_calls": 0,
   "search_credits_reserved": 0
 }
