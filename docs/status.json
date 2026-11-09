@@ -1,25 +1,6 @@
 {
-  "state": "partial",
-  "last_attempt": "2026-11-08T18:15:35.041869+00:00",
+  "state": "failed",
+  "last_attempt": "2026-11-09T22:55:40.993690+00:00",
   "last_success": "2026-11-08T18:15:35.041869+00:00",
-  "message": "45 upcoming events",
-  "warnings": [
-    "Eventbrite: discovery page unavailable",
-    "No extraction key configured; only structured event data can be read",
-    "Page budget reached; some sources await the next run",
-    "Some events retained from earlier checks",
-    "Tavily key not configured; using free web search only",
-    "amazon.com: event page unavailable",
-    "cloud.google.com: event page unavailable",
-    "cnn.com: event page unavailable",
-    "columbia.com: event page unavailable",
-    "columbia.edu: event page unavailable",
-    "en.wikipedia.org: event page unavailable",
-    "events.trymimetic.com: event page unavailable",
-    "nytimes.com: event page unavailable",
-    "nyu.edu: event page unavailable"
-  ],
-  "pages_checked": 47,
-  "llm_calls": 0,
-  "search_credits_reserved": 0
+  "message": "Collection stopped unexpectedly. Inspect workflow configuration and retry."
 }
