@@ -1,6 +1,19 @@
 {
-  "state": "failed",
-  "last_attempt": "2026-11-11T20:05:34.807093+00:00",
-  "last_success": "2026-11-10T20:20:24.381421+00:00",
-  "message": "Collection stopped unexpectedly. Inspect workflow configuration and retry."
+  "state": "partial",
+  "last_attempt": "2026-11-12T20:41:42.016734+00:00",
+  "last_success": "2026-11-12T20:41:42.016734+00:00",
+  "message": "124 upcoming events",
+  "warnings": [
+    "Eventbrite: discovery page unavailable",
+    "Facebook: event page unavailable",
+    "No extraction key configured; only structured event data can be read",
+    "Page budget reached; some sources await the next run",
+    "Some events retained from earlier checks",
+    "Tavily key not configured; using free web search only",
+    "events.trymimetic.com: event page unavailable",
+    "intelligententerpriseleaders.com: event page unavailable"
+  ],
+  "pages_checked": 50,
+  "llm_calls": 0,
+  "search_credits_reserved": 0
 }
