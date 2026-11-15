@@ -1,458 +1,9 @@
 {
   "schema_version": 1,
   "mode": "live",
-  "generated_at": "2026-11-14T18:40:25.253468+00:00",
+  "generated_at": "2026-11-15T19:17:46.506111+00:00",
   "timezone": "America/New_York",
   "events": [
-    {
-      "id": "6b9a356a525b9ffb",
-      "title": "Robot Hackathon: Edge of Intelligence",
-      "start": "2026-11-13T09:00:00-05:00",
-      "end": "2026-11-14T18:00:00-05:00",
-      "time_known": true,
-      "venue": "Viam, Viam, 1900 Broadway, New York, NY 10023, USA, New York, United States",
-      "format": "in-person",
-      "organizer": "",
-      "description": "Run OpenVINO models on a real robot arm. About the event Viam and Intel are hosting a two-day, hands-on hackathon for engineers who want to run vision and robot-policy models on real hardware. Every team gets a robot arm, a gripper, a depth camera, and a compute machine with an Intel ® CoreTM Ultra Series 3 processor and integrated Arc GPU and NPU.",
-      "categories": [
-        "Emerging Tech"
-      ],
-      "cost": "Cost not listed",
-      "is_free": null,
-      "student_only": false,
-      "source_url": "https://www.hackathonradar.com/database/hackathon/robot-hackathon-edge-of-intelligence-2026",
-      "source_name": "hackathonradar.com",
-      "registration_url": "https://www.hackathonradar.com/database/hackathon/robot-hackathon-edge-of-intelligence-2026",
-      "verification": "verified",
-      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
-      "confidence": 90,
-      "first_seen": "2026-11-12T20:41:42.016734+00:00",
-      "last_checked": "2026-11-14T18:40:25.253468+00:00",
-      "sources": [
-        "https://www.hackathonradar.com/database/hackathon/robot-hackathon-edge-of-intelligence-2026"
-      ],
-      "extraction": "jsonld"
-    },
-    {
-      "id": "e17180245c4984a6",
-      "title": "AEC Tech NYC Hackathon 2026",
-      "start": "2026-11-14T00:00:00-05:00",
-      "end": "2026-11-15T00:00:00-05:00",
-      "time_known": false,
-      "venue": "Thornton Tomasetti’s downtown office, New York, US",
-      "format": "in-person",
-      "organizer": "AEC Tech",
-      "description": "Build an AEC-focused prototype in 26 hours at AEC Tech’s in-person hackathon, taking place 14–15 November 2026 in New York. Open to all experience levels, the hackathon brings together programmers, developers, engineers and other members of the architecture, engineering and construction community. Attendees will form teams, develop new ideas and pr",
-      "categories": [
-        "Emerging Tech"
-      ],
-      "cost": "Cost not listed",
-      "is_free": null,
-      "student_only": false,
-      "source_url": "https://createwith.com/event/new-york-aec-tech-nyc-hackathon-2026-nov-2026",
-      "source_name": "createwith.com",
-      "registration_url": "https://createwith.com/event/new-york-aec-tech-nyc-hackathon-2026-nov-2026",
-      "verification": "verified",
-      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
-      "confidence": 90,
-      "first_seen": "2026-11-13T20:23:37.001585+00:00",
-      "last_checked": "2026-11-14T18:40:25.253468+00:00",
-      "sources": [
-        "https://createwith.com/event/new-york-aec-tech-nyc-hackathon-2026-nov-2026"
-      ],
-      "extraction": "jsonld"
-    },
-    {
-      "id": "1962c436ded4bfbb",
-      "title": "GISMO presents NYC GeoAI Hackathon 2026",
-      "start": "2026-11-14T09:00:00-05:00",
-      "end": "2026-11-14T18:00:00-05:00",
-      "time_known": true,
-      "venue": "New York, New York, United States",
-      "format": "in-person",
-      "organizer": "",
-      "description": "GISMO NYC presents NYC GeoAI Hackathon 2026 in association with Pratt Institute, NYU Data Services, and Center for Urban Science + Progress at NYU Tandon. Create AI-ready geospatial data. Solve real-world challenges",
-      "categories": [
-        "AI/ML",
-        "Emerging Tech"
-      ],
-      "cost": "Cost not listed",
-      "is_free": null,
-      "student_only": false,
-      "source_url": "https://www.hackathonradar.com/database/hackathon/gismo-presents-nyc-geoai-hackathon-2026",
-      "source_name": "hackathonradar.com",
-      "registration_url": "https://www.hackathonradar.com/database/hackathon/gismo-presents-nyc-geoai-hackathon-2026",
-      "verification": "verified",
-      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
-      "confidence": 90,
-      "first_seen": "2026-10-31T17:33:08.775142+00:00",
-      "last_checked": "2026-11-14T18:40:25.253468+00:00",
-      "sources": [
-        "https://www.hackathonradar.com/database/hackathon/gismo-presents-nyc-geoai-hackathon-2026"
-      ],
-      "extraction": "jsonld"
-    },
-    {
-      "id": "daabf4f2a7dc3b1c",
-      "title": "Ground Truth: The Live Agents Hackathon - powered by You.com | 500 USD Cash prize",
-      "start": "2026-11-14T09:00:00-05:00",
-      "end": "2026-11-14T18:00:00-05:00",
-      "time_known": true,
-      "venue": "Ground Truth: The Live Agents Hackathon - powered by You.com, Ground Truth: The Live Agents Hackathon - powered by You.com, Brooklyn, United States",
-      "format": "in-person",
-      "organizer": "",
-      "description": "Event description Every AI model you've ever used is stuck in the past. Ground Truth is a one-day hackathon where you fix that. Join localhost:nyc, The Builder Series and You.com for 10 hours of building AI agents grounded in the live web. Real-time data, deep research, verifiable answers. Come build the kind of agent people would trust with a real",
-      "categories": [
-        "AI/ML",
-        "Agents",
-        "Emerging Tech"
-      ],
-      "cost": "Cost not listed",
-      "is_free": null,
-      "student_only": false,
-      "source_url": "https://www.hackathonradar.com/database/hackathon/ground-truth-the-live-agents-hackathon-powered-by-you-com-50-2026",
-      "source_name": "hackathonradar.com",
-      "registration_url": "https://www.hackathonradar.com/database/hackathon/ground-truth-the-live-agents-hackathon-powered-by-you-com-50-2026",
-      "verification": "verified",
-      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
-      "confidence": 90,
-      "first_seen": "2026-11-01T18:18:39.814150+00:00",
-      "last_checked": "2026-11-14T18:40:25.253468+00:00",
-      "sources": [
-        "https://www.hackathonradar.com/database/hackathon/ground-truth-the-live-agents-hackathon-powered-by-you-com-50-2026"
-      ],
-      "extraction": "jsonld"
-    },
-    {
-      "id": "00a8603b9dcb7382",
-      "title": "Ground Truth: The Live Agents Hackathon - powered by You.com",
-      "start": "2026-11-14T09:00:00-05:00",
-      "end": "2026-11-14T18:00:00-05:00",
-      "time_known": true,
-      "venue": "Brooklyn, NY, New York City, NY",
-      "format": "in-person",
-      "organizer": "The Builder Series NYC, Somya Gupta, Dylan Oriundo, Olivia Iarmak, Celia Davis, Aventa, Madison Lee, Manish Tyagi, Shalin Patel, XDC Tech, Dominic Smith, Sahar ",
-      "description": "Sat, Nov 14, 9 AM in New York City. Free. Hosted by The Builder Series NYC, Somya Gupta. Event description Every AI model you've ever used is stuck in the",
-      "categories": [
-        "AI/ML",
-        "Agents",
-        "Emerging Tech"
-      ],
-      "cost": "Free",
-      "is_free": true,
-      "student_only": false,
-      "source_url": "https://events.trymimetic.com/events/nyc/ground-truth-the-live-agents-hackathon-powered-by-youcom-nov-2026",
-      "source_name": "events.trymimetic.com",
-      "registration_url": "https://events.trymimetic.com/events/nyc/ground-truth-the-live-agents-hackathon-powered-by-youcom-nov-2026",
-      "verification": "verified",
-      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
-      "confidence": 90,
-      "first_seen": "2026-11-10T20:20:24.381421+00:00",
-      "last_checked": "2026-11-14T18:40:25.253468+00:00",
-      "sources": [
-        "https://events.trymimetic.com/events/nyc/ground-truth-the-live-agents-hackathon-powered-by-youcom-nov-2026"
-      ],
-      "extraction": "jsonld"
-    },
-    {
-      "id": "daabf4f2a7dc3b1c",
-      "title": "Ground Truth: The Live Agents Hackathon - powered by You.com | 500 USD Cash prize",
-      "start": "2026-11-14T09:00:00-05:00",
-      "end": "2026-11-14T18:00:00-05:00",
-      "time_known": true,
-      "venue": "New York, New York",
-      "format": "in-person",
-      "organizer": "localhost:nyc",
-      "description": "Event description Every AI model you've ever used is stuck in the past. Ground Truth is a one-day hackathon where you fix that. Join localhost:nyc, The Builder",
-      "categories": [
-        "AI/ML",
-        "Agents",
-        "Emerging Tech"
-      ],
-      "cost": "Cost not listed",
-      "is_free": null,
-      "student_only": false,
-      "source_url": "https://arclight.events/event/ground-truth-the-live-agents-hackathon-powered-by-you-com-50-wxnhjq",
-      "source_name": "arclight.events",
-      "registration_url": "https://arclight.events/event/ground-truth-the-live-agents-hackathon-powered-by-you-com-50-wxnhjq",
-      "verification": "verified",
-      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
-      "confidence": 90,
-      "first_seen": "2026-11-01T18:18:39.814150+00:00",
-      "last_checked": "2026-11-14T18:40:25.253468+00:00",
-      "sources": [
-        "https://arclight.events/event/ground-truth-the-live-agents-hackathon-powered-by-you-com-50-wxnhjq"
-      ],
-      "extraction": "jsonld"
-    },
-    {
-      "id": "1962c436ded4bfbb",
-      "title": "GISMO presents NYC GeoAI Hackathon 2026",
-      "start": "2026-11-14T09:00:00-05:00",
-      "end": "2026-11-14T18:00:00-05:00",
-      "time_known": true,
-      "venue": "New York, New York",
-      "format": "in-person",
-      "organizer": "GISMO NYC Events",
-      "description": "GISMO NYC presents NYC GeoAI Hackathon 2026 in association with Pratt Institute, NYU Data Services, and Center for Urban Science + Progress at NYU Tandon. Creat",
-      "categories": [
-        "Emerging Tech"
-      ],
-      "cost": "Cost not listed",
-      "is_free": null,
-      "student_only": false,
-      "source_url": "https://arclight.events/event/gismo-presents-nyc-geoai-hackathon-2026-9brp2k",
-      "source_name": "arclight.events",
-      "registration_url": "https://arclight.events/event/gismo-presents-nyc-geoai-hackathon-2026-9brp2k",
-      "verification": "verified",
-      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
-      "confidence": 90,
-      "first_seen": "2026-11-12T20:41:42.016734+00:00",
-      "last_checked": "2026-11-14T18:40:25.253468+00:00",
-      "sources": [
-        "https://arclight.events/event/gismo-presents-nyc-geoai-hackathon-2026-9brp2k"
-      ],
-      "extraction": "jsonld"
-    },
-    {
-      "id": "c894ae3a8cb8a62f",
-      "title": "AI Hackathon: Hack the Unreachable",
-      "start": "2026-11-14T10:00:00-05:00",
-      "end": "2026-11-14T18:30:00-05:00",
-      "time_known": true,
-      "venue": "Gabelli School of Business, Gabelli School of Business, 140 W 62nd St, New York, NY 10023, USA, New York, United States",
-      "format": "in-person",
-      "organizer": "",
-      "description": "Hack the UnreachableAn AI research hackathon powered by Flashpoint.AI People say one thing and do another. Public narratives rarely match private sentiment. The most valuable signals sit with people no survey ever reaches. Spend a day building AI that closes that gap. Use Flashpoint.AI’s research platform and Anthropic’s models to build agents that",
-      "categories": [
-        "AI/ML",
-        "Agents",
-        "Emerging Tech"
-      ],
-      "cost": "Cost not listed",
-      "is_free": null,
-      "student_only": false,
-      "source_url": "https://www.hackathonradar.com/database/hackathon/ai-hackathon-hack-the-unreachable-2026",
-      "source_name": "hackathonradar.com",
-      "registration_url": "https://www.hackathonradar.com/database/hackathon/ai-hackathon-hack-the-unreachable-2026",
-      "verification": "verified",
-      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
-      "confidence": 90,
-      "first_seen": "2026-11-12T20:41:42.016734+00:00",
-      "last_checked": "2026-11-14T18:40:25.253468+00:00",
-      "sources": [
-        "https://www.hackathonradar.com/database/hackathon/ai-hackathon-hack-the-unreachable-2026"
-      ],
-      "extraction": "jsonld"
-    },
-    {
-      "id": "e315430d6adfbdd4",
-      "title": "Private Event",
-      "start": "2026-11-14T10:00:00-05:00",
-      "end": "2026-11-14T15:00:00-05:00",
-      "time_known": true,
-      "venue": "Fractal Tech, 111 Conselyea St Fl 2, Brooklyn, NY 11211, USA, Fractal Tech, 111 Conselyea St Fl 2, Brooklyn, NY 11211, USA",
-      "format": "in-person",
-      "organizer": "Fractal Campus NYC, Liam Duffy",
-      "description": "",
-      "categories": [
-        "Emerging Tech",
-        "Students"
-      ],
-      "cost": "Free",
-      "is_free": true,
-      "student_only": false,
-      "source_url": "https://luma.com/nyc-n7p4",
-      "source_name": "Luma",
-      "registration_url": "https://luma.com/nyc-n7p4",
-      "verification": "verified",
-      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
-      "confidence": 90,
-      "first_seen": "2026-11-10T20:20:24.381421+00:00",
-      "last_checked": "2026-11-14T18:40:25.253468+00:00",
-      "sources": [
-        "https://luma.com/nyc-n7p4"
-      ],
-      "extraction": "jsonld"
-    },
-    {
-      "id": "dbe98686ebd4866a",
-      "title": "Base44 × SideQuest Yale Jackpot Hackathon 🎰",
-      "start": "2026-11-14T13:00:00-05:00",
-      "end": "2026-11-14T17:00:00-05:00",
-      "time_known": true,
-      "venue": "New York, New York, United States",
-      "format": "in-person",
-      "organizer": "",
-      "description": "🎰 Pull the lever. Get a challenge. Build it. Hit the jackpot. Spend your Saturday turning an idea into a real, working app. Spin our slot machine (built on Base44, of course) for a surprise challenge, then build it with Base44 in just a few hours. No coding experience needed. We'll walk you through Base44 from zero, and Base44 credits will be provi",
-      "categories": [
-        "Emerging Tech"
-      ],
-      "cost": "Cost not listed",
-      "is_free": null,
-      "student_only": false,
-      "source_url": "https://www.hackathonradar.com/database/hackathon/base44-sidequest-yale-jackpot-hackathon-2026",
-      "source_name": "hackathonradar.com",
-      "registration_url": "https://www.hackathonradar.com/database/hackathon/base44-sidequest-yale-jackpot-hackathon-2026",
-      "verification": "verified",
-      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
-      "confidence": 90,
-      "first_seen": "2026-11-12T20:41:42.016734+00:00",
-      "last_checked": "2026-11-14T18:40:25.253468+00:00",
-      "sources": [
-        "https://www.hackathonradar.com/database/hackathon/base44-sidequest-yale-jackpot-hackathon-2026"
-      ],
-      "extraction": "jsonld"
-    },
-    {
-      "id": "dbe98686ebd4866a",
-      "title": "Base44 × SideQuest Yale Jackpot Hackathon 🎰",
-      "start": "2026-11-14T13:00:00-05:00",
-      "end": "2026-11-14T17:00:00-05:00",
-      "time_known": true,
-      "venue": "New York, New York",
-      "format": "in-person",
-      "organizer": "Aimee",
-      "description": "🎰 Pull the lever. Get a challenge. Build it. Hit the jackpot. Spend your Saturday turning an idea into a real, working app. Spin our slot machine (built on Bas",
-      "categories": [
-        "Emerging Tech"
-      ],
-      "cost": "Cost not listed",
-      "is_free": null,
-      "student_only": false,
-      "source_url": "https://arclight.events/event/base44-sidequest-yale-jackpot-hackathon-tqmolq",
-      "source_name": "arclight.events",
-      "registration_url": "https://arclight.events/event/base44-sidequest-yale-jackpot-hackathon-tqmolq",
-      "verification": "verified",
-      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
-      "confidence": 90,
-      "first_seen": "2026-11-12T20:41:42.016734+00:00",
-      "last_checked": "2026-11-14T18:40:25.253468+00:00",
-      "sources": [
-        "https://arclight.events/event/base44-sidequest-yale-jackpot-hackathon-tqmolq"
-      ],
-      "extraction": "jsonld"
-    },
-    {
-      "id": "71995803e83474d5",
-      "title": "Nov 14 - NYC Physical AI Workshop and Meetup",
-      "start": "2026-11-14T13:30:00-05:00",
-      "end": "2026-11-14T16:30:00-05:00",
-      "time_known": true,
-      "venue": "Kimmel Center for University Life, 60 Washington Square S, New York, NY 10012, USA, New York, NY, New York, NY, us",
-      "format": "in-person",
-      "organizer": "AI Professionals NYC Machine Learning",
-      "description": "Join us at NYU on Nov 14 for the NYC Physical AI Workshop and Meetup, co-presented by Nebius and Voxel51. Seats are limited, **[Pre-registration is mandat",
-      "categories": [
-        "AI/ML",
-        "Students"
-      ],
-      "cost": "Cost not listed",
-      "is_free": null,
-      "student_only": false,
-      "source_url": "https://www.meetup.com/ai-professionals-nyc-machine-learning/events/316518962",
-      "source_name": "Meetup",
-      "registration_url": "https://www.meetup.com/ai-professionals-nyc-machine-learning/events/316518962/",
-      "verification": "verified",
-      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
-      "confidence": 90,
-      "first_seen": "2026-10-27T18:36:08.669428+00:00",
-      "last_checked": "2026-11-14T18:40:25.253468+00:00",
-      "sources": [
-        "https://www.meetup.com/ai-professionals-nyc-machine-learning/events/316518962"
-      ],
-      "extraction": "jsonld"
-    },
-    {
-      "id": "de675335540cdcd9",
-      "title": "Nov 14 - Physical AI Workshop and Meetup",
-      "start": "2026-11-14T13:30:00-05:00",
-      "end": "2026-11-14T16:30:00-05:00",
-      "time_known": true,
-      "venue": "Kimmel Center for University Life, 60 Washington Square S, New York, NY 10012, USA, New York, NY, New York, NY, us",
-      "format": "in-person",
-      "organizer": "New York Computer Vision Meetup",
-      "description": "Join us at NYU on Nov 14 for the NYC Physical AI Workshop and Meetup, co-presented by Nebius and Voxel51. Seats are limited, **[Pre-registration is mandat",
-      "categories": [
-        "AI/ML",
-        "Students"
-      ],
-      "cost": "Cost not listed",
-      "is_free": null,
-      "student_only": false,
-      "source_url": "https://www.meetup.com/new-york-computer-vision-meetup/events/316518959",
-      "source_name": "Meetup",
-      "registration_url": "https://www.meetup.com/new-york-computer-vision-meetup/events/316518959/",
-      "verification": "verified",
-      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
-      "confidence": 90,
-      "first_seen": "2026-10-27T18:36:08.669428+00:00",
-      "last_checked": "2026-11-14T18:40:25.253468+00:00",
-      "sources": [
-        "https://www.meetup.com/new-york-computer-vision-meetup/events/316518959"
-      ],
-      "extraction": "jsonld"
-    },
-    {
-      "id": "71995803e83474d5",
-      "title": "Nov 14 - NYC Physical AI Workshop and Meetup",
-      "start": "2026-11-14T13:30:00-05:00",
-      "end": "2026-11-14T16:30:00-05:00",
-      "time_known": true,
-      "venue": "Kimmel Center for University Life, 60 Washington Square S, New York, NY 10012, USA, New York, NY, New York, NY, us",
-      "format": "in-person",
-      "organizer": "New York AI, Machine Learning and Computer Vision Meetup",
-      "description": "Join us at NYU on Nov 14 for the NYC Physical AI Workshop and Meetup, co-presented by Nebius and Voxel51. Seats are limited, **[Pre-registration is mandat",
-      "categories": [
-        "AI/ML",
-        "Students"
-      ],
-      "cost": "Cost not listed",
-      "is_free": null,
-      "student_only": false,
-      "source_url": "https://www.meetup.com/new-york-ai-machine-learning-data-science/events/316518960",
-      "source_name": "Meetup",
-      "registration_url": "https://www.meetup.com/new-york-ai-machine-learning-data-science/events/316518960/",
-      "verification": "verified",
-      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
-      "confidence": 90,
-      "first_seen": "2026-11-10T20:20:24.381421+00:00",
-      "last_checked": "2026-11-14T18:40:25.253468+00:00",
-      "sources": [
-        "https://www.meetup.com/new-york-ai-machine-learning-data-science/events/316518960"
-      ],
-      "extraction": "jsonld"
-    },
-    {
-      "id": "71995803e83474d5",
-      "title": "Nov 14 - NYC Physical AI Workshop and Meetup",
-      "start": "2026-11-14T13:30:00-05:00",
-      "end": "2026-11-14T16:30:00-05:00",
-      "time_known": true,
-      "venue": "Kimmel Center for University Life, 60 Washington Square S, New York, NY 10012, USA, New York, NY, New York, NY, us",
-      "format": "in-person",
-      "organizer": "NYC Computer Vision in Production",
-      "description": "Join us at NYU on Nov 14 for the NYC Physical AI Workshop and Meetup, co-presented by Nebius and Voxel51. Seats are limited, **[Pre-registration is mandat",
-      "categories": [
-        "AI/ML",
-        "Students"
-      ],
-      "cost": "Cost not listed",
-      "is_free": null,
-      "student_only": false,
-      "source_url": "https://www.meetup.com/nyc-computer-vision-in-production/events/316518961",
-      "source_name": "Meetup",
-      "registration_url": "https://www.meetup.com/nyc-computer-vision-in-production/events/316518961/",
-      "verification": "verified",
-      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
-      "confidence": 90,
-      "first_seen": "2026-11-10T20:20:24.381421+00:00",
-      "last_checked": "2026-11-14T18:40:25.253468+00:00",
-      "sources": [
-        "https://www.meetup.com/nyc-computer-vision-in-production/events/316518961"
-      ],
-      "extraction": "jsonld"
-    },
     {
       "id": "da67a8ad88956394",
       "title": "NYC/NJ Data Science & AI Professionals Social Meetup",
@@ -476,7 +27,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-14T18:40:25.253468+00:00",
-      "last_checked": "2026-11-14T18:40:25.253468+00:00",
+      "last_checked": "2026-11-15T19:17:46.506111+00:00",
       "sources": [
         "https://www.meetup.com/ny-nj-data-science-ai-professionals-group/events/316930679"
       ],
@@ -505,7 +56,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-10T20:20:24.381421+00:00",
-      "last_checked": "2026-11-14T18:40:25.253468+00:00",
+      "last_checked": "2026-11-15T19:17:46.506111+00:00",
       "sources": [
         "https://www.meetup.com/aws-nyc/events/317274346"
       ],
@@ -535,7 +86,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-12T20:41:42.016734+00:00",
-      "last_checked": "2026-11-14T18:40:25.253468+00:00",
+      "last_checked": "2026-11-15T19:17:46.506111+00:00",
       "sources": [
         "https://events.trymimetic.com/events/nyc/agents-unleashed-governance-built-in-nov-2026"
       ],
@@ -565,7 +116,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-10T20:20:24.381421+00:00",
-      "last_checked": "2026-11-14T18:40:25.253468+00:00",
+      "last_checked": "2026-11-15T19:17:46.506111+00:00",
       "sources": [
         "https://luma.com/e6ypfnyp"
       ],
@@ -595,7 +146,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-12T20:41:42.016734+00:00",
-      "last_checked": "2026-11-14T18:40:25.253468+00:00",
+      "last_checked": "2026-11-15T19:17:46.506111+00:00",
       "sources": [
         "https://events.trymimetic.com/events/nyc/nyc-b2b-healthcare-founders-investors-meetup-nov-2026"
       ],
@@ -625,7 +176,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-13T20:23:37.001585+00:00",
-      "last_checked": "2026-11-14T18:40:25.253468+00:00",
+      "last_checked": "2026-11-15T19:17:46.506111+00:00",
       "sources": [
         "https://createwith.com/event/new-york-the-ai-leadership-summit-nov-2026"
       ],
@@ -655,7 +206,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-01T18:18:39.814150+00:00",
-      "last_checked": "2026-11-14T18:40:25.253468+00:00",
+      "last_checked": "2026-11-15T19:17:46.506111+00:00",
       "sources": [
         "https://iabtechlab.com/event/iab-tech-lab-agentic-bootcamp-session-9"
       ],
@@ -684,7 +235,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-10T20:20:24.381421+00:00",
-      "last_checked": "2026-11-14T18:40:25.253468+00:00",
+      "last_checked": "2026-11-15T19:17:46.506111+00:00",
       "sources": [
         "https://www.meetup.com/iosoho/events/317280280"
       ],
@@ -698,8 +249,8 @@
       "time_known": true,
       "venue": "New York, NY, New York City, NY",
       "format": "in-person",
-      "organizer": "AI First Leaders, Boaz Descalo (AIfirst.fyi), Yael Barsheshet, Yonatan meir",
-      "description": "Tue, Nov 17, 6:30 PM in New York City. Sold out. Approval required. Hosted by AI First Leaders, Boaz Descalo (AIfirst.fyi). More AI events in New York City on Mimetic.",
+      "organizer": "Boaz Descalo (AIfirst.fyi), Yael Barsheshet, Yonatan meir",
+      "description": "Tue, Nov 17, 6:30 PM in New York City. Sold out. Approval required. Hosted by Boaz Descalo (AIfirst.fyi), Yael Barsheshet. More AI events in New York City on Mimetic.",
       "categories": [
         "AI/ML",
         "Emerging Tech"
@@ -714,10 +265,9 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-10T20:20:24.381421+00:00",
-      "last_checked": "2026-11-14T18:40:25.253468+00:00",
+      "last_checked": "2026-11-15T19:17:46.506111+00:00",
       "sources": [
-        "https://events.trymimetic.com/events/nyc/build-connect-nyc-learn-how-to-ship-software-with-ai-nov-2026",
-        "https://luma.com/ai-cdn0"
+        "https://events.trymimetic.com/events/nyc/build-connect-nyc-learn-how-to-ship-software-with-ai-nov-2026"
       ],
       "extraction": "jsonld"
     },
@@ -745,7 +295,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-12T20:41:42.016734+00:00",
-      "last_checked": "2026-11-14T18:40:25.253468+00:00",
+      "last_checked": "2026-11-15T19:17:46.506111+00:00",
       "sources": [
         "https://events.trymimetic.com/events/nyc/cogent-x-rillet-tech-talk-candle-making-nov-2026"
       ],
@@ -775,7 +325,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-10T20:20:24.381421+00:00",
-      "last_checked": "2026-11-14T18:40:25.253468+00:00",
+      "last_checked": "2026-11-15T19:17:46.506111+00:00",
       "sources": [
         "https://luma.com/uxxmtqz8"
       ],
@@ -833,7 +383,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-12T20:41:42.016734+00:00",
-      "last_checked": "2026-11-14T18:40:25.253468+00:00",
+      "last_checked": "2026-11-15T19:17:46.506111+00:00",
       "sources": [
         "https://events.trymimetic.com/events/nyc/agentic-ads-nyc-founders-dinner-nov-2026"
       ],
@@ -847,8 +397,8 @@
       "time_known": true,
       "venue": "New York, NY, New York City, NY",
       "format": "in-person",
-      "organizer": "Abaka AI, Ernesto Ng Chen, Priscilla Wang, Yunfei Zhao",
-      "description": "Tue, Nov 17, 8 PM in New York City. Free. Approval required. Hosted by Abaka AI, Ernesto Ng Chen. Abaka AI is back in New York! 🗽 Join us for The Talent",
+      "organizer": "Ernesto Ng Chen, Priscilla Wang, Yunfei Zhao",
+      "description": "Tue, Nov 17, 8 PM in New York City. Free. Approval required. Hosted by Ernesto Ng Chen, Priscilla Wang. Abaka AI is back in New York! 🗽 Join us for The",
       "categories": [
         "AI/ML"
       ],
@@ -862,7 +412,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-12T20:41:42.016734+00:00",
-      "last_checked": "2026-11-14T18:40:25.253468+00:00",
+      "last_checked": "2026-11-15T19:17:46.506111+00:00",
       "sources": [
         "https://events.trymimetic.com/events/nyc/the-talent-mixer-new-york-edition-nov-2026"
       ],
@@ -892,7 +442,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-12T20:41:42.016734+00:00",
-      "last_checked": "2026-11-14T18:40:25.253468+00:00",
+      "last_checked": "2026-11-15T19:17:46.506111+00:00",
       "sources": [
         "https://events.trymimetic.com/events/nyc/tech-social-supermoon-spring-place-nyc-nov-2026"
       ],
@@ -921,7 +471,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-10T20:20:24.381421+00:00",
-      "last_checked": "2026-11-14T18:40:25.253468+00:00",
+      "last_checked": "2026-11-15T19:17:46.506111+00:00",
       "sources": [
         "https://luma.com/plainNYCHH"
       ],
@@ -951,7 +501,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-02T22:13:28.997432+00:00",
-      "last_checked": "2026-11-14T18:40:25.253468+00:00",
+      "last_checked": "2026-11-15T19:17:46.506111+00:00",
       "sources": [
         "https://nyc.aitinkerers.org/p/gtm-engineering-demo-day-ft-circleci"
       ],
@@ -966,7 +516,7 @@
       "venue": "Brooklyn, NY, New York City, NY",
       "format": "in-person",
       "organizer": "Eric Tang, Sahar Mor (Bond AI), Xuelong Mu",
-      "description": "Wed, Nov 18, 6 PM in New York City. Free. 267 attending. Approval required. Hosted by Eric Tang, Sahar Mor (Bond AI). More AI events in New York City on Mimetic.",
+      "description": "Wed, Nov 18, 6 PM in New York City. Free. 296 attending. Approval required. Hosted by Eric Tang, Sahar Mor (Bond AI). More AI events in New York City on Mimetic.",
       "categories": [
         "AI/ML"
       ],
@@ -980,7 +530,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-12T20:41:42.016734+00:00",
-      "last_checked": "2026-11-14T18:40:25.253468+00:00",
+      "last_checked": "2026-11-15T19:17:46.506111+00:00",
       "sources": [
         "https://events.trymimetic.com/events/nyc/nyc-creative-ai-november-forum-nov-2026"
       ],
@@ -1009,7 +559,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-10T20:20:24.381421+00:00",
-      "last_checked": "2026-11-14T18:40:25.253468+00:00",
+      "last_checked": "2026-11-15T19:17:46.506111+00:00",
       "sources": [
         "https://www.meetup.com/startup-valley/events/316974153"
       ],
@@ -1038,7 +588,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-10T20:20:24.381421+00:00",
-      "last_checked": "2026-11-14T18:40:25.253468+00:00",
+      "last_checked": "2026-11-15T19:17:46.506111+00:00",
       "sources": [
         "https://www.meetup.com/startup-valley/events/316974164"
       ],
@@ -1067,7 +617,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-10T20:20:24.381421+00:00",
-      "last_checked": "2026-11-14T18:40:25.253468+00:00",
+      "last_checked": "2026-11-15T19:17:46.506111+00:00",
       "sources": [
         "https://www.meetup.com/startup-valley/events/316974172"
       ],
@@ -1097,7 +647,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-10T20:20:24.381421+00:00",
-      "last_checked": "2026-11-14T18:40:25.253468+00:00",
+      "last_checked": "2026-11-15T19:17:46.506111+00:00",
       "sources": [
         "https://luma.com/6hrc7f3o"
       ],
@@ -1127,7 +677,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-10T20:20:24.381421+00:00",
-      "last_checked": "2026-11-14T18:40:25.253468+00:00",
+      "last_checked": "2026-11-15T19:17:46.506111+00:00",
       "sources": [
         "https://luma.com/ozb7lz0u"
       ],
@@ -1157,7 +707,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-14T18:40:25.253468+00:00",
-      "last_checked": "2026-11-14T18:40:25.253468+00:00",
+      "last_checked": "2026-11-15T19:17:46.506111+00:00",
       "sources": [
         "https://createwith.com/event/new-york-agentic-ai-summit-toronto-nov-2026"
       ],
@@ -1172,7 +722,7 @@
       "venue": "113 W 38th St, New York, NY 10018, USA, 113 W 38th St, New York, NY 10018, USA, New York City, NY",
       "format": "in-person",
       "organizer": "Pooja Mistry",
-      "description": "Thu, Nov 19, 5:30 PM at 113 W 38th St, New York City. Free. 467 attending. Hosted by Pooja Mistry. Join us for another awesome Agents and APIs Developer",
+      "description": "Thu, Nov 19, 5:30 PM at 113 W 38th St, New York City. Free. 474 attending. Hosted by Pooja Mistry. Join us for another awesome Agents and APIs Developer",
       "categories": [
         "Agents",
         "Emerging Tech"
@@ -1187,7 +737,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-14T18:40:25.253468+00:00",
-      "last_checked": "2026-11-14T18:40:25.253468+00:00",
+      "last_checked": "2026-11-15T19:17:46.506111+00:00",
       "sources": [
         "https://events.trymimetic.com/events/nyc/agents-apis-nyc-developer-meetup-nov-2026"
       ],
@@ -1217,7 +767,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-14T18:40:25.253468+00:00",
-      "last_checked": "2026-11-14T18:40:25.253468+00:00",
+      "last_checked": "2026-11-15T19:17:46.506111+00:00",
       "sources": [
         "https://luma.com/nyc-nov"
       ],
@@ -1246,7 +796,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-10T20:20:24.381421+00:00",
-      "last_checked": "2026-11-14T18:40:25.253468+00:00",
+      "last_checked": "2026-11-15T19:17:46.506111+00:00",
       "sources": [
         "https://www.meetup.com/aittg-nyc/events/317292418"
       ],
@@ -1275,7 +825,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-10T20:20:24.381421+00:00",
-      "last_checked": "2026-11-14T18:40:25.253468+00:00",
+      "last_checked": "2026-11-15T19:17:46.506111+00:00",
       "sources": [
         "https://www.meetup.com/celestial-ds-ny/events/317292429"
       ],
@@ -1305,7 +855,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-10T20:20:24.381421+00:00",
-      "last_checked": "2026-11-14T18:40:25.253468+00:00",
+      "last_checked": "2026-11-15T19:17:46.506111+00:00",
       "sources": [
         "https://www.meetup.com/nyc-agentic-enterprise-ai/events/317292430"
       ],
@@ -1334,7 +884,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-10T20:20:24.381421+00:00",
-      "last_checked": "2026-11-14T18:40:25.253468+00:00",
+      "last_checked": "2026-11-15T19:17:46.506111+00:00",
       "sources": [
         "https://luma.com/data-at-the-skyline-nyc"
       ],
@@ -1349,7 +899,7 @@
       "venue": "Broadway Comedy Club, 318 W 53rd St, New York, NY 10019, USA, Broadway Comedy Club, 318 W 53rd St, New York, NY 10019, USA, New York City, NY",
       "format": "in-person",
       "organizer": "Neal Patel",
-      "description": "Thu, Nov 19, 6:30 PM at Broadway Comedy Club, New York City. $20. 48 attending. Hosted by Neal Patel. Join us for the 31st edition of Artificially",
+      "description": "Thu, Nov 19, 6:30 PM at Broadway Comedy Club, New York City. $20. 50 attending. Hosted by Neal Patel. Join us for the 31st edition of Artificially",
       "categories": [
         "Emerging Tech"
       ],
@@ -1363,7 +913,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-12T20:41:42.016734+00:00",
-      "last_checked": "2026-11-14T18:40:25.253468+00:00",
+      "last_checked": "2026-11-15T19:17:46.506111+00:00",
       "sources": [
         "https://events.trymimetic.com/events/nyc/artificially-unintelligent-nyc-tech-comedy-show-november-nov-2026"
       ],
@@ -1393,7 +943,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-10T20:20:24.381421+00:00",
-      "last_checked": "2026-11-14T18:40:25.253468+00:00",
+      "last_checked": "2026-11-15T19:17:46.506111+00:00",
       "sources": [
         "https://luma.com/sbniif7r"
       ],
@@ -1422,7 +972,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-12T20:41:42.016734+00:00",
-      "last_checked": "2026-11-14T18:40:25.253468+00:00",
+      "last_checked": "2026-11-15T19:17:46.506111+00:00",
       "sources": [
         "https://events.trymimetic.com/events/nyc/flatiron-ai-reading-group-flair-nov-2026-3"
       ],
@@ -1437,7 +987,7 @@
       "venue": "New York, NY, New York City, NY",
       "format": "in-person",
       "organizer": "Yining Hua, Manuel Cherep, Stephan Rabanser, Hongbin Na, Yilun Hua, abhinav kumar, Katie Nasta, Sahar Mor (Bond AI)",
-      "description": "Fri, Nov 20, 9 AM in New York City. Free. 158 attending. Approval required. Hosted by Yining Hua, Manuel Cherep. Presented by EvalScience, Agent Evaluation",
+      "description": "Fri, Nov 20, 9 AM in New York City. Free. 157 attending. Approval required. Hosted by Yining Hua, Manuel Cherep. Presented by EvalScience, Agent Evaluation",
       "categories": [
         "AI/ML",
         "Agents"
@@ -1452,7 +1002,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-10T20:20:24.381421+00:00",
-      "last_checked": "2026-11-14T18:40:25.253468+00:00",
+      "last_checked": "2026-11-15T19:17:46.506111+00:00",
       "sources": [
         "https://events.trymimetic.com/events/nyc/agent-evaluation-science-nyc-nov-2026"
       ],
@@ -1481,7 +1031,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-12T20:41:42.016734+00:00",
-      "last_checked": "2026-11-14T18:40:25.253468+00:00",
+      "last_checked": "2026-11-15T19:17:46.506111+00:00",
       "sources": [
         "https://events.trymimetic.com/events/nyc/pms-unfiltered-where-ai-builders-talk-shop-nov-2026"
       ],
@@ -1510,7 +1060,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-12T20:41:42.016734+00:00",
-      "last_checked": "2026-11-14T18:40:25.253468+00:00",
+      "last_checked": "2026-11-15T19:17:46.506111+00:00",
       "sources": [
         "https://www.hackathonradar.com/database/hackathon/worn-smart-glasses-hackathon-2026"
       ],
@@ -1540,7 +1090,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-12T20:41:42.016734+00:00",
-      "last_checked": "2026-11-14T18:40:25.253468+00:00",
+      "last_checked": "2026-11-15T19:17:46.506111+00:00",
       "sources": [
         "https://events.trymimetic.com/events/nyc/worn-smart-glasses-hackathon-nov-2026"
       ],
@@ -1569,7 +1119,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-01T18:18:39.814150+00:00",
-      "last_checked": "2026-11-14T18:40:25.253468+00:00",
+      "last_checked": "2026-11-15T19:17:46.506111+00:00",
       "sources": [
         "https://arclight.events/event/worn-smart-glasses-hackathon-hcrccn"
       ],
@@ -1600,7 +1150,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-10T20:20:24.381421+00:00",
-      "last_checked": "2026-11-14T18:40:25.253468+00:00",
+      "last_checked": "2026-11-15T19:17:46.506111+00:00",
       "sources": [
         "https://luma.com/smart-glass-hack-nyc"
       ],
@@ -1610,7 +1160,7 @@
       "id": "d71a3889b74baf4b",
       "title": "Indie Game Night",
       "start": "2026-11-20T18:00:00-05:00",
-      "end": null,
+      "end": "2026-11-20T21:00:00-05:00",
       "time_known": true,
       "venue": "Fractal Tech, Fractal Tech, Brooklyn, New York, US",
       "format": "in-person",
@@ -1624,12 +1174,12 @@
       "student_only": false,
       "source_url": "https://luma.com/11drklfs",
       "source_name": "Luma",
-      "registration_url": "",
-      "verification": "unverified",
-      "verification_reason": "Retained from an earlier collection. This run could not confirm the event again; check the source for changes.",
-      "confidence": 25,
+      "registration_url": "https://luma.com/11drklfs",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
       "first_seen": "2026-11-10T20:20:24.381421+00:00",
-      "last_checked": "2026-11-10T20:20:24.381421+00:00",
+      "last_checked": "2026-11-15T19:17:46.506111+00:00",
       "sources": [
         "https://luma.com/11drklfs"
       ],
@@ -1653,12 +1203,12 @@
       "student_only": false,
       "source_url": "https://events.trymimetic.com/events/nyc/nba-x-ai-research-brooklyn-nets-vs-orlando-magic-luxury-suite-nov-2026",
       "source_name": "events.trymimetic.com",
-      "registration_url": "",
-      "verification": "unverified",
-      "verification_reason": "Retained from an earlier collection. This run could not confirm the event again; check the source for changes.",
-      "confidence": 25,
+      "registration_url": "https://events.trymimetic.com/events/nyc/nba-x-ai-research-brooklyn-nets-vs-orlando-magic-luxury-suite-nov-2026",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
       "first_seen": "2026-11-12T20:41:42.016734+00:00",
-      "last_checked": "2026-11-12T20:41:42.016734+00:00",
+      "last_checked": "2026-11-15T19:17:46.506111+00:00",
       "sources": [
         "https://events.trymimetic.com/events/nyc/nba-x-ai-research-brooklyn-nets-vs-orlando-magic-luxury-suite-nov-2026"
       ],
@@ -1683,12 +1233,12 @@
       "student_only": false,
       "source_url": "https://www.hackathonradar.com/database/hackathon/gemini-4-argon-nyc-hackathon-2026",
       "source_name": "hackathonradar.com",
-      "registration_url": "",
-      "verification": "unverified",
-      "verification_reason": "Retained from an earlier collection. This run could not confirm the event again; check the source for changes.",
-      "confidence": 25,
+      "registration_url": "https://www.hackathonradar.com/database/hackathon/gemini-4-argon-nyc-hackathon-2026",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
       "first_seen": "2026-11-12T20:41:42.016734+00:00",
-      "last_checked": "2026-11-13T20:23:37.001585+00:00",
+      "last_checked": "2026-11-15T19:17:46.506111+00:00",
       "sources": [
         "https://www.hackathonradar.com/database/hackathon/gemini-4-argon-nyc-hackathon-2026"
       ],
@@ -1713,12 +1263,12 @@
       "student_only": false,
       "source_url": "https://events.trymimetic.com/events/nyc/gemini-4-nyc-hackathon-nov-2026",
       "source_name": "events.trymimetic.com",
-      "registration_url": "",
-      "verification": "unverified",
-      "verification_reason": "Retained from an earlier collection. This run could not confirm the event again; check the source for changes.",
-      "confidence": 25,
+      "registration_url": "https://events.trymimetic.com/events/nyc/gemini-4-nyc-hackathon-nov-2026",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
       "first_seen": "2026-11-12T20:41:42.016734+00:00",
-      "last_checked": "2026-11-13T20:23:37.001585+00:00",
+      "last_checked": "2026-11-15T19:17:46.506111+00:00",
       "sources": [
         "https://events.trymimetic.com/events/nyc/gemini-4-nyc-hackathon-nov-2026"
       ],
@@ -1742,12 +1292,12 @@
       "student_only": false,
       "source_url": "https://cerebralvalley.ai/e/gemini-4-nyc",
       "source_name": "cerebralvalley.ai",
-      "registration_url": "",
-      "verification": "unverified",
-      "verification_reason": "Retained from an earlier collection. This run could not confirm the event again; check the source for changes.",
-      "confidence": 25,
+      "registration_url": "https://cerebralvalley.ai/e/gemini-4-nyc",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
       "first_seen": "2026-11-12T20:41:42.016734+00:00",
-      "last_checked": "2026-11-12T20:41:42.016734+00:00",
+      "last_checked": "2026-11-15T19:17:46.506111+00:00",
       "sources": [
         "https://cerebralvalley.ai/e/gemini-4-nyc"
       ],
@@ -1772,12 +1322,12 @@
       "student_only": false,
       "source_url": "https://luma.com/nyc-hwkp",
       "source_name": "Luma",
-      "registration_url": "",
-      "verification": "unverified",
-      "verification_reason": "Retained from an earlier collection. This run could not confirm the event again; check the source for changes.",
-      "confidence": 25,
+      "registration_url": "https://luma.com/nyc-hwkp",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
       "first_seen": "2026-11-10T20:20:24.381421+00:00",
-      "last_checked": "2026-11-13T20:23:37.001585+00:00",
+      "last_checked": "2026-11-15T19:17:46.506111+00:00",
       "sources": [
         "https://luma.com/nyc-hwkp"
       ],
@@ -1801,12 +1351,12 @@
       "student_only": false,
       "source_url": "https://luma.com/maximum-x33c",
       "source_name": "Luma",
-      "registration_url": "",
-      "verification": "unverified",
-      "verification_reason": "Retained from an earlier collection. This run could not confirm the event again; check the source for changes.",
-      "confidence": 25,
+      "registration_url": "https://luma.com/maximum-x33c",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
       "first_seen": "2026-11-10T20:20:24.381421+00:00",
-      "last_checked": "2026-11-13T20:23:37.001585+00:00",
+      "last_checked": "2026-11-15T19:17:46.506111+00:00",
       "sources": [
         "https://luma.com/maximum-x33c"
       ],
@@ -1831,12 +1381,12 @@
       "student_only": false,
       "source_url": "https://www.hackathonradar.com/database/hackathon/non-slop-hackathon-pangram-x-nous-research-x-reducto-2026",
       "source_name": "hackathonradar.com",
-      "registration_url": "",
-      "verification": "unverified",
-      "verification_reason": "Retained from an earlier collection. This run could not confirm the event again; check the source for changes.",
-      "confidence": 25,
+      "registration_url": "https://www.hackathonradar.com/database/hackathon/non-slop-hackathon-pangram-x-nous-research-x-reducto-2026",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
       "first_seen": "2026-11-12T20:41:42.016734+00:00",
-      "last_checked": "2026-11-13T20:23:37.001585+00:00",
+      "last_checked": "2026-11-15T19:17:46.506111+00:00",
       "sources": [
         "https://www.hackathonradar.com/database/hackathon/non-slop-hackathon-pangram-x-nous-research-x-reducto-2026"
       ],
@@ -1861,12 +1411,12 @@
       "student_only": false,
       "source_url": "https://arclight.events/event/non-slop-hackathon-pangram-x-nous-research-x-reducto-pwhplt",
       "source_name": "arclight.events",
-      "registration_url": "",
-      "verification": "unverified",
-      "verification_reason": "Retained from an earlier collection. This run could not confirm the event again; check the source for changes.",
-      "confidence": 25,
+      "registration_url": "https://arclight.events/event/non-slop-hackathon-pangram-x-nous-research-x-reducto-pwhplt",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
       "first_seen": "2026-11-01T18:18:39.814150+00:00",
-      "last_checked": "2026-11-13T20:23:37.001585+00:00",
+      "last_checked": "2026-11-15T19:17:46.506111+00:00",
       "sources": [
         "https://arclight.events/event/non-slop-hackathon-pangram-x-nous-research-x-reducto-pwhplt"
       ],
@@ -1919,12 +1469,12 @@
       "student_only": false,
       "source_url": "https://luma.com/olzhlvod",
       "source_name": "Luma",
-      "registration_url": "",
-      "verification": "unverified",
-      "verification_reason": "Retained from an earlier collection. This run could not confirm the event again; check the source for changes.",
-      "confidence": 25,
+      "registration_url": "https://luma.com/olzhlvod",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
       "first_seen": "2026-11-10T20:20:24.381421+00:00",
-      "last_checked": "2026-11-13T20:23:37.001585+00:00",
+      "last_checked": "2026-11-15T19:17:46.506111+00:00",
       "sources": [
         "https://luma.com/olzhlvod"
       ],
@@ -1948,12 +1498,12 @@
       "student_only": false,
       "source_url": "https://www.meetup.com/nycuxd/events/317192973",
       "source_name": "Meetup",
-      "registration_url": "",
-      "verification": "unverified",
-      "verification_reason": "Retained from an earlier collection. This run could not confirm the event again; check the source for changes.",
-      "confidence": 25,
+      "registration_url": "https://www.meetup.com/nycuxd/events/317192973/",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
       "first_seen": "2026-11-05T20:30:00.827536+00:00",
-      "last_checked": "2026-11-13T20:23:37.001585+00:00",
+      "last_checked": "2026-11-15T19:17:46.506111+00:00",
       "sources": [
         "https://www.meetup.com/nycuxd/events/317192973"
       ],
@@ -1977,12 +1527,12 @@
       "student_only": false,
       "source_url": "https://www.meetup.com/vibe-coding-collective/events/317276871",
       "source_name": "Meetup",
-      "registration_url": "",
-      "verification": "unverified",
-      "verification_reason": "Retained from an earlier collection. This run could not confirm the event again; check the source for changes.",
-      "confidence": 25,
+      "registration_url": "https://www.meetup.com/vibe-coding-collective/events/317276871/",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
       "first_seen": "2026-11-05T20:30:00.827536+00:00",
-      "last_checked": "2026-11-13T20:23:37.001585+00:00",
+      "last_checked": "2026-11-15T19:17:46.506111+00:00",
       "sources": [
         "https://www.meetup.com/vibe-coding-collective/events/317276871"
       ],
@@ -2006,12 +1556,12 @@
       "student_only": false,
       "source_url": "https://events.trymimetic.com/events/nyc/nyc-b2b-ai-founders-investors-meetup-nov-2026",
       "source_name": "events.trymimetic.com",
-      "registration_url": "",
-      "verification": "unverified",
-      "verification_reason": "Retained from an earlier collection. This run could not confirm the event again; check the source for changes.",
-      "confidence": 25,
+      "registration_url": "https://events.trymimetic.com/events/nyc/nyc-b2b-ai-founders-investors-meetup-nov-2026",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
       "first_seen": "2026-11-12T20:41:42.016734+00:00",
-      "last_checked": "2026-11-13T20:23:37.001585+00:00",
+      "last_checked": "2026-11-15T19:17:46.506111+00:00",
       "sources": [
         "https://events.trymimetic.com/events/nyc/nyc-b2b-ai-founders-investors-meetup-nov-2026"
       ],
@@ -2036,12 +1586,12 @@
       "student_only": false,
       "source_url": "https://dev.events/conferences/ai-and-tech-networking-event-in-nyc-by-ascent-valley-mnfhh1qw",
       "source_name": "dev.events",
-      "registration_url": "",
-      "verification": "unverified",
-      "verification_reason": "Retained from an earlier collection. This run could not confirm the event again; check the source for changes.",
-      "confidence": 25,
+      "registration_url": "https://dev.events/conferences/ai-and-tech-networking-event-in-nyc-by-ascent-valley-mnfhh1qw",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
       "first_seen": "2026-11-03T19:59:23.696511+00:00",
-      "last_checked": "2026-11-13T20:23:37.001585+00:00",
+      "last_checked": "2026-11-15T19:17:46.506111+00:00",
       "sources": [
         "https://dev.events/conferences/ai-and-tech-networking-event-in-nyc-by-ascent-valley-mnfhh1qw"
       ],
@@ -2066,12 +1616,12 @@
       "student_only": false,
       "source_url": "https://www.meetup.com/ai-for-finance/events/317301566",
       "source_name": "Meetup",
-      "registration_url": "",
-      "verification": "unverified",
-      "verification_reason": "Retained from an earlier collection. This run could not confirm the event again; check the source for changes.",
-      "confidence": 25,
+      "registration_url": "https://www.meetup.com/ai-for-finance/events/317301566/",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
       "first_seen": "2026-11-10T20:20:24.381421+00:00",
-      "last_checked": "2026-11-13T20:23:37.001585+00:00",
+      "last_checked": "2026-11-15T19:17:46.506111+00:00",
       "sources": [
         "https://www.meetup.com/ai-for-finance/events/317301566"
       ],
@@ -2079,7 +1629,7 @@
     },
     {
       "id": "f24ddd173e54bbe5",
-      "title": "Context Engineering Guild of NYC: November Edition",
+      "title": "Context Engineering Guild of New York City: November Edition",
       "start": "2026-11-29T14:00:00-05:00",
       "end": "2026-11-29T17:00:00-05:00",
       "time_known": true,
@@ -2096,12 +1646,12 @@
       "student_only": false,
       "source_url": "https://luma.com/gl8rycz0",
       "source_name": "Luma",
-      "registration_url": "",
-      "verification": "unverified",
-      "verification_reason": "Retained from an earlier collection. This run could not confirm the event again; check the source for changes.",
-      "confidence": 25,
+      "registration_url": "https://luma.com/gl8rycz0",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
       "first_seen": "2026-11-10T20:20:24.381421+00:00",
-      "last_checked": "2026-11-13T20:23:37.001585+00:00",
+      "last_checked": "2026-11-15T19:17:46.506111+00:00",
       "sources": [
         "https://luma.com/gl8rycz0"
       ],
