@@ -1,17 +1,18 @@
 {
   "state": "partial",
-  "last_attempt": "2026-11-17T21:34:16.732248+00:00",
-  "last_success": "2026-11-17T21:34:16.732248+00:00",
-  "message": "71 upcoming events",
+  "last_attempt": "2026-11-18T21:10:24.492633+00:00",
+  "last_success": "2026-11-18T21:10:24.492633+00:00",
+  "message": "70 upcoming events",
   "warnings": [
-    "Free web search unavailable",
+    "Eventbrite: discovery page unavailable",
     "No extraction key configured; only structured event data can be read",
     "Page budget reached; some sources await the next run",
     "Some events retained from earlier checks",
     "Tavily key not configured; using free web search only",
-    "cloud.google.com: event page unavailable"
+    "cdn.prod.website-files.com: event page unavailable",
+    "intelligententerpriseleaders.com: event page unavailable"
   ],
-  "pages_checked": 59,
+  "pages_checked": 57,
   "llm_calls": 0,
   "search_credits_reserved": 0
 }
