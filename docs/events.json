@@ -1,67 +1,9 @@
 {
   "schema_version": 1,
   "mode": "live",
-  "generated_at": "2026-11-24T00:38:31.826677+00:00",
+  "generated_at": "2026-11-24T22:56:40.581888+00:00",
   "timezone": "America/New_York",
   "events": [
-    {
-      "id": "85444b0dd424fe80",
-      "title": "Vibe Coding Hangout (w/ Lovable) - 6pm",
-      "start": "2026-11-24T13:00:00-05:00",
-      "end": "2026-11-24T15:00:00-05:00",
-      "time_known": true,
-      "venue": "20 Jay St, 20 Jay St, Brooklyn, NY 11201, USA, Brooklyn, NY, Brooklyn, NY, us",
-      "format": "in-person",
-      "organizer": "Vibe Coding Collective",
-      "description": "NOTE: Our Meetup page is registered in London, so the time auto-fills with GMT as the timezone, but rest assured this event's at **6pm New York time (EST)*",
-      "categories": [
-        "Emerging Tech"
-      ],
-      "cost": "Cost not listed",
-      "is_free": null,
-      "student_only": false,
-      "source_url": "https://www.meetup.com/vibe-coding-collective/events/317276871",
-      "source_name": "Meetup",
-      "registration_url": "https://www.meetup.com/vibe-coding-collective/events/317276871/",
-      "verification": "verified",
-      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
-      "confidence": 90,
-      "first_seen": "2026-11-05T20:30:00.827536+00:00",
-      "last_checked": "2026-11-24T00:38:31.826677+00:00",
-      "sources": [
-        "https://www.meetup.com/vibe-coding-collective/events/317276871"
-      ],
-      "extraction": "jsonld"
-    },
-    {
-      "id": "a3590ed4e5ce63da",
-      "title": "NYC B2B: AI Founders & Investors Meetup",
-      "start": "2026-11-24T18:00:00-05:00",
-      "end": "2026-11-24T20:00:00-05:00",
-      "time_known": true,
-      "venue": "New York City, New York City, NY, US",
-      "format": "in-person",
-      "organizer": "NYC B2B",
-      "description": "Tue, Nov 24, 6 PM in New York City. Free. 132 attending. Approval required. Hosted by NYC B2B. NYC B2B is the premier community for B2B Founders, Operators",
-      "categories": [
-        "AI/ML"
-      ],
-      "cost": "Free",
-      "is_free": true,
-      "student_only": false,
-      "source_url": "https://events.trymimetic.com/events/nyc/nyc-b2b-ai-founders-investors-meetup-nov-2026",
-      "source_name": "events.trymimetic.com",
-      "registration_url": "https://events.trymimetic.com/events/nyc/nyc-b2b-ai-founders-investors-meetup-nov-2026",
-      "verification": "verified",
-      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
-      "confidence": 90,
-      "first_seen": "2026-11-12T20:41:42.016734+00:00",
-      "last_checked": "2026-11-24T00:38:31.826677+00:00",
-      "sources": [
-        "https://events.trymimetic.com/events/nyc/nyc-b2b-ai-founders-investors-meetup-nov-2026"
-      ],
-      "extraction": "jsonld"
-    },
     {
       "id": "490c4bc36d7ce154",
       "title": "Wall Street Meets AI",
@@ -86,9 +28,38 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-17T21:34:16.732248+00:00",
-      "last_checked": "2026-11-24T00:38:31.826677+00:00",
+      "last_checked": "2026-11-24T22:56:40.581888+00:00",
       "sources": [
         "https://www.meetup.com/ai-for-finance/events/317301566"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "bf3ea8e906c7a36e",
+      "title": "NYC B2B: AI Founders & Investors Meetup",
+      "start": "2026-11-24T19:00:00-05:00",
+      "end": "2026-11-24T20:30:00-05:00",
+      "time_known": true,
+      "venue": "New York City, New York City, NY, US",
+      "format": "in-person",
+      "organizer": "NYC B2B: Startup Events, NYC B2B",
+      "description": "Tue, Nov 24, 7 PM in New York City. Free. 152 attending. Approval required. Hosted by NYC B2B: Startup Events, NYC B2B. More AI events in New York City on Mimetic.",
+      "categories": [
+        "AI/ML"
+      ],
+      "cost": "Free",
+      "is_free": true,
+      "student_only": false,
+      "source_url": "https://events.trymimetic.com/events/nyc/nyc-b2b-ai-founders-investors-meetup-nov-2026",
+      "source_name": "events.trymimetic.com",
+      "registration_url": "https://events.trymimetic.com/events/nyc/nyc-b2b-ai-founders-investors-meetup-nov-2026",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
+      "first_seen": "2026-11-24T22:56:40.581888+00:00",
+      "last_checked": "2026-11-24T22:56:40.581888+00:00",
+      "sources": [
+        "https://events.trymimetic.com/events/nyc/nyc-b2b-ai-founders-investors-meetup-nov-2026"
       ],
       "extraction": "jsonld"
     },
@@ -116,7 +87,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-03T19:59:23.696511+00:00",
-      "last_checked": "2026-11-24T00:38:31.826677+00:00",
+      "last_checked": "2026-11-24T22:56:40.581888+00:00",
       "sources": [
         "https://dev.events/conferences/ai-and-tech-networking-event-in-nyc-by-ascent-valley-mnfhh1qw"
       ],
@@ -145,9 +116,39 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-21T19:59:06.273433+00:00",
-      "last_checked": "2026-11-24T00:38:31.826677+00:00",
+      "last_checked": "2026-11-24T22:56:40.581888+00:00",
       "sources": [
         "https://www.meetup.com/founders-running-club-new-york/events/317256768"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "cf365469c12a4b33",
+      "title": "AI Engineer Kids Day",
+      "start": "2026-11-29T12:30:00-05:00",
+      "end": null,
+      "time_known": true,
+      "venue": "Chelsea, Chelsea, New York, NY, USA, New York, NY, New York, NY, us",
+      "format": "in-person",
+      "organizer": "Graph Database New York",
+      "description": "**\\*\\*\\* Registration is [required on this link](https://dev.neo4j.com/kidsday-aidev-nyc-meetup) not on Meetup.** Welcome to our very first AI Dev Kids Da",
+      "categories": [
+        "AI/ML",
+        "Emerging Tech"
+      ],
+      "cost": "Cost not listed",
+      "is_free": null,
+      "student_only": false,
+      "source_url": "https://www.meetup.com/nycneo4j/events/317468979",
+      "source_name": "Meetup",
+      "registration_url": "https://www.meetup.com/nycneo4j/events/317468979/",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
+      "first_seen": "2026-11-24T22:56:40.581888+00:00",
+      "last_checked": "2026-11-24T22:56:40.581888+00:00",
+      "sources": [
+        "https://www.meetup.com/nycneo4j/events/317468979"
       ],
       "extraction": "jsonld"
     },
@@ -175,7 +176,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-10T20:20:24.381421+00:00",
-      "last_checked": "2026-11-24T00:38:31.826677+00:00",
+      "last_checked": "2026-11-24T22:56:40.581888+00:00",
       "sources": [
         "https://luma.com/gl8rycz0"
       ],
@@ -205,7 +206,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-13T20:23:37.001585+00:00",
-      "last_checked": "2026-11-24T00:38:31.826677+00:00",
+      "last_checked": "2026-11-24T22:56:40.581888+00:00",
       "sources": [
         "https://createwith.com/event/new-york-ai-dev-nyc-2026-deeplearning-ai-nov-2026"
       ],
@@ -234,7 +235,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-01T18:18:39.814150+00:00",
-      "last_checked": "2026-11-24T00:38:31.826677+00:00",
+      "last_checked": "2026-11-24T22:56:40.581888+00:00",
       "sources": [
         "https://www.meetup.com/ai-conferencecrew/events/317195000"
       ],
@@ -264,7 +265,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-21T19:59:06.273433+00:00",
-      "last_checked": "2026-11-24T00:38:31.826677+00:00",
+      "last_checked": "2026-11-24T22:56:40.581888+00:00",
       "sources": [
         "https://ai-dev.deeplearning.ai/"
       ],
@@ -293,7 +294,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-21T19:59:06.273433+00:00",
-      "last_checked": "2026-11-24T00:38:31.826677+00:00",
+      "last_checked": "2026-11-24T22:56:40.581888+00:00",
       "sources": [
         "https://www.meetup.com/meetup-group-grbqwgeh/events/316791882"
       ],
@@ -322,7 +323,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-13T20:23:37.001585+00:00",
-      "last_checked": "2026-11-24T00:38:31.826677+00:00",
+      "last_checked": "2026-11-24T22:56:40.581888+00:00",
       "sources": [
         "https://createwith.com/event/new-york-odsc-ai-nyc-2026-ai-for-work-summit-dec-2026"
       ],
@@ -336,8 +337,8 @@
       "time_known": true,
       "venue": "Jay Conference Bryant Park - Conference Center NYC, Event Space & Meeting Space Rentals, and Concourse, 109 W 39th St 2nd Fl, New York, NY 10018, USA, Jay Conference Bryant Park - Conference Center NYC, Event Space & Meeting Space Rentals, and Concou",
       "format": "in-person",
-      "organizer": "ODSC AI, Elen G, Julia Voichuk",
-      "description": "Wed, Dec 2, 9 AM at Jay Conference Bryant Park - Conference Center NYC, New York City. $449 to $649. Approval required. Hosted by ODSC AI, Elen G. More AI events in New York City on Mimetic.",
+      "organizer": "ODSC AI (Open Data Science Conference), ODSC AI, Elen G, Julia Voichuk",
+      "description": "Wed, Dec 2, 9 AM at Jay Conference Bryant Park - Conference Center NYC, New York City. $449 to $649. Approval required. Hosted by ODSC AI (Open Data Science Conference), ODSC AI. More AI events in New York City on Mimetic.",
       "categories": [
         "AI/ML"
       ],
@@ -351,7 +352,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-12T20:41:42.016734+00:00",
-      "last_checked": "2026-11-24T00:38:31.826677+00:00",
+      "last_checked": "2026-11-24T22:56:40.581888+00:00",
       "sources": [
         "https://events.trymimetic.com/events/nyc/ai-for-work-summit-odsc-ai-nyc-dec-2026"
       ],
@@ -380,7 +381,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-10-27T18:36:08.669428+00:00",
-      "last_checked": "2026-11-24T00:38:31.826677+00:00",
+      "last_checked": "2026-11-24T22:56:40.581888+00:00",
       "sources": [
         "https://www.meetup.com/open-data-science-ny-odsc/events/316165866"
       ],
@@ -409,9 +410,302 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-12T20:41:42.016734+00:00",
-      "last_checked": "2026-11-24T00:38:31.826677+00:00",
+      "last_checked": "2026-11-24T22:56:40.581888+00:00",
       "sources": [
         "https://events.trymimetic.com/events/nyc/nyc-pitch-night-w-the-ai-collective-nov-2026"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "47838275f38efded",
+      "title": "AI AFTER: NYC Founders & Entrepreneurs Afterwork Hangout #9 (INDOOR)",
+      "start": "2026-12-02T18:00:00-05:00",
+      "end": null,
+      "time_known": true,
+      "venue": "230 Fifth Rooftop Bar, 1150 Broadway, New York, NY 10001, USA, New York, NY, New York, NY, us",
+      "format": "in-person",
+      "organizer": "AI CIRCLE for Entrepreneurs",
+      "description": "🥂 **9th EDITION!** An informal afterwork meetup for **entrepreneurs, founders, and builders working with AI** — and anyone curious about where it’s headin",
+      "categories": [
+        "AI/ML"
+      ],
+      "cost": "Cost not listed",
+      "is_free": null,
+      "student_only": false,
+      "source_url": "https://www.meetup.com/ai-circle-for-entrepreneurs/events/317489177",
+      "source_name": "Meetup",
+      "registration_url": "https://www.meetup.com/ai-circle-for-entrepreneurs/events/317489177/",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
+      "first_seen": "2026-11-24T22:56:40.581888+00:00",
+      "last_checked": "2026-11-24T22:56:40.581888+00:00",
+      "sources": [
+        "https://www.meetup.com/ai-circle-for-entrepreneurs/events/317489177"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "55767800056e490a",
+      "title": "Founders, Investors & Talent Networking Mixer NYC",
+      "start": "2026-12-02T18:00:00-05:00",
+      "end": "2026-12-02T21:00:00-05:00",
+      "time_known": true,
+      "venue": "American Whiskey - Midtown, 247 W 30th St, New York, NY 10001, USA, New York, NY, New York, NY, us",
+      "format": "in-person",
+      "organizer": "Startup Networking & Founder Ecosystem | New York",
+      "description": "**Startup networking event in NYC for founders, investors and tech talent**. Meet builders and connect with Ascent Valley community. Join founders, invest",
+      "categories": [
+        "Emerging Tech"
+      ],
+      "cost": "Cost not listed",
+      "is_free": null,
+      "student_only": false,
+      "source_url": "https://www.meetup.com/startup-networking-founder-ecosystem-new-york/events/316405909",
+      "source_name": "Meetup",
+      "registration_url": "https://www.meetup.com/startup-networking-founder-ecosystem-new-york/events/316405909/",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
+      "first_seen": "2026-11-24T22:56:40.581888+00:00",
+      "last_checked": "2026-11-24T22:56:40.581888+00:00",
+      "sources": [
+        "https://www.meetup.com/startup-networking-founder-ecosystem-new-york/events/316405909"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "f7783931fb0a3501",
+      "title": "The Trusted AI Social: Drinks & Conversations",
+      "start": "2026-12-02T18:30:00-05:00",
+      "end": null,
+      "time_known": true,
+      "venue": "The Ten Bells, 247 Broome Street, New York, NY, New York, NY, US",
+      "format": "in-person",
+      "organizer": "NYC AI Governance & Safety",
+      "description": "Join a small group of NYC professionals for an evening of drinks, conversation, and networking around the future of trustworthy AI. We'll bring together p",
+      "categories": [
+        "AI/ML",
+        "Agents"
+      ],
+      "cost": "Cost not listed",
+      "is_free": null,
+      "student_only": false,
+      "source_url": "https://www.meetup.com/nyc-ai-governance-safety/events/317288861",
+      "source_name": "Meetup",
+      "registration_url": "https://www.meetup.com/nyc-ai-governance-safety/events/317288861/",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
+      "first_seen": "2026-11-24T22:56:40.581888+00:00",
+      "last_checked": "2026-11-24T22:56:40.581888+00:00",
+      "sources": [
+        "https://www.meetup.com/nyc-ai-governance-safety/events/317288861"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "9a91f8f2c251fcbc",
+      "title": "Finance Networking Event NYC: WAGMI-Connect",
+      "start": "2026-12-02T19:00:00-05:00",
+      "end": "2026-12-02T20:30:00-05:00",
+      "time_known": true,
+      "venue": "THE CLOUD ONE LOUNGE, 133 GREENWICH STREET 6TH FLOOR, NEW YORK, NY, NEW YORK, NY, us",
+      "format": "in-person",
+      "organizer": "WAGMI-Connect Networking Events",
+      "description": "*Hosts will not be giving any financial advice nor endorsements of any kind regarding anything financial.* *Attendees are free to do so at their own voliti",
+      "categories": [
+        "Emerging Tech"
+      ],
+      "cost": "Cost not listed",
+      "is_free": null,
+      "student_only": false,
+      "source_url": "https://www.meetup.com/wagmi-connect-networking-events/events/317126638",
+      "source_name": "Meetup",
+      "registration_url": "https://www.meetup.com/wagmi-connect-networking-events/events/317126638/",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
+      "first_seen": "2026-11-24T22:56:40.581888+00:00",
+      "last_checked": "2026-11-24T22:56:40.581888+00:00",
+      "sources": [
+        "https://www.meetup.com/wagmi-connect-networking-events/events/317126638"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "c6c349d6473c890e",
+      "title": "Professional Networking Mixer Networking Event: Multi -Vertical NYC",
+      "start": "2026-12-02T19:00:00-05:00",
+      "end": "2026-12-02T20:30:00-05:00",
+      "time_known": true,
+      "venue": "THE CLOUD ONE LOUNGE, 133 GREENWICH STREET 6TH FLOOR, NEW YORK, NY, NEW YORK, NY, us",
+      "format": "in-person",
+      "organizer": "WAGMI-Connect Networking Events",
+      "description": "*Hosts will not be giving any financial advice nor endorsements of any kind regarding anything financial.* *Attendees are free to do so at their own voliti",
+      "categories": [
+        "Emerging Tech"
+      ],
+      "cost": "Cost not listed",
+      "is_free": null,
+      "student_only": false,
+      "source_url": "https://www.meetup.com/wagmi-connect-networking-events/events/317126634",
+      "source_name": "Meetup",
+      "registration_url": "https://www.meetup.com/wagmi-connect-networking-events/events/317126634/",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
+      "first_seen": "2026-11-24T22:56:40.581888+00:00",
+      "last_checked": "2026-11-24T22:56:40.581888+00:00",
+      "sources": [
+        "https://www.meetup.com/wagmi-connect-networking-events/events/317126634"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "2a9f86320e7c8196",
+      "title": "Tech & Business Networking Event NYC: WAGMI-Connect",
+      "start": "2026-12-02T19:00:00-05:00",
+      "end": "2026-12-02T20:30:00-05:00",
+      "time_known": true,
+      "venue": "THE CLOUD ONE LOUNGE, 133 GREENWICH STREET 6TH FLOOR, NEW YORK, NY, NEW YORK, NY, us",
+      "format": "in-person",
+      "organizer": "WAGMI-Connect Networking Events",
+      "description": "*Hosts will not be giving any financial advice nor endorsements of any kind regarding anything financial.* *Attendees are free to do so at their own voliti",
+      "categories": [
+        "Emerging Tech"
+      ],
+      "cost": "Cost not listed",
+      "is_free": null,
+      "student_only": false,
+      "source_url": "https://www.meetup.com/wagmi-connect-networking-events/events/317126637",
+      "source_name": "Meetup",
+      "registration_url": "https://www.meetup.com/wagmi-connect-networking-events/events/317126637/",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
+      "first_seen": "2026-11-24T22:56:40.581888+00:00",
+      "last_checked": "2026-11-24T22:56:40.581888+00:00",
+      "sources": [
+        "https://www.meetup.com/wagmi-connect-networking-events/events/317126637"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "d30ca01717b32743",
+      "title": "Biddable Media Networking Event: Multi -Vertical NYC Mixer",
+      "start": "2026-12-02T19:00:00-05:00",
+      "end": "2026-12-02T20:30:00-05:00",
+      "time_known": true,
+      "venue": "THE CLOUD ONE LOUNGE, 133 GREENWICH STREET 6TH FLOOR, NEW YORK, NY, NEW YORK, NY, us",
+      "format": "in-person",
+      "organizer": "WAGMI-Connect Networking Events",
+      "description": "*Hosts will not be giving any financial advice nor endorsements of any kind regarding anything financial.* *Attendees are free to do so at their own voliti",
+      "categories": [
+        "Emerging Tech"
+      ],
+      "cost": "Cost not listed",
+      "is_free": null,
+      "student_only": false,
+      "source_url": "https://www.meetup.com/wagmi-connect-networking-events/events/317126642",
+      "source_name": "Meetup",
+      "registration_url": "https://www.meetup.com/wagmi-connect-networking-events/events/317126642/",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
+      "first_seen": "2026-11-24T22:56:40.581888+00:00",
+      "last_checked": "2026-11-24T22:56:40.581888+00:00",
+      "sources": [
+        "https://www.meetup.com/wagmi-connect-networking-events/events/317126642"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "c640e3375146cfbc",
+      "title": "General Networking Event: NYC Mixer",
+      "start": "2026-12-02T19:00:00-05:00",
+      "end": "2026-12-02T20:30:00-05:00",
+      "time_known": true,
+      "venue": "THE CLOUD ONE LOUNGE, 133 GREENWICH STREET 6TH FLOOR, NEW YORK, NY, NEW YORK, NY, us",
+      "format": "in-person",
+      "organizer": "WAGMI-Connect Networking Events",
+      "description": "*Hosts will not be giving any financial advice nor endorsements of any kind regarding anything financial.* *Attendees are free to do so at their own voliti",
+      "categories": [
+        "Emerging Tech"
+      ],
+      "cost": "Cost not listed",
+      "is_free": null,
+      "student_only": false,
+      "source_url": "https://www.meetup.com/wagmi-connect-networking-events/events/317126641",
+      "source_name": "Meetup",
+      "registration_url": "https://www.meetup.com/wagmi-connect-networking-events/events/317126641/",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
+      "first_seen": "2026-11-24T22:56:40.581888+00:00",
+      "last_checked": "2026-11-24T22:56:40.581888+00:00",
+      "sources": [
+        "https://www.meetup.com/wagmi-connect-networking-events/events/317126641"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "d8bcc3e52d9147cd",
+      "title": "AI Networking Event: Multi -Vertical NYC Mixer",
+      "start": "2026-12-02T19:00:00-05:00",
+      "end": "2026-12-02T20:30:00-05:00",
+      "time_known": true,
+      "venue": "THE CLOUD ONE LOUNGE, 133 GREENWICH STREET 6TH FLOOR, NEW YORK, NY, NEW YORK, NY, us",
+      "format": "in-person",
+      "organizer": "WAGMI-Connect Networking Events",
+      "description": "*Hosts will not be giving any financial advice nor endorsements of any kind regarding anything financial.* *Attendees are free to do so at their own voliti",
+      "categories": [
+        "AI/ML",
+        "Emerging Tech"
+      ],
+      "cost": "Cost not listed",
+      "is_free": null,
+      "student_only": false,
+      "source_url": "https://www.meetup.com/wagmi-connect-networking-events/events/317126640",
+      "source_name": "Meetup",
+      "registration_url": "https://www.meetup.com/wagmi-connect-networking-events/events/317126640/",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
+      "first_seen": "2026-11-24T22:56:40.581888+00:00",
+      "last_checked": "2026-11-24T22:56:40.581888+00:00",
+      "sources": [
+        "https://www.meetup.com/wagmi-connect-networking-events/events/317126636",
+        "https://www.meetup.com/wagmi-connect-networking-events/events/317126640"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "e5d8b3824db7bc11",
+      "title": "Content Marketing Networking Event: Multi -Vertical NYC Mixer",
+      "start": "2026-12-02T19:00:00-05:00",
+      "end": "2026-12-02T20:30:00-05:00",
+      "time_known": true,
+      "venue": "THE CLOUD ONE LOUNGE, 133 GREENWICH STREET 6TH FLOOR, NEW YORK, NY, NEW YORK, NY, us",
+      "format": "in-person",
+      "organizer": "WAGMI-Connect Networking Events",
+      "description": "*Hosts will not be giving any financial advice nor endorsements of any kind regarding anything financial.* *Attendees are free to do so at their own voliti",
+      "categories": [
+        "Emerging Tech"
+      ],
+      "cost": "Cost not listed",
+      "is_free": null,
+      "student_only": false,
+      "source_url": "https://www.meetup.com/wagmi-connect-networking-events/events/317126639",
+      "source_name": "Meetup",
+      "registration_url": "https://www.meetup.com/wagmi-connect-networking-events/events/317126639/",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
+      "first_seen": "2026-11-24T22:56:40.581888+00:00",
+      "last_checked": "2026-11-24T22:56:40.581888+00:00",
+      "sources": [
+        "https://www.meetup.com/wagmi-connect-networking-events/events/317126639"
       ],
       "extraction": "jsonld"
     },
@@ -439,7 +733,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-12T20:41:42.016734+00:00",
-      "last_checked": "2026-11-24T00:38:31.826677+00:00",
+      "last_checked": "2026-11-24T22:56:40.581888+00:00",
       "sources": [
         "https://events.trymimetic.com/events/nyc/supper-in-tribeca-founders-investors-ai-dec-2026"
       ],
@@ -468,9 +762,39 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-21T19:59:06.273433+00:00",
-      "last_checked": "2026-11-24T00:38:31.826677+00:00",
+      "last_checked": "2026-11-24T22:56:40.581888+00:00",
       "sources": [
         "https://www.meetup.com/aittg-nyc/events/317479236"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "f5b92decba0ab205",
+      "title": "Bluehost AI Builder Tour - New York",
+      "start": "2026-12-03T09:00:00-05:00",
+      "end": null,
+      "time_known": true,
+      "venue": "Automattic, 166 Crosby St, New York, NY 10012, USA, New York, NY, New York, NY, us",
+      "format": "in-person",
+      "organizer": "NYC Agentic AI for Enterprises",
+      "description": "**Important**: Registration on the[ event website](https://www.aicamp.ai/event/eventdetails/W2026120306) is required for admission. (RSVP on meetup is turn",
+      "categories": [
+        "AI/ML",
+        "Agents"
+      ],
+      "cost": "Cost not listed",
+      "is_free": null,
+      "student_only": false,
+      "source_url": "https://www.meetup.com/nyc-agentic-enterprise-ai/events/317479313",
+      "source_name": "Meetup",
+      "registration_url": "https://www.meetup.com/nyc-agentic-enterprise-ai/events/317479313/",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
+      "first_seen": "2026-11-24T22:56:40.581888+00:00",
+      "last_checked": "2026-11-24T22:56:40.581888+00:00",
+      "sources": [
+        "https://www.meetup.com/nyc-agentic-enterprise-ai/events/317479313"
       ],
       "extraction": "jsonld"
     },
@@ -482,8 +806,8 @@
       "time_known": true,
       "venue": "New York City, New York City, NY, US",
       "format": "in-person",
-      "organizer": "Christopher Martinez, Arun Prasad, Tavily Events, Greta Ernst, Tyrel McAllister, Eli Stern, Sahar Mor (Bond AI), Rafa Barroso, Andrés Cano",
-      "description": "Thu, Dec 3, 5 PM in New York City. Free. 75 attending. Approval required. Hosted by Christopher Martinez, Arun Prasad. More AI events in New York City on Mimetic.",
+      "organizer": "Christopher Martinez, Arun Prasad, Tavily Events, Greta Ernst, Tyrel McAllister, Eli Stern, Sahar Mor (Bond AI), Rafa Barroso, Andrés Cano, Mateo Zarate, Fabrik",
+      "description": "Thu, Dec 3, 5 PM in New York City. Free. 77 attending. Approval required. Hosted by Christopher Martinez, Arun Prasad. More AI events in New York City on Mimetic.",
       "categories": [
         "AI/ML",
         "Agents"
@@ -498,7 +822,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-12T20:41:42.016734+00:00",
-      "last_checked": "2026-11-24T00:38:31.826677+00:00",
+      "last_checked": "2026-11-24T22:56:40.581888+00:00",
       "sources": [
         "https://events.trymimetic.com/events/nyc/agents-of-risk-insurance-ai-build-pitch-dec-2026"
       ],
@@ -527,7 +851,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-21T19:59:06.273433+00:00",
-      "last_checked": "2026-11-24T00:38:31.826677+00:00",
+      "last_checked": "2026-11-24T22:56:40.581888+00:00",
       "sources": [
         "https://www.meetup.com/nyc-professional-networking/events/317440230"
       ],
@@ -535,7 +859,7 @@
     },
     {
       "id": "f9d9ea2bbcb0a680",
-      "title": "Can AI Learn Without Humans?",
+      "title": "New Defaults: Can AI Learn Without Humans?, by OpenRouter",
       "start": "2026-12-03T17:30:00-05:00",
       "end": "2026-12-03T20:30:00-05:00",
       "time_known": true,
@@ -556,7 +880,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-12T20:41:42.016734+00:00",
-      "last_checked": "2026-11-24T00:38:31.826677+00:00",
+      "last_checked": "2026-11-24T22:56:40.581888+00:00",
       "sources": [
         "https://events.trymimetic.com/events/nyc/can-ai-learn-without-humans-dec-2026"
       ],
@@ -585,7 +909,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-21T19:59:06.273433+00:00",
-      "last_checked": "2026-11-24T00:38:31.826677+00:00",
+      "last_checked": "2026-11-24T22:56:40.581888+00:00",
       "sources": [
         "https://www.meetup.com/nyc-professional-networking/events/317440153"
       ],
@@ -615,7 +939,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-18T21:10:24.492633+00:00",
-      "last_checked": "2026-11-24T00:38:31.826677+00:00",
+      "last_checked": "2026-11-24T22:56:40.581888+00:00",
       "sources": [
         "https://happening-nyc.com/event/mlai-seminar-vahab-mirrokni-google-7a09416a1f522e77720841621e52267f7c0c"
       ],
@@ -645,7 +969,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-18T21:10:24.492633+00:00",
-      "last_checked": "2026-11-24T00:38:31.826677+00:00",
+      "last_checked": "2026-11-24T22:56:40.581888+00:00",
       "sources": [
         "https://www.hackathonradar.com/database/hackathon/health-frontier-nyc-hackathon-2026"
       ],
@@ -674,7 +998,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-12T20:41:42.016734+00:00",
-      "last_checked": "2026-11-24T00:38:31.826677+00:00",
+      "last_checked": "2026-11-24T22:56:40.581888+00:00",
       "sources": [
         "https://www.hackathonradar.com/database/hackathon/agentic-finance-hack-2026"
       ],
@@ -703,7 +1027,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-01T18:18:39.814150+00:00",
-      "last_checked": "2026-11-24T00:38:31.826677+00:00",
+      "last_checked": "2026-11-24T22:56:40.581888+00:00",
       "sources": [
         "https://arclight.events/event/agentic-finance-hack-ynn7bb"
       ],
@@ -762,7 +1086,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-18T21:10:24.492633+00:00",
-      "last_checked": "2026-11-24T00:38:31.826677+00:00",
+      "last_checked": "2026-11-24T22:56:40.581888+00:00",
       "sources": [
         "https://happening-nyc.com/event/building-ai-applications-at-scale-new-york-city-7a09416a1f51277e7f00406c185321767f08"
       ],
@@ -777,7 +1101,7 @@
       "venue": "74Wythe, 74 Wythe Ave, Brooklyn, NY 11249, USA, 74Wythe, 74 Wythe Ave, Brooklyn, NY 11249, USA, New York City, NY, US",
       "format": "in-person",
       "organizer": "Twilio, Jacopo Piazza, SWARM NYC, CUSP at NYU Tandon, Emily Ong, Major League Hacking",
-      "description": "Tue, Dec 8, 5 PM at 74Wythe, New York City. Free. 194 attending. Hosted by Twilio, Jacopo Piazza. The Twilio team is in town for AI Week, and we're kicking",
+      "description": "Tue, Dec 8, 5 PM at 74Wythe, New York City. Free. 222 attending. Hosted by Twilio, Jacopo Piazza. The Twilio team is in town for AI Week, and we're kicking",
       "categories": [
         "AI/ML"
       ],
@@ -791,7 +1115,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-12T20:41:42.016734+00:00",
-      "last_checked": "2026-11-24T00:38:31.826677+00:00",
+      "last_checked": "2026-11-24T22:56:40.581888+00:00",
       "sources": [
         "https://events.trymimetic.com/events/nyc/twilio-assemble-nyc-the-future-of-comms-ai-dec-2026"
       ],
@@ -821,9 +1145,39 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-12T20:41:42.016734+00:00",
-      "last_checked": "2026-11-24T00:38:31.826677+00:00",
+      "last_checked": "2026-11-24T22:56:40.581888+00:00",
       "sources": [
         "https://events.trymimetic.com/events/nyc/ai-agents-security-tapas-night-before-the-ai-summit-dec-2026"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "2f124f60f97eb871",
+      "title": "AI & Machine Learning Start-Ups, Professionals, Investors Networking NYC",
+      "start": "2026-12-08T19:00:00-05:00",
+      "end": null,
+      "time_known": true,
+      "venue": "The Three Monkeys, 832 8th Ave, New York, NY 10019, USA, New York, NY, New York, NY, us",
+      "format": "in-person",
+      "organizer": "Startup Pitch & Networking – NYC",
+      "description": "**✨ To join this event, please make sure to book your ticket here 👉 [https://www.eventbrite.com/e/nyc-ai-tech-startups-investors-innovators-networking-mix",
+      "categories": [
+        "AI/ML",
+        "Emerging Tech"
+      ],
+      "cost": "Cost not listed",
+      "is_free": null,
+      "student_only": false,
+      "source_url": "https://www.meetup.com/startup-pitch-networking-nyc/events/317311521",
+      "source_name": "Meetup",
+      "registration_url": "https://www.meetup.com/startup-pitch-networking-nyc/events/317311521/",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
+      "first_seen": "2026-11-24T22:56:40.581888+00:00",
+      "last_checked": "2026-11-24T22:56:40.581888+00:00",
+      "sources": [
+        "https://www.meetup.com/startup-pitch-networking-nyc/events/317311521"
       ],
       "extraction": "jsonld"
     },
@@ -851,7 +1205,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-16T22:46:33.453541+00:00",
-      "last_checked": "2026-11-24T00:38:31.826677+00:00",
+      "last_checked": "2026-11-24T22:56:40.581888+00:00",
       "sources": [
         "https://createwith.com/event/new-york-the-ai-summit-new-york-where-commercial-ai-comes-to-life-dec-2026"
       ],
@@ -882,7 +1236,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-13T20:23:37.001585+00:00",
-      "last_checked": "2026-11-24T00:38:31.826677+00:00",
+      "last_checked": "2026-11-24T22:56:40.581888+00:00",
       "sources": [
         "https://createwith.com/event/new-york-hackathon-the-ai-summit-new-york-dec-2026"
       ],
@@ -912,7 +1266,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-13T20:23:37.001585+00:00",
-      "last_checked": "2026-11-24T00:38:31.826677+00:00",
+      "last_checked": "2026-11-24T22:56:40.581888+00:00",
       "sources": [
         "https://createwith.com/event/new-york-the-ai-summit-new-york-2026-dec-2026"
       ],
@@ -942,7 +1296,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-12T20:41:42.016734+00:00",
-      "last_checked": "2026-11-24T00:38:31.826677+00:00",
+      "last_checked": "2026-11-24T22:56:40.581888+00:00",
       "sources": [
         "https://events.trymimetic.com/events/nyc/the-ai-summit-after-hours-dec-2026"
       ],
@@ -971,7 +1325,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-10-27T18:36:08.669428+00:00",
-      "last_checked": "2026-11-24T00:38:31.826677+00:00",
+      "last_checked": "2026-11-24T22:56:40.581888+00:00",
       "sources": [
         "https://www.meetup.com/startup-grind-nyc/events/316638863"
       ],
@@ -986,7 +1340,7 @@
       "venue": "New York City, New York City, NY, US",
       "format": "in-person",
       "organizer": "Daytona, Max Kuivenhoven, MongoDB",
-      "description": "Thu, Dec 10, 5:30 PM in New York City. Free. 326 attending. Approval required. Hosted by Daytona, Max Kuivenhoven. An event dedicated to exploring all things",
+      "description": "Thu, Dec 10, 5:30 PM in New York City. Free. 329 attending. Approval required. Hosted by Daytona, Max Kuivenhoven. An event dedicated to exploring all things",
       "categories": [
         "AI/ML"
       ],
@@ -1000,9 +1354,68 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-12T20:41:42.016734+00:00",
-      "last_checked": "2026-11-24T00:38:31.826677+00:00",
+      "last_checked": "2026-11-24T22:56:40.581888+00:00",
       "sources": [
         "https://events.trymimetic.com/events/nyc/daytona-ai-builders-nyc-december-2026-dec-2026"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "19164efffe6bc116",
+      "title": "NYC AI Network Holiday Exchange",
+      "start": "2026-12-10T18:30:00-05:00",
+      "end": null,
+      "time_known": true,
+      "venue": "113 North 3rd Street, 113 N 3rd St, Brooklyn, NY 11249, USA, Brooklyn, NY, Brooklyn, NY, us",
+      "format": "in-person",
+      "organizer": "AI & Technology Leaders NYC",
+      "description": "Four communities. One city. One evening. Join us for a holiday networking evening bringing together New York City’s AI, technology, finance, and startup c",
+      "categories": [
+        "AI/ML",
+        "Emerging Tech"
+      ],
+      "cost": "Cost not listed",
+      "is_free": null,
+      "student_only": false,
+      "source_url": "https://www.meetup.com/new-york-young-professionals-meetup-group/events/317309869",
+      "source_name": "Meetup",
+      "registration_url": "https://www.meetup.com/new-york-young-professionals-meetup-group/events/317309869/",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
+      "first_seen": "2026-11-24T22:56:40.581888+00:00",
+      "last_checked": "2026-11-24T22:56:40.581888+00:00",
+      "sources": [
+        "https://www.meetup.com/new-york-young-professionals-meetup-group/events/317309869"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "4bbee8f38072108c",
+      "title": "The AI Briefing by Startup Grind: Getting AI Through Legal & Risk Review",
+      "start": "2026-12-11T10:00:00-05:00",
+      "end": null,
+      "time_known": true,
+      "venue": "Civic Hall, 124 East 14th Street, New York, NY, New York, NY, us",
+      "format": "in-person",
+      "organizer": "Startup Grind NYC",
+      "description": "**👉 [CLICK HERE](https://www.startupgrind.com/events/details/startup-grind-new-york-city-presents-the-ai-briefing-by-startup-grind-getting-ai-through-lega",
+      "categories": [
+        "AI/ML"
+      ],
+      "cost": "Cost not listed",
+      "is_free": null,
+      "student_only": false,
+      "source_url": "https://www.meetup.com/startup-grind-nyc/events/317554106",
+      "source_name": "Meetup",
+      "registration_url": "https://www.meetup.com/startup-grind-nyc/events/317554106/",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
+      "first_seen": "2026-11-24T22:56:40.581888+00:00",
+      "last_checked": "2026-11-24T22:56:40.581888+00:00",
+      "sources": [
+        "https://www.meetup.com/startup-grind-nyc/events/317554106"
       ],
       "extraction": "jsonld"
     },
@@ -1029,7 +1442,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-18T21:10:24.492633+00:00",
-      "last_checked": "2026-11-24T00:38:31.826677+00:00",
+      "last_checked": "2026-11-24T22:56:40.581888+00:00",
       "sources": [
         "https://happening-nyc.com/event/cuny-tech-prep-demo-night-2026-sponsored-by-linkedin-7a09416a1f51277e780a476a1c5124787e0e"
       ],
@@ -1058,7 +1471,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-18T21:10:24.492633+00:00",
-      "last_checked": "2026-11-24T00:38:31.826677+00:00",
+      "last_checked": "2026-11-24T22:56:40.581888+00:00",
       "sources": [
         "https://happening-nyc.com/event/queens-tech-night-2026-7a09416a1f51277e780e466a1b50267d7b09"
       ],
@@ -1087,7 +1500,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-12T20:41:42.016734+00:00",
-      "last_checked": "2026-11-24T00:38:31.826677+00:00",
+      "last_checked": "2026-11-24T22:56:40.581888+00:00",
       "sources": [
         "https://nyc.aitinkerers.org/p/abliterated-models-demo-day-ft-veris"
       ],
@@ -1118,7 +1531,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-20T20:57:42.608312+00:00",
-      "last_checked": "2026-11-24T00:38:31.826677+00:00",
+      "last_checked": "2026-11-24T22:56:40.581888+00:00",
       "sources": [
         "https://www.eventbrite.com/e/ghana-tech-summit-2026-ai-edition-tickets-1362903052719"
       ],

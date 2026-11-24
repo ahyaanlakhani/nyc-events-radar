@@ -1,17 +1,19 @@
 {
   "state": "partial",
-  "last_attempt": "2026-11-24T00:38:31.826677+00:00",
-  "last_success": "2026-11-24T00:38:31.826677+00:00",
-  "message": "38 upcoming events",
+  "last_attempt": "2026-11-24T22:56:40.581888+00:00",
+  "last_success": "2026-11-24T22:56:40.581888+00:00",
+  "message": "52 upcoming events",
   "warnings": [
     "Eventbrite: discovery page unavailable",
-    "Free web search unavailable",
+    "Eventbrite: event page unavailable",
+    "Luma: event page unavailable",
     "No extraction key configured; only structured event data can be read",
+    "Page budget reached; some sources await the next run",
     "Some events retained from earlier checks",
     "Tavily key not configured; using free web search only",
     "cloud.google.com: event page unavailable"
   ],
-  "pages_checked": 37,
+  "pages_checked": 53,
   "llm_calls": 0,
   "search_credits_reserved": 0
 }
