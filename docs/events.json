@@ -1,78 +1,77 @@
 {
   "schema_version": 1,
   "mode": "live",
-  "generated_at": "2026-11-24T22:56:40.581888+00:00",
+  "generated_at": "2026-11-25T22:12:33.616328+00:00",
   "timezone": "America/New_York",
   "events": [
     {
-      "id": "490c4bc36d7ce154",
-      "title": "Wall Street Meets AI",
-      "start": "2026-11-24T18:30:00-05:00",
-      "end": "2026-11-24T20:30:00-05:00",
-      "time_known": true,
-      "venue": "Wall Street Hotel, 88 Wall St, New York, NY, New York, NY, US",
+      "id": "96e95f6bac877890",
+      "title": "AI, Dajjal, and the End of Times - DINNER TICKET",
+      "start": "2026-11-27T00:00:00-05:00",
+      "end": "2026-11-27T00:00:00-05:00",
+      "time_known": false,
+      "venue": "Makki Masjid Muslim Community Center, 1089 Coney Island Avenue, Brooklyn, NY, US",
       "format": "in-person",
-      "organizer": "AI, Quant & Finance NYC",
-      "description": "Where Artificial Intelligence Meets Quantitative Finance Wall Street has always been a place where mathematics, technology, and financial markets intersec",
-      "categories": [
-        "AI/ML",
-        "Emerging Tech"
-      ],
-      "cost": "Cost not listed",
-      "is_free": null,
-      "student_only": false,
-      "source_url": "https://www.meetup.com/ai-for-finance/events/317301566",
-      "source_name": "Meetup",
-      "registration_url": "https://www.meetup.com/ai-for-finance/events/317301566/",
-      "verification": "verified",
-      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
-      "confidence": 90,
-      "first_seen": "2026-11-17T21:34:16.732248+00:00",
-      "last_checked": "2026-11-24T22:56:40.581888+00:00",
-      "sources": [
-        "https://www.meetup.com/ai-for-finance/events/317301566"
-      ],
-      "extraction": "jsonld"
-    },
-    {
-      "id": "bf3ea8e906c7a36e",
-      "title": "NYC B2B: AI Founders & Investors Meetup",
-      "start": "2026-11-24T19:00:00-05:00",
-      "end": "2026-11-24T20:30:00-05:00",
-      "time_known": true,
-      "venue": "New York City, New York City, NY, US",
-      "format": "in-person",
-      "organizer": "NYC B2B: Startup Events, NYC B2B",
-      "description": "Tue, Nov 24, 7 PM in New York City. Free. 152 attending. Approval required. Hosted by NYC B2B: Startup Events, NYC B2B. More AI events in New York City on Mimetic.",
+      "organizer": "",
+      "description": "EVENT IS FREE. THIS TICKET IS REQUIRED FOR DINNER.",
       "categories": [
         "AI/ML"
       ],
-      "cost": "Free",
-      "is_free": true,
+      "cost": "Cost not listed",
+      "is_free": null,
       "student_only": false,
-      "source_url": "https://events.trymimetic.com/events/nyc/nyc-b2b-ai-founders-investors-meetup-nov-2026",
-      "source_name": "events.trymimetic.com",
-      "registration_url": "https://events.trymimetic.com/events/nyc/nyc-b2b-ai-founders-investors-meetup-nov-2026",
-      "verification": "verified",
-      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
-      "confidence": 90,
-      "first_seen": "2026-11-24T22:56:40.581888+00:00",
-      "last_checked": "2026-11-24T22:56:40.581888+00:00",
+      "source_url": "https://www.eventbrite.com/e/ai-dajjal-and-the-end-of-times-dinner-ticket-tickets-2005216123404",
+      "source_name": "Eventbrite",
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "The page is reachable, but matching structured title, date and location evidence could not be confirmed. Details may have been extracted by AI.",
+      "confidence": 55,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
       "sources": [
-        "https://events.trymimetic.com/events/nyc/nyc-b2b-ai-founders-investors-meetup-nov-2026"
+        "https://www.eventbrite.com/e/ai-dajjal-and-the-end-of-times-dinner-ticket-tickets-2005216123404"
       ],
       "extraction": "jsonld"
     },
     {
-      "id": "e43d66bdec6de3ed",
-      "title": "AI & Tech Networking Event in NYC by Ascent Valley",
-      "start": "2026-11-24T19:00:00-05:00",
-      "end": "2026-11-24T19:00:00-05:00",
-      "time_known": true,
-      "venue": "New York, United States, New York, United States",
+      "id": "4a06a68733596fd9",
+      "title": "NYC IT & Tech Social Mixer – Every Friday @ 7PM",
+      "start": "2026-11-27T00:00:00-05:00",
+      "end": "2026-11-27T00:00:00-05:00",
+      "time_known": false,
+      "venue": "The Irish American Pub, 17 John Street, New York, NY, US",
       "format": "in-person",
       "organizer": "",
-      "description": "Artificial Intelligence (AI) meetup in New York, United States",
+      "description": "This weekly after-work mixer is for you.",
+      "categories": [
+        "Emerging Tech"
+      ],
+      "cost": "Cost not listed",
+      "is_free": null,
+      "student_only": false,
+      "source_url": "https://www.eventbrite.com/e/nyc-it-tech-social-mixer-every-friday-7pm-tickets-1507566314429",
+      "source_name": "Eventbrite",
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "The page is reachable, but matching structured title, date and location evidence could not be confirmed. Details may have been extracted by AI.",
+      "confidence": 55,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://www.eventbrite.com/e/nyc-it-tech-social-mixer-every-friday-7pm-tickets-1507566314429"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "d5c3f69b3f864baa",
+      "title": "AI App Challenge Create Your First App In 7 Days",
+      "start": "2026-11-28T00:00:00-05:00",
+      "end": "2026-11-28T00:00:00-05:00",
+      "time_known": false,
+      "venue": "Chef Yu Restaurant (8th Ave Bet 36th & 37th Street), 520 8th Avenue, New York, NY, US",
+      "format": "in-person",
+      "organizer": "",
+      "description": "Learn AI Java App Coding Skills For Beginners, with the popular Java programming language. Learn by working on real life projects in NYC.",
       "categories": [
         "AI/ML",
         "Emerging Tech"
@@ -80,16 +79,45 @@
       "cost": "Cost not listed",
       "is_free": null,
       "student_only": false,
-      "source_url": "https://dev.events/conferences/ai-and-tech-networking-event-in-nyc-by-ascent-valley-mnfhh1qw",
-      "source_name": "dev.events",
-      "registration_url": "https://dev.events/conferences/ai-and-tech-networking-event-in-nyc-by-ascent-valley-mnfhh1qw",
-      "verification": "verified",
-      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
-      "confidence": 90,
-      "first_seen": "2026-11-03T19:59:23.696511+00:00",
-      "last_checked": "2026-11-24T22:56:40.581888+00:00",
+      "source_url": "https://www.eventbrite.com/e/ai-app-challenge-create-your-first-app-in-7-days-tickets-1993299714103",
+      "source_name": "Eventbrite",
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "The page is reachable, but matching structured title, date and location evidence could not be confirmed. Details may have been extracted by AI.",
+      "confidence": 55,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
       "sources": [
-        "https://dev.events/conferences/ai-and-tech-networking-event-in-nyc-by-ascent-valley-mnfhh1qw"
+        "https://www.eventbrite.com/e/ai-app-challenge-create-your-first-app-in-7-days-tickets-1993299714103"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "45290bedbfc6e274",
+      "title": "FREE Remote Adaptive Intelligence Network - New York",
+      "start": "2026-11-28T00:00:00-05:00",
+      "end": "2026-11-28T00:00:00-05:00",
+      "time_known": false,
+      "venue": "new york, remote, New York, NY, US",
+      "format": "in-person",
+      "organizer": "",
+      "description": "This remote meeting is for anyone interested in learning more about AI. Everyone can join remotely via ZOOM",
+      "categories": [
+        "AI/ML"
+      ],
+      "cost": "Cost not listed",
+      "is_free": null,
+      "student_only": false,
+      "source_url": "https://www.eventbrite.com/e/free-remote-adaptive-intelligence-network-new-york-tickets-1990797316364",
+      "source_name": "Eventbrite",
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "The page is reachable, but matching structured title, date and location evidence could not be confirmed. Details may have been extracted by AI.",
+      "confidence": 55,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://www.eventbrite.com/e/free-remote-adaptive-intelligence-network-new-york-tickets-1990797316364"
       ],
       "extraction": "jsonld"
     },
@@ -116,9 +144,38 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-21T19:59:06.273433+00:00",
-      "last_checked": "2026-11-24T22:56:40.581888+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
       "sources": [
         "https://www.meetup.com/founders-running-club-new-york/events/317256768"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "d55f638e8fa8a596",
+      "title": "AI Intelligence: What is \"Smart\"?",
+      "start": "2026-11-29T00:00:00-05:00",
+      "end": "2026-11-29T00:00:00-05:00",
+      "time_known": false,
+      "venue": "Liz's Book Bar, 315 Smith Street, Brooklyn, NY, US",
+      "format": "in-person",
+      "organizer": "",
+      "description": "This is a group discussion, hosted by Resident Philosopher Luke Quinton & talkPOPc founder Dena Shottenkirk at Liz's Book Bar from 7-8PM.",
+      "categories": [
+        "AI/ML"
+      ],
+      "cost": "Cost not listed",
+      "is_free": null,
+      "student_only": false,
+      "source_url": "https://www.eventbrite.com/e/ai-intelligence-what-is-smart-tickets-2004289336359",
+      "source_name": "Eventbrite",
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "The page is reachable, but matching structured title, date and location evidence could not be confirmed. Details may have been extracted by AI.",
+      "confidence": 55,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://www.eventbrite.com/e/ai-intelligence-what-is-smart-tickets-2004289336359"
       ],
       "extraction": "jsonld"
     },
@@ -126,15 +183,14 @@
       "id": "cf365469c12a4b33",
       "title": "AI Engineer Kids Day",
       "start": "2026-11-29T12:30:00-05:00",
-      "end": null,
+      "end": "2026-11-29T16:00:00-05:00",
       "time_known": true,
       "venue": "Chelsea, Chelsea, New York, NY, USA, New York, NY, New York, NY, us",
       "format": "in-person",
       "organizer": "Graph Database New York",
       "description": "**\\*\\*\\* Registration is [required on this link](https://dev.neo4j.com/kidsday-aidev-nyc-meetup) not on Meetup.** Welcome to our very first AI Dev Kids Da",
       "categories": [
-        "AI/ML",
-        "Emerging Tech"
+        "AI/ML"
       ],
       "cost": "Cost not listed",
       "is_free": null,
@@ -146,7 +202,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-24T22:56:40.581888+00:00",
-      "last_checked": "2026-11-24T22:56:40.581888+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
       "sources": [
         "https://www.meetup.com/nycneo4j/events/317468979"
       ],
@@ -176,9 +232,39 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-10T20:20:24.381421+00:00",
-      "last_checked": "2026-11-24T22:56:40.581888+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
       "sources": [
         "https://luma.com/gl8rycz0"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "8d92ff6de0d00fce",
+      "title": "AI Dev NYC 2026 — DeepLearning.AI",
+      "start": "2026-11-29T19:00:00-05:00",
+      "end": "2026-11-30T19:00:00-05:00",
+      "time_known": true,
+      "venue": "Chelsea Piers, New York, US",
+      "format": "in-person",
+      "organizer": "DeepLearning.AI",
+      "description": "AI Dev NYC 2026 brings 2,500 AI engineers and builders to Chelsea Piers in [New York](https://www.createwith.com/cities/new-york) on 30 November–1 December for two technical, hands-on days. Hosted by",
+      "categories": [
+        "AI/ML",
+        "Emerging Tech"
+      ],
+      "cost": "Cost not listed",
+      "is_free": null,
+      "student_only": false,
+      "source_url": "https://createwith.com/event/new-york-ai-dev-nyc-2026-deeplearning-ai-nov-2026",
+      "source_name": "createwith.com",
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "The page is reachable, but matching structured title, date and location evidence could not be confirmed. Details may have been extracted by AI.",
+      "confidence": 55,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://createwith.com/event/new-york-ai-dev-nyc-2026-deeplearning-ai-nov-2026"
       ],
       "extraction": "jsonld"
     },
@@ -206,9 +292,38 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-13T20:23:37.001585+00:00",
-      "last_checked": "2026-11-24T22:56:40.581888+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
       "sources": [
         "https://createwith.com/event/new-york-ai-dev-nyc-2026-deeplearning-ai-nov-2026"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "1e658d66964e0be3",
+      "title": "Santai Hackathon #1",
+      "start": "2026-11-30T00:00:00-05:00",
+      "end": "2026-12-08T23:59:00-05:00",
+      "time_known": true,
+      "venue": "377 Broadway, 377 Broadway, New York, NY 10013, USA, New York, United States",
+      "format": "in-person",
+      "organizer": "",
+      "description": "Hey everyone! Whether you’ve never used ChatGPT or already have multiple GitHub projects, this is for you: We’re so excited to share that we’ll be hosting a virtual hackathon (with prize money!) based on the artifacts that you build on our collaborative AI platform, Santai. We bridge the gap for you to show the world your work: jointly build things",
+      "categories": [
+        "Emerging Tech"
+      ],
+      "cost": "Cost not listed",
+      "is_free": null,
+      "student_only": false,
+      "source_url": "https://www.hackathonradar.com/database/hackathon/santai-hackathon-1-2026",
+      "source_name": "hackathonradar.com",
+      "registration_url": "https://www.hackathonradar.com/database/hackathon/santai-hackathon-1-2026",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://www.hackathonradar.com/database/hackathon/santai-hackathon-1-2026"
       ],
       "extraction": "jsonld"
     },
@@ -235,7 +350,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-01T18:18:39.814150+00:00",
-      "last_checked": "2026-11-24T22:56:40.581888+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
       "sources": [
         "https://www.meetup.com/ai-conferencecrew/events/317195000"
       ],
@@ -265,7 +380,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-21T19:59:06.273433+00:00",
-      "last_checked": "2026-11-24T22:56:40.581888+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
       "sources": [
         "https://ai-dev.deeplearning.ai/"
       ],
@@ -294,9 +409,67 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-21T19:59:06.273433+00:00",
-      "last_checked": "2026-11-24T22:56:40.581888+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
       "sources": [
         "https://www.meetup.com/meetup-group-grbqwgeh/events/316791882"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "cb536062a3439eb8",
+      "title": "Current Work Forms of Intelligence: Labor",
+      "start": "2026-12-01T00:00:00-05:00",
+      "end": "2026-12-01T00:00:00-05:00",
+      "time_known": false,
+      "venue": "Frederick P. Rose Auditorium, 41 Cooper Square, New York, NY, US",
+      "format": "in-person",
+      "organizer": "",
+      "description": "With AI forecasted to eliminate much “unnecessary” work, what should architects do more of?",
+      "categories": [
+        "AI/ML"
+      ],
+      "cost": "Cost not listed",
+      "is_free": null,
+      "student_only": false,
+      "source_url": "https://www.eventbrite.com/e/current-work-forms-of-intelligence-labor-tickets-2004234358920",
+      "source_name": "Eventbrite",
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "The page is reachable, but matching structured title, date and location evidence could not be confirmed. Details may have been extracted by AI.",
+      "confidence": 55,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://www.eventbrite.com/e/current-work-forms-of-intelligence-labor-tickets-2004234358920"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "4fbcf1a0cad064bf",
+      "title": "ODSC AI NYC 2026 — AI for Work Summit",
+      "start": "2026-12-01T19:00:00-05:00",
+      "end": "2026-12-02T19:00:00-05:00",
+      "time_known": true,
+      "venue": "Jay Conference Center Bryant Park, New York, US",
+      "format": "in-person",
+      "organizer": "ODSC",
+      "description": "ODSC AI NYC brings a two-day, workshop-driven AI for Work Summit to Midtown [New York](https://www.createwith.com/cities/new-york) on 2–3 December 2026. Designed to help organisations move beyond expe",
+      "categories": [
+        "AI/ML"
+      ],
+      "cost": "Cost not listed",
+      "is_free": null,
+      "student_only": false,
+      "source_url": "https://createwith.com/event/new-york-odsc-ai-nyc-2026-ai-for-work-summit-dec-2026",
+      "source_name": "createwith.com",
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "The page is reachable, but matching structured title, date and location evidence could not be confirmed. Details may have been extracted by AI.",
+      "confidence": 55,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://createwith.com/event/new-york-odsc-ai-nyc-2026-ai-for-work-summit-dec-2026"
       ],
       "extraction": "jsonld"
     },
@@ -323,9 +496,128 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-13T20:23:37.001585+00:00",
-      "last_checked": "2026-11-24T22:56:40.581888+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
       "sources": [
         "https://createwith.com/event/new-york-odsc-ai-nyc-2026-ai-for-work-summit-dec-2026"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "4c4778464ce67742",
+      "title": "ODSC AI NYC | AI for Work Summit",
+      "start": "2026-12-02T00:00:00-05:00",
+      "end": "2026-12-03T00:00:00-05:00",
+      "time_known": false,
+      "venue": "Jay Conference Bryant Park - Conference Center NYC, Event Space & Meeting Space Rentals, 109 West 39th Street, New York, NY, US",
+      "format": "in-person",
+      "organizer": "",
+      "description": "Spread awareness of open-source languages and tools within the data science and data-centric community.",
+      "categories": [
+        "AI/ML"
+      ],
+      "cost": "Cost not listed",
+      "is_free": null,
+      "student_only": false,
+      "source_url": "https://www.eventbrite.com/e/odsc-ai-nyc-ai-for-work-summit-tickets-1998353845145",
+      "source_name": "Eventbrite",
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "The page is reachable, but matching structured title, date and location evidence could not be confirmed. Details may have been extracted by AI.",
+      "confidence": 55,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://www.eventbrite.com/e/odsc-ai-nyc-ai-for-work-summit-tickets-1998353845145"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "812e48cdc68f6aaa",
+      "title": "AI Tech Founders & Investors: Pitch & Connect I Manhattan, New York",
+      "start": "2026-12-02T00:00:00-05:00",
+      "end": "2026-12-02T00:00:00-05:00",
+      "time_known": false,
+      "venue": "Whiskey Cellar NYC, 77 East 7th Street, New York, NY, US",
+      "format": "in-person",
+      "organizer": "",
+      "description": "A curated room for AI and Tech founders, investors, and professionals.",
+      "categories": [
+        "AI/ML",
+        "Emerging Tech"
+      ],
+      "cost": "Cost not listed",
+      "is_free": null,
+      "student_only": false,
+      "source_url": "https://www.eventbrite.com/e/ai-tech-founders-investors-pitch-connect-i-manhattan-new-york-tickets-2004864773507",
+      "source_name": "Eventbrite",
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "The page is reachable, but matching structured title, date and location evidence could not be confirmed. Details may have been extracted by AI.",
+      "confidence": 55,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://www.eventbrite.com/e/ai-tech-founders-investors-pitch-connect-i-manhattan-new-york-tickets-2004864773507"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "e187635293ee0f14",
+      "title": "AI & Tech Networking Event in NYC by Ascent Valley",
+      "start": "2026-12-02T00:00:00-05:00",
+      "end": "2026-12-02T00:00:00-05:00",
+      "time_known": false,
+      "venue": "The Lobby Bar & Garden, 518 West 27th Street, New York, NY, US",
+      "format": "in-person",
+      "organizer": "",
+      "description": "Meet AI builders, tech founders and operators in NYC. Compare product ideas, discuss practical AI use and explore working together.",
+      "categories": [
+        "AI/ML",
+        "Emerging Tech"
+      ],
+      "cost": "Cost not listed",
+      "is_free": null,
+      "student_only": false,
+      "source_url": "https://www.eventbrite.com/e/ai-tech-networking-event-in-nyc-by-ascent-valley-tickets-1999718943190",
+      "source_name": "Eventbrite",
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "The page is reachable, but matching structured title, date and location evidence could not be confirmed. Details may have been extracted by AI.",
+      "confidence": 55,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://www.eventbrite.com/e/ai-tech-networking-event-in-nyc-by-ascent-valley-tickets-1999718943190"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "7087c637f425b693",
+      "title": "AI Tech & Startup Night I Manhattan, New York",
+      "start": "2026-12-02T00:00:00-05:00",
+      "end": "2026-12-02T00:00:00-05:00",
+      "time_known": false,
+      "venue": "Tap Haus 33, 14 East 33rd Street, New York, NY, US",
+      "format": "in-person",
+      "organizer": "",
+      "description": "Meet AI & Startup founders, investors & builders in NY, Manhattan. Short intros, networking & real connections",
+      "categories": [
+        "AI/ML",
+        "Emerging Tech"
+      ],
+      "cost": "Cost not listed",
+      "is_free": null,
+      "student_only": false,
+      "source_url": "https://www.eventbrite.com/e/ai-tech-startup-night-i-manhattan-new-york-tickets-2004250218356",
+      "source_name": "Eventbrite",
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "The page is reachable, but matching structured title, date and location evidence could not be confirmed. Details may have been extracted by AI.",
+      "confidence": 55,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://www.eventbrite.com/e/ai-tech-startup-night-i-manhattan-new-york-tickets-2004250218356"
       ],
       "extraction": "jsonld"
     },
@@ -352,7 +644,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-12T20:41:42.016734+00:00",
-      "last_checked": "2026-11-24T22:56:40.581888+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
       "sources": [
         "https://events.trymimetic.com/events/nyc/ai-for-work-summit-odsc-ai-nyc-dec-2026"
       ],
@@ -381,7 +673,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-10-27T18:36:08.669428+00:00",
-      "last_checked": "2026-11-24T22:56:40.581888+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
       "sources": [
         "https://www.meetup.com/open-data-science-ny-odsc/events/316165866"
       ],
@@ -410,9 +702,38 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-12T20:41:42.016734+00:00",
-      "last_checked": "2026-11-24T22:56:40.581888+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
       "sources": [
         "https://events.trymimetic.com/events/nyc/nyc-pitch-night-w-the-ai-collective-nov-2026"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "0fa2bca51b68731d",
+      "title": "Show Your Work: NYC finance leaders on AI",
+      "start": "2026-12-02T17:30:00-05:00",
+      "end": "2026-12-02T20:30:00-05:00",
+      "time_known": true,
+      "venue": "New York City, New York City, NY, US",
+      "format": "in-person",
+      "organizer": "Campfire Events, Irina Silva, Rutger van Engelenhoven, Maddie, Kim Verkooij, Kristen Makoski, Ryan Russo, Alana Glasco",
+      "description": "Wed, Dec 2, 5:30 PM in New York City. Free. Approval required. Hosted by Campfire Events, Irina Silva. Happy Hour hosted by ADP x Campfire x Cloudzero x",
+      "categories": [
+        "AI/ML"
+      ],
+      "cost": "Free",
+      "is_free": true,
+      "student_only": false,
+      "source_url": "https://events.trymimetic.com/events/nyc/show-your-work-nyc-finance-leaders-on-ai-dec-2026",
+      "source_name": "events.trymimetic.com",
+      "registration_url": "https://events.trymimetic.com/events/nyc/show-your-work-nyc-finance-leaders-on-ai-dec-2026",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://events.trymimetic.com/events/nyc/show-your-work-nyc-finance-leaders-on-ai-dec-2026"
       ],
       "extraction": "jsonld"
     },
@@ -420,7 +741,7 @@
       "id": "47838275f38efded",
       "title": "AI AFTER: NYC Founders & Entrepreneurs Afterwork Hangout #9 (INDOOR)",
       "start": "2026-12-02T18:00:00-05:00",
-      "end": null,
+      "end": "2026-12-02T22:00:00-05:00",
       "time_known": true,
       "venue": "230 Fifth Rooftop Bar, 1150 Broadway, New York, NY 10001, USA, New York, NY, New York, NY, us",
       "format": "in-person",
@@ -439,7 +760,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-24T22:56:40.581888+00:00",
-      "last_checked": "2026-11-24T22:56:40.581888+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
       "sources": [
         "https://www.meetup.com/ai-circle-for-entrepreneurs/events/317489177"
       ],
@@ -451,7 +772,7 @@
       "start": "2026-12-02T18:00:00-05:00",
       "end": "2026-12-02T21:00:00-05:00",
       "time_known": true,
-      "venue": "American Whiskey - Midtown, 247 W 30th St, New York, NY 10001, USA, New York, NY, New York, NY, us",
+      "venue": "The Lobby Bar & Garden, 518 W 27th St Lower Level, New York, NY 10001, USA, New York, NY, New York, NY, us",
       "format": "in-person",
       "organizer": "Startup Networking & Founder Ecosystem | New York",
       "description": "**Startup networking event in NYC for founders, investors and tech talent**. Meet builders and connect with Ascent Valley community. Join founders, invest",
@@ -468,9 +789,67 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-24T22:56:40.581888+00:00",
-      "last_checked": "2026-11-24T22:56:40.581888+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
       "sources": [
         "https://www.meetup.com/startup-networking-founder-ecosystem-new-york/events/316405909"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "15ccdb6977fa6e4f",
+      "title": "Fonzi's Devs & Drinks",
+      "start": "2026-12-02T18:00:00-05:00",
+      "end": "2026-12-02T19:30:00-05:00",
+      "time_known": true,
+      "venue": "New York City, New York City, NY, US",
+      "format": "in-person",
+      "organizer": "Fonzi, NYC AI Engineers, Gwendolyn Canada, Lauren Cotta, Sebastian Cuadros",
+      "description": "Wed, Dec 2, 6 PM in New York City. Free. Approval required. Hosted by Fonzi, NYC AI Engineers, Gwendolyn Canada. Drinks, games, and a chance to hang with",
+      "categories": [
+        "AI/ML"
+      ],
+      "cost": "Free",
+      "is_free": true,
+      "student_only": false,
+      "source_url": "https://events.trymimetic.com/events/nyc/nov-ai-engineers-devs-drinks-nov-2026",
+      "source_name": "events.trymimetic.com",
+      "registration_url": "https://events.trymimetic.com/events/nyc/nov-ai-engineers-devs-drinks-nov-2026",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://events.trymimetic.com/events/nyc/nov-ai-engineers-devs-drinks-nov-2026"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "b8a672b6b348cb37",
+      "title": "Health AI Happy Hour - Health Frontier NYC🗽",
+      "start": "2026-12-02T18:00:00-05:00",
+      "end": "2026-12-02T21:00:00-05:00",
+      "time_known": true,
+      "venue": "New York City, New York City, NY, US",
+      "format": "in-person",
+      "organizer": "Healthcare AI Guy Media, Next Gen Hospital, Caleb Lee",
+      "description": "Wed, Dec 2, 6 PM in New York City. Free. Approval required. Hosted by Healthcare AI Guy Media, Next Gen Hospital. Join Healthcare AI Guy, Next Gen Hospital",
+      "categories": [
+        "AI/ML"
+      ],
+      "cost": "Free",
+      "is_free": true,
+      "student_only": false,
+      "source_url": "https://events.trymimetic.com/events/nyc/health-ai-happy-hour-health-frontier-nyc-dec-2026",
+      "source_name": "events.trymimetic.com",
+      "registration_url": "https://events.trymimetic.com/events/nyc/health-ai-happy-hour-health-frontier-nyc-dec-2026",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://events.trymimetic.com/events/nyc/health-ai-happy-hour-health-frontier-nyc-dec-2026"
       ],
       "extraction": "jsonld"
     },
@@ -478,15 +857,14 @@
       "id": "f7783931fb0a3501",
       "title": "The Trusted AI Social: Drinks & Conversations",
       "start": "2026-12-02T18:30:00-05:00",
-      "end": null,
+      "end": "2026-12-02T20:30:00-05:00",
       "time_known": true,
       "venue": "The Ten Bells, 247 Broome Street, New York, NY, New York, NY, US",
       "format": "in-person",
       "organizer": "NYC AI Governance & Safety",
       "description": "Join a small group of NYC professionals for an evening of drinks, conversation, and networking around the future of trustworthy AI. We'll bring together p",
       "categories": [
-        "AI/ML",
-        "Agents"
+        "AI/ML"
       ],
       "cost": "Cost not listed",
       "is_free": null,
@@ -498,7 +876,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-24T22:56:40.581888+00:00",
-      "last_checked": "2026-11-24T22:56:40.581888+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
       "sources": [
         "https://www.meetup.com/nyc-ai-governance-safety/events/317288861"
       ],
@@ -527,7 +905,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-24T22:56:40.581888+00:00",
-      "last_checked": "2026-11-24T22:56:40.581888+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
       "sources": [
         "https://www.meetup.com/wagmi-connect-networking-events/events/317126638"
       ],
@@ -556,7 +934,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-24T22:56:40.581888+00:00",
-      "last_checked": "2026-11-24T22:56:40.581888+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
       "sources": [
         "https://www.meetup.com/wagmi-connect-networking-events/events/317126634"
       ],
@@ -585,7 +963,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-24T22:56:40.581888+00:00",
-      "last_checked": "2026-11-24T22:56:40.581888+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
       "sources": [
         "https://www.meetup.com/wagmi-connect-networking-events/events/317126637"
       ],
@@ -614,7 +992,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-24T22:56:40.581888+00:00",
-      "last_checked": "2026-11-24T22:56:40.581888+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
       "sources": [
         "https://www.meetup.com/wagmi-connect-networking-events/events/317126642"
       ],
@@ -643,7 +1021,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-24T22:56:40.581888+00:00",
-      "last_checked": "2026-11-24T22:56:40.581888+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
       "sources": [
         "https://www.meetup.com/wagmi-connect-networking-events/events/317126641"
       ],
@@ -673,9 +1051,8 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-24T22:56:40.581888+00:00",
-      "last_checked": "2026-11-24T22:56:40.581888+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
       "sources": [
-        "https://www.meetup.com/wagmi-connect-networking-events/events/317126636",
         "https://www.meetup.com/wagmi-connect-networking-events/events/317126640"
       ],
       "extraction": "jsonld"
@@ -703,9 +1080,38 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-24T22:56:40.581888+00:00",
-      "last_checked": "2026-11-24T22:56:40.581888+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
       "sources": [
         "https://www.meetup.com/wagmi-connect-networking-events/events/317126639"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "1a363a64a00526e1",
+      "title": "Flatiron AI Reading Group (FLAIR)",
+      "start": "2026-12-02T19:30:00-05:00",
+      "end": "2026-12-02T21:00:00-05:00",
+      "time_known": true,
+      "venue": "New York City, New York City, NY, US",
+      "format": "in-person",
+      "organizer": "Sapien Team",
+      "description": "Wed, Dec 2, 7:30 PM in New York City. Free. Approval required. Hosted by Sapien Team. Every Wednesday, we pick a cool AI paper, discuss it as a group, and",
+      "categories": [
+        "AI/ML"
+      ],
+      "cost": "Free",
+      "is_free": true,
+      "student_only": false,
+      "source_url": "https://events.trymimetic.com/events/nyc/flatiron-ai-reading-group-flair-dec-2026",
+      "source_name": "events.trymimetic.com",
+      "registration_url": "https://events.trymimetic.com/events/nyc/flatiron-ai-reading-group-flair-dec-2026",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://events.trymimetic.com/events/nyc/flatiron-ai-reading-group-flair-dec-2026"
       ],
       "extraction": "jsonld"
     },
@@ -733,9 +1139,154 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-12T20:41:42.016734+00:00",
-      "last_checked": "2026-11-24T22:56:40.581888+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
       "sources": [
         "https://events.trymimetic.com/events/nyc/supper-in-tribeca-founders-investors-ai-dec-2026"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "e0a4715cde465db5",
+      "title": "Small Business AI Builder Event | New York",
+      "start": "2026-12-03T00:00:00-05:00",
+      "end": "2026-12-03T00:00:00-05:00",
+      "time_known": false,
+      "venue": "NoHo | 11th Floor, 166 Crosby St, New York, NY, US",
+      "format": "in-person",
+      "organizer": "",
+      "description": "Bring an idea. Leave with a plan! Join AI builders and small businesses for live demos, workshops, expert feedback, and chances to win!",
+      "categories": [
+        "AI/ML"
+      ],
+      "cost": "Cost not listed",
+      "is_free": null,
+      "student_only": false,
+      "source_url": "https://www.eventbrite.com/e/small-business-ai-builder-event-new-york-registration-2003517768579",
+      "source_name": "Eventbrite",
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "The page is reachable, but matching structured title, date and location evidence could not be confirmed. Details may have been extracted by AI.",
+      "confidence": 55,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://www.eventbrite.com/e/small-business-ai-builder-event-new-york-registration-2003517768579"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "11efd2a1415e4efc",
+      "title": "AI Workflow Lab: Build Your Creative Productivity System",
+      "start": "2026-12-03T00:00:00-05:00",
+      "end": "2026-12-03T00:00:00-05:00",
+      "time_known": false,
+      "venue": "Brooklyn Spark, 75 Stewart Avenue, Brooklyn, NY, US",
+      "format": "in-person",
+      "organizer": "",
+      "description": "Join this in-person lab to build a creative productivity system with AI.",
+      "categories": [
+        "AI/ML"
+      ],
+      "cost": "Cost not listed",
+      "is_free": null,
+      "student_only": false,
+      "source_url": "https://www.eventbrite.com/e/ai-workflow-lab-build-your-creative-productivity-system-tickets-2005015028925",
+      "source_name": "Eventbrite",
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "The page is reachable, but matching structured title, date and location evidence could not be confirmed. Details may have been extracted by AI.",
+      "confidence": 55,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://www.eventbrite.com/e/ai-workflow-lab-build-your-creative-productivity-system-tickets-2005015028925"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "761812da1c59e5fe",
+      "title": "AI Automation for B2B: What Founders Get Right",
+      "start": "2026-12-03T00:00:00-05:00",
+      "end": "2026-12-03T00:00:00-05:00",
+      "time_known": false,
+      "venue": "Luma Studios, 307 West 38th Street, New York, NY, US",
+      "format": "in-person",
+      "organizer": "",
+      "description": "Every company wants AI automation, but few early-stage startups know how to sell it.",
+      "categories": [
+        "AI/ML"
+      ],
+      "cost": "Cost not listed",
+      "is_free": null,
+      "student_only": false,
+      "source_url": "https://www.eventbrite.com/e/ai-automation-for-b2b-what-founders-get-right-tickets-2005100162562",
+      "source_name": "Eventbrite",
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "The page is reachable, but matching structured title, date and location evidence could not be confirmed. Details may have been extracted by AI.",
+      "confidence": 55,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://www.eventbrite.com/e/ai-automation-for-b2b-what-founders-get-right-tickets-2005100162562"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "8200815f23dc1a1a",
+      "title": "A Friendly Introduction to AI Part 2 IN-PERSON AT DOROT",
+      "start": "2026-12-03T00:00:00-05:00",
+      "end": "2026-12-03T00:00:00-05:00",
+      "time_known": false,
+      "venue": "Dorot, 171 West 85th Street, New York, NY, US",
+      "format": "in-person",
+      "organizer": "",
+      "description": "Join us IN-PERSON for an interactive workshop exploring the fun and useful ways AI can help!",
+      "categories": [
+        "AI/ML"
+      ],
+      "cost": "Cost not listed",
+      "is_free": null,
+      "student_only": false,
+      "source_url": "https://www.eventbrite.com/e/a-friendly-introduction-to-ai-part-2-in-person-at-dorot-tickets-2004614327416",
+      "source_name": "Eventbrite",
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "The page is reachable, but matching structured title, date and location evidence could not be confirmed. Details may have been extracted by AI.",
+      "confidence": 55,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://www.eventbrite.com/e/a-friendly-introduction-to-ai-part-2-in-person-at-dorot-tickets-2004614327416"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "5eb0c7c44c337054",
+      "title": "The Human Workflow Exchange: AI, Focus & Connection",
+      "start": "2026-12-03T00:00:00-05:00",
+      "end": "2026-12-03T00:00:00-05:00",
+      "time_known": false,
+      "venue": "WorkHouse NYC, 21 West 46th Street, New York, NY, US",
+      "format": "in-person",
+      "organizer": "",
+      "description": "Swap ideas on how AI can boost focus and connection - and make work feel more human.",
+      "categories": [
+        "AI/ML"
+      ],
+      "cost": "Cost not listed",
+      "is_free": null,
+      "student_only": false,
+      "source_url": "https://www.eventbrite.com/e/the-human-workflow-exchange-ai-focus-connection-tickets-2005004124309",
+      "source_name": "Eventbrite",
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "The page is reachable, but matching structured title, date and location evidence could not be confirmed. Details may have been extracted by AI.",
+      "confidence": 55,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://www.eventbrite.com/e/the-human-workflow-exchange-ai-focus-connection-tickets-2005004124309"
       ],
       "extraction": "jsonld"
     },
@@ -762,7 +1313,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-21T19:59:06.273433+00:00",
-      "last_checked": "2026-11-24T22:56:40.581888+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
       "sources": [
         "https://www.meetup.com/aittg-nyc/events/317479236"
       ],
@@ -772,7 +1323,7 @@
       "id": "f5b92decba0ab205",
       "title": "Bluehost AI Builder Tour - New York",
       "start": "2026-12-03T09:00:00-05:00",
-      "end": null,
+      "end": "2026-12-03T17:00:00-05:00",
       "time_known": true,
       "venue": "Automattic, 166 Crosby St, New York, NY 10012, USA, New York, NY, New York, NY, us",
       "format": "in-person",
@@ -792,9 +1343,38 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-24T22:56:40.581888+00:00",
-      "last_checked": "2026-11-24T22:56:40.581888+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
       "sources": [
         "https://www.meetup.com/nyc-agentic-enterprise-ai/events/317479313"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "bccb40b8622b530c",
+      "title": "Consumer tech day: pitch show & growth talk",
+      "start": "2026-12-03T15:00:00-05:00",
+      "end": "2026-12-03T19:00:00-05:00",
+      "time_known": true,
+      "venue": "New York City, New York City, NY, US",
+      "format": "in-person",
+      "organizer": "TRMNL4, Tania Ladanova, Flyer One Ventures, Alanna @ Paddle, Jeff Cohen, Diana Florescu, Sahar Mor (Bond AI)",
+      "description": "Thu, Dec 3, 3 PM in New York City. Free. 7 attending. Approval required. Hosted by TRMNL4, Tania Ladanova. On December 3, TRMNL4 is bringing its flagship",
+      "categories": [
+        "Emerging Tech"
+      ],
+      "cost": "Free",
+      "is_free": true,
+      "student_only": false,
+      "source_url": "https://events.trymimetic.com/events/nyc/consumer-tech-day-pitch-show-growth-talk-dec-2026",
+      "source_name": "events.trymimetic.com",
+      "registration_url": "https://events.trymimetic.com/events/nyc/consumer-tech-day-pitch-show-growth-talk-dec-2026",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://events.trymimetic.com/events/nyc/consumer-tech-day-pitch-show-growth-talk-dec-2026"
       ],
       "extraction": "jsonld"
     },
@@ -804,10 +1384,10 @@
       "start": "2026-12-03T17:00:00-05:00",
       "end": "2026-12-03T21:00:00-05:00",
       "time_known": true,
-      "venue": "New York City, New York City, NY, US",
+      "venue": "Fabrik DUMBO, 20 Jay St Suite 218, Brooklyn, NY 11201, USA, Fabrik DUMBO, 20 Jay St Suite 218, Brooklyn, NY 11201, USA, New York City, NY, US",
       "format": "in-person",
       "organizer": "Christopher Martinez, Arun Prasad, Tavily Events, Greta Ernst, Tyrel McAllister, Eli Stern, Sahar Mor (Bond AI), Rafa Barroso, Andrés Cano, Mateo Zarate, Fabrik",
-      "description": "Thu, Dec 3, 5 PM in New York City. Free. 77 attending. Approval required. Hosted by Christopher Martinez, Arun Prasad. More AI events in New York City on Mimetic.",
+      "description": "Thu, Dec 3, 5 PM at Fabrik DUMBO, New York City. Free. 79 attending. Approval required. Hosted by Christopher Martinez, Arun Prasad. More AI events in New York City on Mimetic.",
       "categories": [
         "AI/ML",
         "Agents"
@@ -822,7 +1402,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-12T20:41:42.016734+00:00",
-      "last_checked": "2026-11-24T22:56:40.581888+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
       "sources": [
         "https://events.trymimetic.com/events/nyc/agents-of-risk-insurance-ai-build-pitch-dec-2026"
       ],
@@ -851,7 +1431,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-21T19:59:06.273433+00:00",
-      "last_checked": "2026-11-24T22:56:40.581888+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
       "sources": [
         "https://www.meetup.com/nyc-professional-networking/events/317440230"
       ],
@@ -880,7 +1460,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-12T20:41:42.016734+00:00",
-      "last_checked": "2026-11-24T22:56:40.581888+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
       "sources": [
         "https://events.trymimetic.com/events/nyc/can-ai-learn-without-humans-dec-2026"
       ],
@@ -909,9 +1489,39 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-21T19:59:06.273433+00:00",
-      "last_checked": "2026-11-24T22:56:40.581888+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
       "sources": [
         "https://www.meetup.com/nyc-professional-networking/events/317440153"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "323c62500d21552f",
+      "title": "AI Revolution December 4th",
+      "start": "2026-12-04T00:00:00-05:00",
+      "end": "2026-12-04T00:00:00-05:00",
+      "time_known": false,
+      "venue": "New York, New York, New York, NY, US",
+      "format": "in-person",
+      "organizer": "",
+      "description": "The virtual learning series for technology, product, delivery, and transformation leaders. Three themed summits — June, September, December",
+      "categories": [
+        "AI/ML",
+        "Emerging Tech"
+      ],
+      "cost": "Cost not listed",
+      "is_free": null,
+      "student_only": false,
+      "source_url": "https://www.eventbrite.com/e/ai-revolution-december-4th-tickets-2001396713446",
+      "source_name": "Eventbrite",
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "The page is reachable, but matching structured title, date and location evidence could not be confirmed. Details may have been extracted by AI.",
+      "confidence": 55,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://www.eventbrite.com/e/ai-revolution-december-4th-tickets-2001396713446"
       ],
       "extraction": "jsonld"
     },
@@ -939,7 +1549,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-18T21:10:24.492633+00:00",
-      "last_checked": "2026-11-24T22:56:40.581888+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
       "sources": [
         "https://happening-nyc.com/event/mlai-seminar-vahab-mirrokni-google-7a09416a1f522e77720841621e52267f7c0c"
       ],
@@ -969,7 +1579,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-18T21:10:24.492633+00:00",
-      "last_checked": "2026-11-24T22:56:40.581888+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
       "sources": [
         "https://www.hackathonradar.com/database/hackathon/health-frontier-nyc-hackathon-2026"
       ],
@@ -998,9 +1608,38 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-12T20:41:42.016734+00:00",
-      "last_checked": "2026-11-24T22:56:40.581888+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
       "sources": [
         "https://www.hackathonradar.com/database/hackathon/agentic-finance-hack-2026"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "7873a1accf4cef74",
+      "title": "Agentic Finance Hack",
+      "start": "2026-12-05T09:30:00-05:00",
+      "end": "2026-12-05T19:30:00-05:00",
+      "time_known": true,
+      "venue": "New York City, New York City, NY, US",
+      "format": "in-person",
+      "organizer": "tokens&, Alessandro Amenta, Jacopo Piazza, Somya Gupta, Olivia Iarmak",
+      "description": "Sat, Dec 5, 9:30 AM in New York City. Free. Approval required. Hosted by tokens&, Alessandro Amenta. Choose a CFO headache. Build an AI app to solve it. Join",
+      "categories": [
+        "Agents"
+      ],
+      "cost": "Free",
+      "is_free": true,
+      "student_only": false,
+      "source_url": "https://events.trymimetic.com/events/nyc/light-x-lovable-x-mckinsey-qb-finance-hackathon-may-2026",
+      "source_name": "events.trymimetic.com",
+      "registration_url": "https://events.trymimetic.com/events/nyc/light-x-lovable-x-mckinsey-qb-finance-hackathon-may-2026",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://events.trymimetic.com/events/nyc/light-x-lovable-x-mckinsey-qb-finance-hackathon-may-2026"
       ],
       "extraction": "jsonld"
     },
@@ -1022,14 +1661,219 @@
       "student_only": false,
       "source_url": "https://arclight.events/event/agentic-finance-hack-ynn7bb",
       "source_name": "arclight.events",
-      "registration_url": "https://arclight.events/event/agentic-finance-hack-ynn7bb",
-      "verification": "verified",
-      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
-      "confidence": 90,
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "Retained from an earlier collection. This run could not confirm the event again; check the source for changes.",
+      "confidence": 25,
       "first_seen": "2026-11-01T18:18:39.814150+00:00",
       "last_checked": "2026-11-24T22:56:40.581888+00:00",
       "sources": [
         "https://arclight.events/event/agentic-finance-hack-ynn7bb"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "4712df2b55942fd3",
+      "title": "Deepline GTM + AI Outcome Engineering Lightning Talks NYC - Speakers from Ramp, Rippling, Profound, Sequen, Cognition, OneGTM, Dust",
+      "start": "2026-12-07T18:00:00-05:00",
+      "end": "2026-12-07T20:45:00-05:00",
+      "time_known": true,
+      "venue": "New York City, New York City, NY, US",
+      "format": "in-person",
+      "organizer": "Jai Toor, Christian Haskins",
+      "description": "Mon, Dec 7, 6 PM in New York City. Sold out. 110 attending. Approval required. Hosted by Jai Toor, Christian Haskins. More AI events in New York City on Mimetic.",
+      "categories": [
+        "AI/ML"
+      ],
+      "cost": "Free",
+      "is_free": true,
+      "student_only": false,
+      "source_url": "https://events.trymimetic.com/events/nyc/deepline-gtm-ai-outcome-engineering-lightning-talks-nyc-speakers-from-ramp",
+      "source_name": "events.trymimetic.com",
+      "registration_url": "https://events.trymimetic.com/events/nyc/deepline-gtm-ai-outcome-engineering-lightning-talks-nyc-speakers-from-ramp",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://events.trymimetic.com/events/nyc/deepline-gtm-ai-outcome-engineering-lightning-talks-nyc-speakers-from-ramp"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "80711c8c990359c1",
+      "title": "Building AI Applications at Scale (New York City)",
+      "start": "2026-12-08T00:00:00-05:00",
+      "end": "2026-12-08T00:00:00-05:00",
+      "time_known": false,
+      "venue": "159 W 25th St 3rd floor, 159 West 25th Street, New York, NY, US",
+      "format": "in-person",
+      "organizer": "",
+      "description": "AI demos are everywhere? But what is actually working in production? Joins us for practical engineering stories and lessons learned.",
+      "categories": [
+        "AI/ML"
+      ],
+      "cost": "Cost not listed",
+      "is_free": null,
+      "student_only": false,
+      "source_url": "https://www.eventbrite.com/e/building-ai-applications-at-scale-new-york-city-tickets-2004916706841",
+      "source_name": "Eventbrite",
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "The page is reachable, but matching structured title, date and location evidence could not be confirmed. Details may have been extracted by AI.",
+      "confidence": 55,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://www.eventbrite.com/e/building-ai-applications-at-scale-new-york-city-tickets-2004916706841"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "9277ed8cbe404d3a",
+      "title": "NYC AI & Tech Industry Professionals Networking Event",
+      "start": "2026-12-08T00:00:00-05:00",
+      "end": "2026-12-08T00:00:00-05:00",
+      "time_known": false,
+      "venue": "The Three Monkeys, 832 8th Avenue, New York, NY, US",
+      "format": "in-person",
+      "organizer": "",
+      "description": "Connect with AI enthusiasts, technology professionals, startup founders, and business leaders driving the digital world forward!",
+      "categories": [
+        "AI/ML",
+        "Emerging Tech"
+      ],
+      "cost": "Cost not listed",
+      "is_free": null,
+      "student_only": false,
+      "source_url": "https://www.eventbrite.com/e/nyc-ai-tech-industry-professionals-networking-event-tickets-2004164647411",
+      "source_name": "Eventbrite",
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "The page is reachable, but matching structured title, date and location evidence could not be confirmed. Details may have been extracted by AI.",
+      "confidence": 55,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://www.eventbrite.com/e/nyc-ai-tech-industry-professionals-networking-event-tickets-2004164647411"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "deb6ed1faf87c12c",
+      "title": "AIMLC Meetup: Did AI Break The Navier-Stokes Equations?",
+      "start": "2026-12-08T00:00:00-05:00",
+      "end": "2026-12-08T00:00:00-05:00",
+      "time_known": false,
+      "venue": "11 W 19th St, 11 West 19th Street, New York, NY, US",
+      "format": "in-person",
+      "organizer": "",
+      "description": "Understanding and Advancing General Intelligence",
+      "categories": [
+        "AI/ML"
+      ],
+      "cost": "Cost not listed",
+      "is_free": null,
+      "student_only": false,
+      "source_url": "https://www.eventbrite.com/e/aimlc-meetup-did-ai-break-the-navier-stokes-equations-tickets-1138363639289",
+      "source_name": "Eventbrite",
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "The page is reachable, but matching structured title, date and location evidence could not be confirmed. Details may have been extracted by AI.",
+      "confidence": 55,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://www.eventbrite.com/e/aimlc-meetup-did-ai-break-the-navier-stokes-equations-tickets-1138363639289"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "7925a59c528f7642",
+      "title": "NYC AI & Tech Startups, Investors, Innovators Networking Mixer",
+      "start": "2026-12-08T00:00:00-05:00",
+      "end": "2026-12-08T00:00:00-05:00",
+      "time_known": false,
+      "venue": "The Three Monkeys, 832 8th Avenue, New York, NY, US",
+      "format": "in-person",
+      "organizer": "",
+      "description": "Discover cutting-edge AI & ML startups, pitch your ideas, and network with investors, founders, and tech innovators.",
+      "categories": [
+        "AI/ML",
+        "Emerging Tech"
+      ],
+      "cost": "Cost not listed",
+      "is_free": null,
+      "student_only": false,
+      "source_url": "https://www.eventbrite.com/e/nyc-ai-tech-startups-investors-innovators-networking-mixer-tickets-2004164363562",
+      "source_name": "Eventbrite",
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "The page is reachable, but matching structured title, date and location evidence could not be confirmed. Details may have been extracted by AI.",
+      "confidence": 55,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://www.eventbrite.com/e/nyc-ai-tech-startups-investors-innovators-networking-mixer-tickets-2004164363562"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "4d1bfb697608aab8",
+      "title": "Pixels and Poetics [exhibition opening]",
+      "start": "2026-12-08T00:00:00-05:00",
+      "end": "2026-12-08T00:00:00-05:00",
+      "time_known": false,
+      "venue": "Bohemian National Hall, 321 East 73rd Street, New York, NY, US",
+      "format": "in-person",
+      "organizer": "",
+      "description": "Explore photography and AI at an exhibition opening with a curator-led tour and an interactive performance by Lenka Hámošová.",
+      "categories": [
+        "AI/ML"
+      ],
+      "cost": "Cost not listed",
+      "is_free": null,
+      "student_only": false,
+      "source_url": "https://www.eventbrite.com/e/pixels-and-poetics-exhibition-opening-tickets-2004793271643",
+      "source_name": "Eventbrite",
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "The page is reachable, but matching structured title, date and location evidence could not be confirmed. Details may have been extracted by AI.",
+      "confidence": 55,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://www.eventbrite.com/e/pixels-and-poetics-exhibition-opening-tickets-2004793271643"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "14b2967aa4c5e9fc",
+      "title": "Cornell Tech Presents: Builders and Disruptors",
+      "start": "2026-12-08T00:00:00-05:00",
+      "end": "2026-12-08T00:00:00-05:00",
+      "time_known": false,
+      "venue": "Verizon Executive Education Center, 34 North Loop Road, New York, NY, US",
+      "format": "in-person",
+      "organizer": "",
+      "description": "Cornell Tech Presents: Builders and Disruptors",
+      "categories": [
+        "Emerging Tech"
+      ],
+      "cost": "Cost not listed",
+      "is_free": null,
+      "student_only": false,
+      "source_url": "https://www.eventbrite.com/e/cornell-tech-presents-builders-and-disruptors-tickets-2004247941546",
+      "source_name": "Eventbrite",
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "The page is reachable, but matching structured title, date and location evidence could not be confirmed. Details may have been extracted by AI.",
+      "confidence": 55,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://www.eventbrite.com/e/cornell-tech-presents-builders-and-disruptors-tickets-2004247941546"
       ],
       "extraction": "jsonld"
     },
@@ -1081,10 +1925,10 @@
       "student_only": false,
       "source_url": "https://happening-nyc.com/event/building-ai-applications-at-scale-new-york-city-7a09416a1f51277e7f00406c185321767f08",
       "source_name": "happening-nyc.com",
-      "registration_url": "https://happening-nyc.com/event/building-ai-applications-at-scale-new-york-city-7a09416a1f51277e7f00406c185321767f08",
-      "verification": "verified",
-      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
-      "confidence": 90,
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "Retained from an earlier collection. This run could not confirm the event again; check the source for changes.",
+      "confidence": 25,
       "first_seen": "2026-11-18T21:10:24.492633+00:00",
       "last_checked": "2026-11-24T22:56:40.581888+00:00",
       "sources": [
@@ -1101,7 +1945,7 @@
       "venue": "74Wythe, 74 Wythe Ave, Brooklyn, NY 11249, USA, 74Wythe, 74 Wythe Ave, Brooklyn, NY 11249, USA, New York City, NY, US",
       "format": "in-person",
       "organizer": "Twilio, Jacopo Piazza, SWARM NYC, CUSP at NYU Tandon, Emily Ong, Major League Hacking",
-      "description": "Tue, Dec 8, 5 PM at 74Wythe, New York City. Free. 222 attending. Hosted by Twilio, Jacopo Piazza. The Twilio team is in town for AI Week, and we're kicking",
+      "description": "Tue, Dec 8, 5 PM at 74Wythe, New York City. Sold out. 250 attending. Hosted by Twilio, Jacopo Piazza. The Twilio team is in town for AI Week, and we're",
       "categories": [
         "AI/ML"
       ],
@@ -1115,9 +1959,68 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-12T20:41:42.016734+00:00",
-      "last_checked": "2026-11-24T22:56:40.581888+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
       "sources": [
         "https://events.trymimetic.com/events/nyc/twilio-assemble-nyc-the-future-of-comms-ai-dec-2026"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "28cfd3ff73074ee9",
+      "title": "From Pilot to Patient: Deploying AI Agents in Healthcare",
+      "start": "2026-12-08T17:30:00-05:00",
+      "end": "2026-12-08T21:00:00-05:00",
+      "time_known": true,
+      "venue": "Civic Hall, 124 E 14th St, New York, NY 10003, USA, Civic Hall, 124 E 14th St, New York, NY 10003, USA, New York City, NY, US",
+      "format": "in-person",
+      "organizer": "Christopher Martinez, Arun Prasad, Civic Hall, Sharon Rao, Sahar Mor (Bond AI), Tara Sangal, Rafa Barroso, Andrés Cano, Mateo Zarate",
+      "description": "Tue, Dec 8, 5:30 PM at Civic Hall, New York City. Free. 65 attending. Approval required. Hosted by Christopher Martinez, Arun Prasad. More AI events in New York City on Mimetic.",
+      "categories": [
+        "AI/ML",
+        "Agents"
+      ],
+      "cost": "Free",
+      "is_free": true,
+      "student_only": false,
+      "source_url": "https://events.trymimetic.com/events/nyc/from-pilot-to-patient-deploying-ai-agents-in-healthcare-dec-2026",
+      "source_name": "events.trymimetic.com",
+      "registration_url": "https://events.trymimetic.com/events/nyc/from-pilot-to-patient-deploying-ai-agents-in-healthcare-dec-2026",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://events.trymimetic.com/events/nyc/from-pilot-to-patient-deploying-ai-agents-in-healthcare-dec-2026"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "5007514c59849f16",
+      "title": "Data and AI Beyond the Demo: An Executive Roundtable & Dinner",
+      "start": "2026-12-08T18:30:00-05:00",
+      "end": "2026-12-08T21:30:00-05:00",
+      "time_known": true,
+      "venue": "New York City, New York City, NY, US",
+      "format": "in-person",
+      "organizer": "TiDB, powered by PingCAP, Philippe Felix, Ritika, Sahar Mor (Bond AI)",
+      "description": "Tue, Dec 8, 6:30 PM in New York City. Free. Approval required. Hosted by TiDB, powered by PingCAP, Philippe Felix. More AI events in New York City on Mimetic.",
+      "categories": [
+        "AI/ML"
+      ],
+      "cost": "Free",
+      "is_free": true,
+      "student_only": false,
+      "source_url": "https://events.trymimetic.com/events/nyc/data-and-ai-beyond-the-demo-an-executive-roundtable-dinner-dec-2026",
+      "source_name": "events.trymimetic.com",
+      "registration_url": "https://events.trymimetic.com/events/nyc/data-and-ai-beyond-the-demo-an-executive-roundtable-dinner-dec-2026",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://events.trymimetic.com/events/nyc/data-and-ai-beyond-the-demo-an-executive-roundtable-dinner-dec-2026"
       ],
       "extraction": "jsonld"
     },
@@ -1145,9 +2048,99 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-12T20:41:42.016734+00:00",
-      "last_checked": "2026-11-24T22:56:40.581888+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
       "sources": [
         "https://events.trymimetic.com/events/nyc/ai-agents-security-tapas-night-before-the-ai-summit-dec-2026"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "e0eaab8a0043f72e",
+      "title": "The AI Summit New York | Where Commercial AI Comes to Life",
+      "start": "2026-12-08T19:00:00-05:00",
+      "end": "2026-12-09T19:00:00-05:00",
+      "time_known": true,
+      "venue": "Javits Center, New York, US",
+      "format": "in-person",
+      "organizer": "The AI Summit",
+      "description": "The AI Summit New York, taking place December 9-10, 2026 at the Javits Center in New York, is an essential event for anyone involved in AI, tech innovation, or digital transformation. This prestigious",
+      "categories": [
+        "AI/ML",
+        "Emerging Tech"
+      ],
+      "cost": "Cost not listed",
+      "is_free": null,
+      "student_only": false,
+      "source_url": "https://createwith.com/event/new-york-the-ai-summit-new-york-where-commercial-ai-comes-to-life-dec-2026",
+      "source_name": "createwith.com",
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "The page is reachable, but matching structured title, date and location evidence could not be confirmed. Details may have been extracted by AI.",
+      "confidence": 55,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://createwith.com/event/new-york-the-ai-summit-new-york-where-commercial-ai-comes-to-life-dec-2026"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "4420122bee32c69b",
+      "title": "Hackathon | The AI Summit New York",
+      "start": "2026-12-08T19:00:00-05:00",
+      "end": "2026-12-09T19:00:00-05:00",
+      "time_known": true,
+      "venue": "Javits Center, New York City, New York, US",
+      "format": "in-person",
+      "organizer": "The AI Summit New York",
+      "description": "Ready to prototype game-changing AI applications in just eight hours? The Hackathon at The AI Summit [New York](https://www.createwith.com/cities/new-york) is a high-energy, data-driven challenge taki",
+      "categories": [
+        "AI/ML",
+        "Emerging Tech"
+      ],
+      "cost": "Cost not listed",
+      "is_free": null,
+      "student_only": false,
+      "source_url": "https://createwith.com/event/new-york-hackathon-the-ai-summit-new-york-dec-2026",
+      "source_name": "createwith.com",
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "The page is reachable, but matching structured title, date and location evidence could not be confirmed. Details may have been extracted by AI.",
+      "confidence": 55,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://createwith.com/event/new-york-hackathon-the-ai-summit-new-york-dec-2026"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "f04f7d540824ef7c",
+      "title": "The AI Summit New York 2026",
+      "start": "2026-12-08T19:00:00-05:00",
+      "end": "2026-12-09T19:00:00-05:00",
+      "time_known": true,
+      "venue": "Javits Convention Center, New York, US",
+      "format": "in-person",
+      "organizer": "The AI Summit Series (Informa PLC)",
+      "description": "The AI Summit New York 2026 returns to the Javits Convention Center on December 9-10, bringing together the world's leading AI innovators, enterprise decision-makers, and emerging tech talent for two",
+      "categories": [
+        "AI/ML",
+        "Emerging Tech"
+      ],
+      "cost": "Cost not listed",
+      "is_free": null,
+      "student_only": false,
+      "source_url": "https://createwith.com/event/new-york-the-ai-summit-new-york-2026-dec-2026",
+      "source_name": "createwith.com",
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "The page is reachable, but matching structured title, date and location evidence could not be confirmed. Details may have been extracted by AI.",
+      "confidence": 55,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://createwith.com/event/new-york-the-ai-summit-new-york-2026-dec-2026"
       ],
       "extraction": "jsonld"
     },
@@ -1170,10 +2163,10 @@
       "student_only": false,
       "source_url": "https://www.meetup.com/startup-pitch-networking-nyc/events/317311521",
       "source_name": "Meetup",
-      "registration_url": "https://www.meetup.com/startup-pitch-networking-nyc/events/317311521/",
-      "verification": "verified",
-      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
-      "confidence": 90,
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "Retained from an earlier collection. This run could not confirm the event again; check the source for changes.",
+      "confidence": 25,
       "first_seen": "2026-11-24T22:56:40.581888+00:00",
       "last_checked": "2026-11-24T22:56:40.581888+00:00",
       "sources": [
@@ -1182,15 +2175,15 @@
       "extraction": "jsonld"
     },
     {
-      "id": "f6724be732de00e9",
-      "title": "The AI Summit New York | Where Commercial AI Comes to Life",
+      "id": "a913832d18ffeb2d",
+      "title": "Integrating Blockchain and AI (Artificial Intelligence) | New York City",
       "start": "2026-12-09T00:00:00-05:00",
-      "end": "2026-12-10T00:00:00-05:00",
+      "end": "2026-12-09T00:00:00-05:00",
       "time_known": false,
-      "venue": "Javits Center, New York, US",
+      "venue": "New York, Online Event, New York, NY, US",
       "format": "in-person",
-      "organizer": "The AI Summit",
-      "description": "The AI Summit New York, taking place December 9-10, 2026 at the Javits Center in New York, is an essential event for anyone involved in AI, tech innovation, or digital transformation. This prestigious two-day conference hosts over 5,000 attendees and features 10 content stages spread across a robust program including interactive workshops, case stu",
+      "organizer": "",
+      "description": "2-hours live online training to help you navigate the convergence of Blockchain and AI (Artificial Intelligence).",
       "categories": [
         "AI/ML",
         "Emerging Tech"
@@ -1198,77 +2191,74 @@
       "cost": "Cost not listed",
       "is_free": null,
       "student_only": false,
-      "source_url": "https://createwith.com/event/new-york-the-ai-summit-new-york-where-commercial-ai-comes-to-life-dec-2026",
-      "source_name": "createwith.com",
-      "registration_url": "https://createwith.com/event/new-york-the-ai-summit-new-york-where-commercial-ai-comes-to-life-dec-2026",
-      "verification": "verified",
-      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
-      "confidence": 90,
-      "first_seen": "2026-11-16T22:46:33.453541+00:00",
-      "last_checked": "2026-11-24T22:56:40.581888+00:00",
+      "source_url": "https://www.eventbrite.com/e/integrating-blockchain-and-ai-artificial-intelligence-new-york-city-tickets-1968901767187",
+      "source_name": "Eventbrite",
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "The page is reachable, but matching structured title, date and location evidence could not be confirmed. Details may have been extracted by AI.",
+      "confidence": 55,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
       "sources": [
-        "https://createwith.com/event/new-york-the-ai-summit-new-york-where-commercial-ai-comes-to-life-dec-2026"
+        "https://www.eventbrite.com/e/integrating-blockchain-and-ai-artificial-intelligence-new-york-city-tickets-1968901767187"
       ],
       "extraction": "jsonld"
     },
     {
-      "id": "15057008c3a1dffe",
-      "title": "Hackathon | The AI Summit New York",
+      "id": "f4b4865b3ece25d4",
+      "title": "Introduction to Statistical Computing with the R Programming Language",
       "start": "2026-12-09T00:00:00-05:00",
-      "end": "2026-12-10T00:00:00-05:00",
+      "end": "2026-12-09T00:00:00-05:00",
       "time_known": false,
-      "venue": "Javits Center, New York City, New York, US",
+      "venue": "Pier 57 (Seahorse Community Classroom), 25 11th Avenue, New York, NY, US",
       "format": "in-person",
-      "organizer": "The AI Summit New York",
-      "description": "Ready to prototype game-changing AI applications in just eight hours? The Hackathon at The AI Summit New York is a high-energy, data-driven challenge taking place December 9-10, 2026, at the iconic Javits Center. This fringe event brings together university students and early-career professionals for an intensive on-site competition focused on buil",
+      "organizer": "",
+      "description": "This hands-on workshop mixes powerpoint-free discussion of open source R with guided coding examples for data analysis. Bring your laptop!!",
       "categories": [
-        "AI/ML",
-        "Emerging Tech",
-        "Students"
-      ],
-      "cost": "Cost not listed",
-      "is_free": null,
-      "student_only": false,
-      "source_url": "https://createwith.com/event/new-york-hackathon-the-ai-summit-new-york-dec-2026",
-      "source_name": "createwith.com",
-      "registration_url": "https://createwith.com/event/new-york-hackathon-the-ai-summit-new-york-dec-2026",
-      "verification": "verified",
-      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
-      "confidence": 90,
-      "first_seen": "2026-11-13T20:23:37.001585+00:00",
-      "last_checked": "2026-11-24T22:56:40.581888+00:00",
-      "sources": [
-        "https://createwith.com/event/new-york-hackathon-the-ai-summit-new-york-dec-2026"
-      ],
-      "extraction": "jsonld"
-    },
-    {
-      "id": "d96e37874ff085cc",
-      "title": "The AI Summit New York 2026",
-      "start": "2026-12-09T00:00:00-05:00",
-      "end": "2026-12-10T00:00:00-05:00",
-      "time_known": false,
-      "venue": "Javits Convention Center, New York, US",
-      "format": "in-person",
-      "organizer": "The AI Summit Series (Informa PLC)",
-      "description": "The AI Summit New York 2026 returns to the Javits Convention Center on December 9-10, bringing together the world's leading AI innovators, enterprise decision-makers, and emerging tech talent for two days of immersive learning and networking. As part of the global AI Summit Series by Informa PLC, this flagship North American event features over 100",
-      "categories": [
-        "AI/ML",
         "Emerging Tech"
       ],
       "cost": "Cost not listed",
       "is_free": null,
       "student_only": false,
-      "source_url": "https://createwith.com/event/new-york-the-ai-summit-new-york-2026-dec-2026",
-      "source_name": "createwith.com",
-      "registration_url": "https://createwith.com/event/new-york-the-ai-summit-new-york-2026-dec-2026",
-      "verification": "verified",
-      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
-      "confidence": 90,
-      "first_seen": "2026-11-13T20:23:37.001585+00:00",
-      "last_checked": "2026-11-24T22:56:40.581888+00:00",
+      "source_url": "https://www.eventbrite.com/e/introduction-to-statistical-computing-with-the-r-programming-language-tickets-2004785948740",
+      "source_name": "Eventbrite",
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "The page is reachable, but matching structured title, date and location evidence could not be confirmed. Details may have been extracted by AI.",
+      "confidence": 55,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
       "sources": [
-        "https://createwith.com/event/new-york-the-ai-summit-new-york-2026-dec-2026"
+        "https://www.eventbrite.com/e/introduction-to-statistical-computing-with-the-r-programming-language-tickets-2004785948740"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "d614529b1e992e09",
+      "title": "Entrepreneur of Influence Challenge",
+      "start": "2026-12-09T00:00:00-05:00",
+      "end": "2026-12-10T00:00:00-05:00",
+      "time_known": false,
+      "venue": "New York, Location TBA, New York, NY, US",
+      "format": "in-person",
+      "organizer": "",
+      "description": "How to Leverage Live Digital Events to Accelerate Growth, Revenue & Opportunities in the AI Economy",
+      "categories": [
+        "AI/ML"
+      ],
+      "cost": "Cost not listed",
+      "is_free": null,
+      "student_only": false,
+      "source_url": "https://www.eventbrite.com/e/entrepreneur-of-influence-challenge-tickets-2004484085860",
+      "source_name": "Eventbrite",
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "The page is reachable, but matching structured title, date and location evidence could not be confirmed. Details may have been extracted by AI.",
+      "confidence": 55,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://www.eventbrite.com/e/entrepreneur-of-influence-challenge-tickets-2004484085860"
       ],
       "extraction": "jsonld"
     },
@@ -1283,8 +2273,7 @@
       "organizer": "Vapi Events, LangChain Events",
       "description": "Wed, Dec 9, 6 PM at Nittis Italian Restaurant in Hell's Kitchen, New York City. Free. Approval required. Hosted by Vapi Events, LangChain Events. More AI events in New York City on Mimetic.",
       "categories": [
-        "AI/ML",
-        "Agents"
+        "AI/ML"
       ],
       "cost": "Free",
       "is_free": true,
@@ -1296,9 +2285,38 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-12T20:41:42.016734+00:00",
-      "last_checked": "2026-11-24T22:56:40.581888+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
       "sources": [
         "https://events.trymimetic.com/events/nyc/the-ai-summit-after-hours-dec-2026"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "8dac3afea37fa6e9",
+      "title": "NYC Urban Tech - Monthy Hack Night",
+      "start": "2026-12-09T18:00:00-05:00",
+      "end": "2026-12-09T20:00:00-05:00",
+      "time_known": true,
+      "venue": "Carmela Coffee - West Village, 10 5th Ave, New York, NY 10011, USA, Carmela Coffee - West Village, 10 5th Ave, New York, NY 10011, USA, New York City, NY, US",
+      "format": "in-person",
+      "organizer": "NYC Urban Tech, Daniel Gonzalez",
+      "description": "Wed, Dec 9, 6 PM at Carmela Coffee - West Village, New York City. Free. 20 attending. Hosted by NYC Urban Tech, Daniel Gonzalez. More AI events in New York City on Mimetic.",
+      "categories": [
+        "Emerging Tech"
+      ],
+      "cost": "Free",
+      "is_free": true,
+      "student_only": false,
+      "source_url": "https://events.trymimetic.com/events/nyc/nyc-urban-tech-monthy-hack-night-dec-2026",
+      "source_name": "events.trymimetic.com",
+      "registration_url": "https://events.trymimetic.com/events/nyc/nyc-urban-tech-monthy-hack-night-dec-2026",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://events.trymimetic.com/events/nyc/nyc-urban-tech-monthy-hack-night-dec-2026"
       ],
       "extraction": "jsonld"
     },
@@ -1320,14 +2338,131 @@
       "student_only": false,
       "source_url": "https://www.meetup.com/startup-grind-nyc/events/316638863",
       "source_name": "Meetup",
-      "registration_url": "https://www.meetup.com/startup-grind-nyc/events/316638863/",
-      "verification": "verified",
-      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
-      "confidence": 90,
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "Retained from an earlier collection. This run could not confirm the event again; check the source for changes.",
+      "confidence": 25,
       "first_seen": "2026-10-27T18:36:08.669428+00:00",
       "last_checked": "2026-11-24T22:56:40.581888+00:00",
       "sources": [
         "https://www.meetup.com/startup-grind-nyc/events/316638863"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "577b93c7d2c17203",
+      "title": "After the Demo: NYC Data & AI Builders Happy Hour",
+      "start": "2026-12-09T18:30:00-05:00",
+      "end": "2026-12-09T20:30:00-05:00",
+      "time_known": true,
+      "venue": "The Bronx Brewery & Hudson Yards Kitchen, 20 Hudson Yards Unit 207, New York, NY 10001, USA, The Bronx Brewery & Hudson Yards Kitchen, 20 Hudson Yards Unit 207, New York, NY 10001, USA, New York City, NY, US",
+      "format": "in-person",
+      "organizer": "TiDB, powered by PingCAP, Ritika, Philippe Felix, Sahar Mor (Bond AI)",
+      "description": "Wed, Dec 9, 6:30 PM at The Bronx Brewery & Hudson Yards Kitchen, New York City. Free. Approval required. Hosted by TiDB, powered by PingCAP, Ritika. More AI events in New York City on Mimetic.",
+      "categories": [
+        "AI/ML"
+      ],
+      "cost": "Free",
+      "is_free": true,
+      "student_only": false,
+      "source_url": "https://events.trymimetic.com/events/nyc/after-the-demo-nyc-data-ai-builders-happy-hour-dec-2026",
+      "source_name": "events.trymimetic.com",
+      "registration_url": "https://events.trymimetic.com/events/nyc/after-the-demo-nyc-data-ai-builders-happy-hour-dec-2026",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://events.trymimetic.com/events/nyc/after-the-demo-nyc-data-ai-builders-happy-hour-dec-2026"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "ae51e27fa65fd86e",
+      "title": "Pitch for $5K: 1PB Founder Pitch Night",
+      "start": "2026-12-09T19:00:00-05:00",
+      "end": "2026-12-09T19:00:00-05:00",
+      "time_known": true,
+      "venue": "The Grisly Pear Midtown, 243 W 54th St, New York, NY, New York, US",
+      "format": "in-person",
+      "organizer": "1PB.org (One Percent Back)",
+      "description": "Fireside chat with Louis Vichy (OpenRouter) followed by founder pitches; audience votes to award $5,000. Free for founders — especially students and early-20s builders using AI. Pitch applications clo",
+      "categories": [
+        "AI/ML",
+        "Students"
+      ],
+      "cost": "Cost not listed",
+      "is_free": null,
+      "student_only": false,
+      "source_url": "https://createwith.com/event/new-york-pitch-for-5k-1pb-founder-pitch-night-dec-2026",
+      "source_name": "createwith.com",
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "The page is reachable, but matching structured title, date and location evidence could not be confirmed. Details may have been extracted by AI.",
+      "confidence": 55,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://createwith.com/event/new-york-pitch-for-5k-1pb-founder-pitch-night-dec-2026"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "237edb392d8a825e",
+      "title": "Flatiron AI Reading Group (FLAIR)",
+      "start": "2026-12-09T19:30:00-05:00",
+      "end": "2026-12-09T21:00:00-05:00",
+      "time_known": true,
+      "venue": "New York City, New York City, NY, US",
+      "format": "in-person",
+      "organizer": "Sapien Team",
+      "description": "Wed, Dec 9, 7:30 PM in New York City. Free. Approval required. Hosted by Sapien Team. Every Wednesday, we pick a cool AI paper, discuss it as a group, and",
+      "categories": [
+        "AI/ML"
+      ],
+      "cost": "Free",
+      "is_free": true,
+      "student_only": false,
+      "source_url": "https://events.trymimetic.com/events/nyc/flatiron-ai-reading-group-flair-dec-2026-2",
+      "source_name": "events.trymimetic.com",
+      "registration_url": "https://events.trymimetic.com/events/nyc/flatiron-ai-reading-group-flair-dec-2026-2",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://events.trymimetic.com/events/nyc/flatiron-ai-reading-group-flair-dec-2026-2"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "13a6d900f2a36641",
+      "title": "AI FOR BEGINNERS",
+      "start": "2026-12-10T00:00:00-05:00",
+      "end": "2026-12-10T00:00:00-05:00",
+      "time_known": false,
+      "venue": "Brooklyn Public Library - Sheepshead Bay Branch, Avenue Z, Brooklyn, NY, US",
+      "format": "in-person",
+      "organizer": "",
+      "description": "Discover how AI tools can help you in everyday life!",
+      "categories": [
+        "AI/ML"
+      ],
+      "cost": "Cost not listed",
+      "is_free": null,
+      "student_only": false,
+      "source_url": "https://www.eventbrite.com/e/ai-for-beginners-tickets-2004390024520",
+      "source_name": "Eventbrite",
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "The page is reachable, but matching structured title, date and location evidence could not be confirmed. Details may have been extracted by AI.",
+      "confidence": 55,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://www.eventbrite.com/e/ai-for-beginners-tickets-2004390024520"
       ],
       "extraction": "jsonld"
     },
@@ -1340,7 +2475,7 @@
       "venue": "New York City, New York City, NY, US",
       "format": "in-person",
       "organizer": "Daytona, Max Kuivenhoven, MongoDB",
-      "description": "Thu, Dec 10, 5:30 PM in New York City. Free. 329 attending. Approval required. Hosted by Daytona, Max Kuivenhoven. An event dedicated to exploring all things",
+      "description": "Thu, Dec 10, 5:30 PM in New York City. Free. 363 attending. Approval required. Hosted by Daytona, Max Kuivenhoven. An event dedicated to exploring all things",
       "categories": [
         "AI/ML"
       ],
@@ -1354,9 +2489,38 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-12T20:41:42.016734+00:00",
-      "last_checked": "2026-11-24T22:56:40.581888+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
       "sources": [
         "https://events.trymimetic.com/events/nyc/daytona-ai-builders-nyc-december-2026-dec-2026"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "1b22ea8d8af98ad2",
+      "title": "dev/ai/nyc",
+      "start": "2026-12-10T17:30:00-05:00",
+      "end": "2026-12-10T20:00:00-05:00",
+      "time_known": true,
+      "venue": "166 Crosby St 11th floor, New York, NY 10012, USA, 166 Crosby St 11th floor, New York, NY 10012, USA, New York City, NY, US",
+      "format": "in-person",
+      "organizer": "Automattic Events",
+      "description": "Thu, Dec 10, 5:30 PM at 166 Crosby St 11th floor, New York City. Free. 104 attending. Hosted by Automattic Events. dev/ai/nyc Join us for a fireside chat",
+      "categories": [
+        "AI/ML"
+      ],
+      "cost": "Free",
+      "is_free": true,
+      "student_only": false,
+      "source_url": "https://events.trymimetic.com/events/nyc/devainyc-dec-2026",
+      "source_name": "events.trymimetic.com",
+      "registration_url": "https://events.trymimetic.com/events/nyc/devainyc-dec-2026",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://events.trymimetic.com/events/nyc/devainyc-dec-2026"
       ],
       "extraction": "jsonld"
     },
@@ -1379,14 +2543,101 @@
       "student_only": false,
       "source_url": "https://www.meetup.com/new-york-young-professionals-meetup-group/events/317309869",
       "source_name": "Meetup",
-      "registration_url": "https://www.meetup.com/new-york-young-professionals-meetup-group/events/317309869/",
-      "verification": "verified",
-      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
-      "confidence": 90,
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "Retained from an earlier collection. This run could not confirm the event again; check the source for changes.",
+      "confidence": 25,
       "first_seen": "2026-11-24T22:56:40.581888+00:00",
       "last_checked": "2026-11-24T22:56:40.581888+00:00",
       "sources": [
         "https://www.meetup.com/new-york-young-professionals-meetup-group/events/317309869"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "f600ec5a3ff920c9",
+      "title": "NYC AI Startups Lunch and Happy Hour Networking Event Exchange Biz Cards",
+      "start": "2026-12-11T00:00:00-05:00",
+      "end": "2026-12-11T00:00:00-05:00",
+      "time_known": false,
+      "venue": "Chef Yu Restaurant (8th Ave Bet 36th & 37th Street), 520 8th Avenue, New York, NY, US",
+      "format": "in-person",
+      "organizer": "",
+      "description": "Meet NYC’s coolest AI startup co-founders for drinks, chats, and epic networking!",
+      "categories": [
+        "AI/ML"
+      ],
+      "cost": "Cost not listed",
+      "is_free": null,
+      "student_only": false,
+      "source_url": "https://www.eventbrite.com/e/nyc-ai-startups-lunch-and-happy-hour-networking-event-exchange-biz-cards-tickets-1995356653464",
+      "source_name": "Eventbrite",
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "The page is reachable, but matching structured title, date and location evidence could not be confirmed. Details may have been extracted by AI.",
+      "confidence": 55,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://www.eventbrite.com/e/nyc-ai-startups-lunch-and-happy-hour-networking-event-exchange-biz-cards-tickets-1995356653464"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "c158ef9fec7f60fe",
+      "title": "**In-person** Building an AI Chief of Staff for Small Business",
+      "start": "2026-12-11T00:00:00-05:00",
+      "end": "2026-12-11T00:00:00-05:00",
+      "time_known": false,
+      "venue": "Thomas Yoseloff Business Center, 455 5th Avenue, New York, NY, US",
+      "format": "in-person",
+      "organizer": "",
+      "description": "Set up a free AI tool as a chief of staff for your business: plan your week, draft follow-ups, and prep for meetings. Bring a laptop.",
+      "categories": [
+        "AI/ML"
+      ],
+      "cost": "Cost not listed",
+      "is_free": null,
+      "student_only": false,
+      "source_url": "https://www.eventbrite.com/e/in-person-building-an-ai-chief-of-staff-for-small-business-registration-2004594769919",
+      "source_name": "Eventbrite",
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "The page is reachable, but matching structured title, date and location evidence could not be confirmed. Details may have been extracted by AI.",
+      "confidence": 55,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://www.eventbrite.com/e/in-person-building-an-ai-chief-of-staff-for-small-business-registration-2004594769919"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "14001a1ad33c4f66",
+      "title": "Madison Avenue: The Media and Advertising Hackathon: Powered by Plug & Play VC and Base44",
+      "start": "2026-12-11T09:00:00-05:00",
+      "end": "2026-12-11T18:00:00-05:00",
+      "time_known": true,
+      "venue": "New York, New York, United States",
+      "format": "in-person",
+      "organizer": "",
+      "description": "Event Description New York built the advertising industry. Now AI is rebuilding it, and we want you in the room when it happens. Madison Avenue is a one-day hackathon hosted by localhost:nyc and Plug and Play, built around real problems from the media and advertising companies in Plug and Play’s network. Come build the startups that will define the",
+      "categories": [
+        "Emerging Tech"
+      ],
+      "cost": "Cost not listed",
+      "is_free": null,
+      "student_only": false,
+      "source_url": "https://www.hackathonradar.com/database/hackathon/madison-avenue-the-media-and-advertising-hackathon-powered-b-2026",
+      "source_name": "hackathonradar.com",
+      "registration_url": "https://www.hackathonradar.com/database/hackathon/madison-avenue-the-media-and-advertising-hackathon-powered-b-2026",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://www.hackathonradar.com/database/hackathon/madison-avenue-the-media-and-advertising-hackathon-powered-b-2026"
       ],
       "extraction": "jsonld"
     },
@@ -1408,14 +2659,102 @@
       "student_only": false,
       "source_url": "https://www.meetup.com/startup-grind-nyc/events/317554106",
       "source_name": "Meetup",
-      "registration_url": "https://www.meetup.com/startup-grind-nyc/events/317554106/",
-      "verification": "verified",
-      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
-      "confidence": 90,
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "Retained from an earlier collection. This run could not confirm the event again; check the source for changes.",
+      "confidence": 25,
       "first_seen": "2026-11-24T22:56:40.581888+00:00",
       "last_checked": "2026-11-24T22:56:40.581888+00:00",
       "sources": [
         "https://www.meetup.com/startup-grind-nyc/events/317554106"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "b51f35c25a099217",
+      "title": "NYC Women in Tech: Founders & Professionals Networking Night",
+      "start": "2026-12-14T00:00:00-05:00",
+      "end": "2026-12-14T00:00:00-05:00",
+      "time_known": false,
+      "venue": "231 2nd Ave, The Laurels Cafe and Bar, 231 2nd Avenue, New York, NY, US",
+      "format": "in-person",
+      "organizer": "",
+      "description": "Connect with women in tech, startups, and innovation. Network, share ideas, and build meaningful professional relationships.",
+      "categories": [
+        "Emerging Tech"
+      ],
+      "cost": "Cost not listed",
+      "is_free": null,
+      "student_only": false,
+      "source_url": "https://www.eventbrite.com/e/nyc-women-in-tech-founders-professionals-networking-night-tickets-2004431115424",
+      "source_name": "Eventbrite",
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "The page is reachable, but matching structured title, date and location evidence could not be confirmed. Details may have been extracted by AI.",
+      "confidence": 55,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://www.eventbrite.com/e/nyc-women-in-tech-founders-professionals-networking-night-tickets-2004431115424"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "8c8a1877007c4927",
+      "title": "Women in AI, Tech & Digital Innovation Networking NYC",
+      "start": "2026-12-14T00:00:00-05:00",
+      "end": "2026-12-14T00:00:00-05:00",
+      "time_known": false,
+      "venue": "231 2nd Ave, The Laurels, 231 2nd Avenue, New York, NY, US",
+      "format": "in-person",
+      "organizer": "",
+      "description": "Connect with inspiring women in artificial intelligence, technology, startups and digital innovation!",
+      "categories": [
+        "AI/ML",
+        "Emerging Tech"
+      ],
+      "cost": "Cost not listed",
+      "is_free": null,
+      "student_only": false,
+      "source_url": "https://www.eventbrite.com/e/women-in-ai-tech-digital-innovation-networking-nyc-tickets-2004430953941",
+      "source_name": "Eventbrite",
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "The page is reachable, but matching structured title, date and location evidence could not be confirmed. Details may have been extracted by AI.",
+      "confidence": 55,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://www.eventbrite.com/e/women-in-ai-tech-digital-innovation-networking-nyc-tickets-2004430953941"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "73c96dcacefe42ce",
+      "title": "CUNY Tech Prep Demo Night 2026 | Sponsored by LinkedIn",
+      "start": "2026-12-14T00:00:00-05:00",
+      "end": "2026-12-14T00:00:00-05:00",
+      "time_known": false,
+      "venue": "350 5th Ave, 350 5th Avenue, New York, NY, US",
+      "format": "in-person",
+      "organizer": "",
+      "description": "Join us at the LinkedIn office for CUNY Tech Prep's Demo Night 2026 and explore the incredible projects created by our CTP fellows.",
+      "categories": [
+        "Emerging Tech"
+      ],
+      "cost": "Cost not listed",
+      "is_free": null,
+      "student_only": false,
+      "source_url": "https://www.eventbrite.com/e/cuny-tech-prep-demo-night-2026-sponsored-by-linkedin-tickets-2003360323657",
+      "source_name": "Eventbrite",
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "The page is reachable, but matching structured title, date and location evidence could not be confirmed. Details may have been extracted by AI.",
+      "confidence": 55,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://www.eventbrite.com/e/cuny-tech-prep-demo-night-2026-sponsored-by-linkedin-tickets-2003360323657"
       ],
       "extraction": "jsonld"
     },
@@ -1437,14 +2776,306 @@
       "student_only": false,
       "source_url": "https://happening-nyc.com/event/cuny-tech-prep-demo-night-2026-sponsored-by-linkedin-7a09416a1f51277e780a476a1c5124787e0e",
       "source_name": "happening-nyc.com",
-      "registration_url": "https://happening-nyc.com/event/cuny-tech-prep-demo-night-2026-sponsored-by-linkedin-7a09416a1f51277e780a476a1c5124787e0e",
-      "verification": "verified",
-      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
-      "confidence": 90,
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "Retained from an earlier collection. This run could not confirm the event again; check the source for changes.",
+      "confidence": 25,
       "first_seen": "2026-11-18T21:10:24.492633+00:00",
       "last_checked": "2026-11-24T22:56:40.581888+00:00",
       "sources": [
         "https://happening-nyc.com/event/cuny-tech-prep-demo-night-2026-sponsored-by-linkedin-7a09416a1f51277e780a476a1c5124787e0e"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "9794a9263db69149",
+      "title": "Merry Shipmas · New York",
+      "start": "2026-12-14T18:00:00-05:00",
+      "end": "2026-12-14T21:00:00-05:00",
+      "time_known": true,
+      "venue": "Fractal Tech, 111 Conselyea St Fl 2, Brooklyn, NY 11211, USA, Fractal Tech, 111 Conselyea St Fl 2, Brooklyn, NY 11211, USA, New York City, NY, US",
+      "format": "in-person",
+      "organizer": "NERDCONF, Fractal NYC, Sahar Mor (Bond AI)",
+      "description": "Mon, Dec 14, 6 PM at Fractal Tech, New York City. Free. Hosted by NERDCONF, Fractal NYC. MERRY SHIPMAS 🎄 The nerdiest Christmas hackathon. This is the New",
+      "categories": [
+        "Emerging Tech"
+      ],
+      "cost": "Free",
+      "is_free": true,
+      "student_only": false,
+      "source_url": "https://events.trymimetic.com/events/nyc/merry-shipmas-new-york-dec-2026",
+      "source_name": "events.trymimetic.com",
+      "registration_url": "https://events.trymimetic.com/events/nyc/merry-shipmas-new-york-dec-2026",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://events.trymimetic.com/events/nyc/merry-shipmas-new-york-dec-2026"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "a8428c1305d3de91",
+      "title": "After Hours at No More: AI Investors & Operators",
+      "start": "2026-12-14T19:00:00-05:00",
+      "end": "2026-12-14T21:30:00-05:00",
+      "time_known": true,
+      "venue": "New York City, New York City, NY, US",
+      "format": "in-person",
+      "organizer": "Ishaan Das, No More Cafe Nogueira, Paige Lee",
+      "description": "Mon, Dec 14, 7 PM in New York City. Free. 144 attending. Approval required. Hosted by Ishaan Das, No More Cafe Nogueira. More AI events in New York City on Mimetic.",
+      "categories": [
+        "AI/ML"
+      ],
+      "cost": "Free",
+      "is_free": true,
+      "student_only": false,
+      "source_url": "https://events.trymimetic.com/events/nyc/after-hours-at-no-more-investors-operators-dec-2026",
+      "source_name": "events.trymimetic.com",
+      "registration_url": "https://events.trymimetic.com/events/nyc/after-hours-at-no-more-investors-operators-dec-2026",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://events.trymimetic.com/events/nyc/after-hours-at-no-more-investors-operators-dec-2026"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "ee91a4e1b5762008",
+      "title": "The Next AI",
+      "start": "2026-12-15T00:00:00-05:00",
+      "end": "2026-12-15T00:00:00-05:00",
+      "time_known": false,
+      "venue": "Bohemian National Hall, 321 E 73rd Street, New York, NY, US",
+      "format": "in-person",
+      "organizer": "",
+      "description": "Artificial Intelligence and Robotics technologies have been accelerating over the past decade, outperforming humans tasks.",
+      "categories": [
+        "AI/ML",
+        "Emerging Tech"
+      ],
+      "cost": "Cost not listed",
+      "is_free": null,
+      "student_only": false,
+      "source_url": "https://www.eventbrite.com/e/the-next-ai-tickets-2004838709549",
+      "source_name": "Eventbrite",
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "The page is reachable, but matching structured title, date and location evidence could not be confirmed. Details may have been extracted by AI.",
+      "confidence": 55,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://www.eventbrite.com/e/the-next-ai-tickets-2004838709549"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "46916fff290a235c",
+      "title": "Soho Forum Debate: Aaron Regunberg vs. Judge Glock",
+      "start": "2026-12-15T00:00:00-05:00",
+      "end": "2026-12-15T00:00:00-05:00",
+      "time_known": false,
+      "venue": "The Sheen Center, 18 Bleecker Street, New York, NY, US",
+      "format": "in-person",
+      "organizer": "",
+      "description": "Resolution: Government restrictions on AI infrastructure development are necessary.",
+      "categories": [
+        "AI/ML"
+      ],
+      "cost": "Cost not listed",
+      "is_free": null,
+      "student_only": false,
+      "source_url": "https://www.eventbrite.com/e/soho-forum-debate-aaron-regunberg-vs-judge-glock-tickets-2002637255942",
+      "source_name": "Eventbrite",
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "The page is reachable, but matching structured title, date and location evidence could not be confirmed. Details may have been extracted by AI.",
+      "confidence": 55,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://www.eventbrite.com/e/soho-forum-debate-aaron-regunberg-vs-judge-glock-tickets-2002637255942"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "4387543151cd98c2",
+      "title": "Therap-AI",
+      "start": "2026-12-15T00:00:00-05:00",
+      "end": "2026-12-15T00:00:00-05:00",
+      "time_known": false,
+      "venue": "Brooklyn Art Haus, 24 Marcy Ave, Brooklyn, NY, US",
+      "format": "in-person",
+      "organizer": "",
+      "description": "Dr. Rosenplatz has spent her career plumbing the depths of the human psyche—but nothing has prepared her for artificial intelligence.",
+      "categories": [
+        "AI/ML"
+      ],
+      "cost": "Cost not listed",
+      "is_free": null,
+      "student_only": false,
+      "source_url": "https://www.eventbrite.com/e/therap-ai-tickets-2004088409381",
+      "source_name": "Eventbrite",
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "The page is reachable, but matching structured title, date and location evidence could not be confirmed. Details may have been extracted by AI.",
+      "confidence": 55,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://www.eventbrite.com/e/therap-ai-tickets-2004088409381"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "31bfbde7adb8ccdb",
+      "title": "Build Your First AI Agent",
+      "start": "2026-12-15T00:00:00-05:00",
+      "end": "2026-12-15T00:00:00-05:00",
+      "time_known": false,
+      "venue": "IE New York Center (Floor II), 1 Rockefeller Plaza, 2nd Floor, New York City, NY, US",
+      "format": "in-person",
+      "organizer": "",
+      "description": "You've heard about AI agents. Maybe you've even thought about building one. Now's your chance to give it a try!",
+      "categories": [
+        "AI/ML",
+        "Agents"
+      ],
+      "cost": "Cost not listed",
+      "is_free": null,
+      "student_only": false,
+      "source_url": "https://www.eventbrite.com/e/build-your-first-ai-agent-tickets-2004279732634",
+      "source_name": "Eventbrite",
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "The page is reachable, but matching structured title, date and location evidence could not be confirmed. Details may have been extracted by AI.",
+      "confidence": 55,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://www.eventbrite.com/e/build-your-first-ai-agent-tickets-2004279732634"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "081b303ded116739",
+      "title": "AI in the Classroom: A Math for America Fireside Chat",
+      "start": "2026-12-15T00:00:00-05:00",
+      "end": "2026-12-15T00:00:00-05:00",
+      "time_known": false,
+      "venue": "Simons Foundation, 160 5th Avenue, New York, NY, US",
+      "format": "in-person",
+      "organizer": "",
+      "description": "Join MƒA President Maria Klawe for a conversation on the impact of AI in education with Jake Hofman and Sergei Vassilvitskii",
+      "categories": [
+        "AI/ML"
+      ],
+      "cost": "Cost not listed",
+      "is_free": null,
+      "student_only": false,
+      "source_url": "https://www.eventbrite.com/e/ai-in-the-classroom-a-math-for-america-fireside-chat-tickets-2004980362236",
+      "source_name": "Eventbrite",
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "The page is reachable, but matching structured title, date and location evidence could not be confirmed. Details may have been extracted by AI.",
+      "confidence": 55,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://www.eventbrite.com/e/ai-in-the-classroom-a-math-for-america-fireside-chat-tickets-2004980362236"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "afde72a9eb231d24",
+      "title": "NYC AI Builder Nights: Pizza & Prompts",
+      "start": "2026-12-15T17:30:00-05:00",
+      "end": "2026-12-15T20:30:00-05:00",
+      "time_known": true,
+      "venue": "Fabrik NYC, 12-16 Vestry St 4th Floor, New York, NY 10013, USA, Fabrik NYC, 12-16 Vestry St 4th Floor, New York, NY 10013, USA, New York City, NY, US",
+      "format": "in-person",
+      "organizer": "Benjamin Aronov, Fabrik NYC, Vonage Developer, Max Chambers, Sahar Mor (Bond AI)",
+      "description": "Tue, Dec 15, 5:30 PM at Fabrik NYC, New York City. Free. 64 attending. Approval required. Hosted by Benjamin Aronov, Fabrik NYC. More AI events in New York City on Mimetic.",
+      "categories": [
+        "AI/ML"
+      ],
+      "cost": "Free",
+      "is_free": true,
+      "student_only": false,
+      "source_url": "https://events.trymimetic.com/events/nyc/nyc-ai-builder-nights-pizza-prompts-dec-2026",
+      "source_name": "events.trymimetic.com",
+      "registration_url": "https://events.trymimetic.com/events/nyc/nyc-ai-builder-nights-pizza-prompts-dec-2026",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://events.trymimetic.com/events/nyc/nyc-ai-builder-nights-pizza-prompts-dec-2026"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "a5969eb8a07af922",
+      "title": "Ditch the Deck NYC: AI Show Not Tell",
+      "start": "2026-12-15T17:30:00-05:00",
+      "end": "2026-12-15T19:30:00-05:00",
+      "time_known": true,
+      "venue": "Gunderson Dettmer, 1250 Broadway, New York, NY 10001, USA, Gunderson Dettmer, 1250 Broadway, New York, NY 10001, USA, New York City, NY, US",
+      "format": "in-person",
+      "organizer": "Bella Pivo, Greg Raiz, Jess Lynch",
+      "description": "Tue, Dec 15, 5:30 PM at Gunderson Dettmer, New York City. Sold out. Approval required. Hosted by Bella Pivo, Greg Raiz. More AI events in New York City on Mimetic.",
+      "categories": [
+        "AI/ML"
+      ],
+      "cost": "Free",
+      "is_free": true,
+      "student_only": false,
+      "source_url": "https://events.trymimetic.com/events/nyc/ditch-the-deck-nyc-ai-show-not-tell-dec-2026",
+      "source_name": "events.trymimetic.com",
+      "registration_url": "https://events.trymimetic.com/events/nyc/ditch-the-deck-nyc-ai-show-not-tell-dec-2026",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://events.trymimetic.com/events/nyc/ditch-the-deck-nyc-ai-show-not-tell-dec-2026"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "243367afd09f7d7a",
+      "title": "AI CIRCLE X EPAM | Signal & Noise: Downtown NYC Gallery Night for AI Researchers",
+      "start": "2026-12-15T18:00:00-05:00",
+      "end": "2026-12-15T22:00:00-05:00",
+      "time_known": true,
+      "venue": "New York City, New York City, NY, US",
+      "format": "in-person",
+      "organizer": "AI CIRCLE, Gabrielle Halady, Albert - Founder of AI Circle, Ken Morimoto, Shahed Serajuddin",
+      "description": "Tue, Dec 15, 6 PM in New York City. Free. Approval required. Hosted by AI CIRCLE, Gabrielle Halady. An NYC Gallery Night for the People Building AI Hosted by",
+      "categories": [
+        "AI/ML"
+      ],
+      "cost": "Free",
+      "is_free": true,
+      "student_only": false,
+      "source_url": "https://events.trymimetic.com/events/nyc/ai-circle-x-epam-signal-noise-downtown-nyc-gallery-night-for-ai-researchers-dec",
+      "source_name": "events.trymimetic.com",
+      "registration_url": "https://events.trymimetic.com/events/nyc/ai-circle-x-epam-signal-noise-downtown-nyc-gallery-night-for-ai-researchers-dec",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://events.trymimetic.com/events/nyc/ai-circle-x-epam-signal-noise-downtown-nyc-gallery-night-for-ai-researchers-dec"
       ],
       "extraction": "jsonld"
     },
@@ -1466,14 +3097,101 @@
       "student_only": false,
       "source_url": "https://happening-nyc.com/event/queens-tech-night-2026-7a09416a1f51277e780e466a1b50267d7b09",
       "source_name": "happening-nyc.com",
-      "registration_url": "https://happening-nyc.com/event/queens-tech-night-2026-7a09416a1f51277e780e466a1b50267d7b09",
-      "verification": "verified",
-      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
-      "confidence": 90,
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "Retained from an earlier collection. This run could not confirm the event again; check the source for changes.",
+      "confidence": 25,
       "first_seen": "2026-11-18T21:10:24.492633+00:00",
       "last_checked": "2026-11-24T22:56:40.581888+00:00",
       "sources": [
         "https://happening-nyc.com/event/queens-tech-night-2026-7a09416a1f51277e780e466a1b50267d7b09"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "e7a976cebb17418e",
+      "title": "AI Socratic December",
+      "start": "2026-12-16T18:00:00-05:00",
+      "end": "2026-12-16T21:00:00-05:00",
+      "time_known": true,
+      "venue": "New York City, New York City, NY, US",
+      "format": "in-person",
+      "organizer": "Federico Ulfo, Ivo Galić, Andrew Hamilton",
+      "description": "Wed, Dec 16, 6 PM in New York City. $20 to $250. Approval required. Hosted by Federico Ulfo, Ivo Galić. Socratic dialogues with top AI engineers",
+      "categories": [
+        "AI/ML"
+      ],
+      "cost": "USD 20.00",
+      "is_free": false,
+      "student_only": false,
+      "source_url": "https://events.trymimetic.com/events/nyc/ai-socratic-december-dec-2026",
+      "source_name": "events.trymimetic.com",
+      "registration_url": "https://events.trymimetic.com/events/nyc/ai-socratic-december-dec-2026",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://events.trymimetic.com/events/nyc/ai-socratic-december-dec-2026"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "c79fd3746b4684d1",
+      "title": "Flatiron AI Reading Group (FLAIR)",
+      "start": "2026-12-16T19:30:00-05:00",
+      "end": "2026-12-16T21:00:00-05:00",
+      "time_known": true,
+      "venue": "New York City, New York City, NY, US",
+      "format": "in-person",
+      "organizer": "Sapien Team",
+      "description": "Wed, Dec 16, 7:30 PM in New York City. Free. Approval required. Hosted by Sapien Team. Every Wednesday, we pick a cool AI paper, discuss it as a group, and",
+      "categories": [
+        "AI/ML"
+      ],
+      "cost": "Free",
+      "is_free": true,
+      "student_only": false,
+      "source_url": "https://events.trymimetic.com/events/nyc/flatiron-ai-reading-group-flair-dec-2026-3",
+      "source_name": "events.trymimetic.com",
+      "registration_url": "https://events.trymimetic.com/events/nyc/flatiron-ai-reading-group-flair-dec-2026-3",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://events.trymimetic.com/events/nyc/flatiron-ai-reading-group-flair-dec-2026-3"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "23611c98de19de1c",
+      "title": "HackerX - New York City (AI) - Employer Ticket - 12/17",
+      "start": "2026-12-17T00:00:00-05:00",
+      "end": "2026-12-17T00:00:00-05:00",
+      "time_known": false,
+      "venue": "New York, Job Fair, New York, NY, US",
+      "format": "in-person",
+      "organizer": "",
+      "description": "Meet AI, full-stack and forward deployed engineers in New York City.",
+      "categories": [
+        "AI/ML"
+      ],
+      "cost": "Cost not listed",
+      "is_free": null,
+      "student_only": false,
+      "source_url": "https://www.eventbrite.com/e/hackerx-new-york-city-ai-employer-ticket-1217-tickets-1982701841581",
+      "source_name": "Eventbrite",
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "The page is reachable, but matching structured title, date and location evidence could not be confirmed. Details may have been extracted by AI.",
+      "confidence": 55,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://www.eventbrite.com/e/hackerx-new-york-city-ai-employer-ticket-1217-tickets-1982701841581"
       ],
       "extraction": "jsonld"
     },
@@ -1483,26 +3201,113 @@
       "start": "2026-12-17T18:00:00-05:00",
       "end": "2026-12-17T21:00:00-05:00",
       "time_known": true,
-      "venue": "Private venue, 598 Broadway floor 11, New York, NY, US",
+      "venue": "598 Broadway floor 11, New York, NY 10012, 598 Broadway floor 11, New York, NY 10012, New York City, NY, US",
       "format": "in-person",
       "organizer": "AI Tinkerers - New York City",
-      "description": "In the last six weeks abliteration went from a Hugging Face hobby to a news cycle. DeepSeek V4.1 Flash shipped and had uncensored forks within hours. Anthropic published numbers showing about $4,400 of compute takes an open model’s refusal rate from ...",
+      "description": "Thu, Dec 17, 6 PM at 598 Broadway floor 11, New York City. Free. Hosted by AI Tinkerers - New York City. AI Tinkerers NYC demo night: Thursday, Dec 17—see",
       "categories": [
         "AI/ML"
       ],
       "cost": "Free",
       "is_free": true,
       "student_only": false,
-      "source_url": "https://nyc.aitinkerers.org/p/abliterated-models-demo-day-ft-veris",
-      "source_name": "nyc.aitinkerers.org",
-      "registration_url": "https://nyc.aitinkerers.org/p/abliterated-models-demo-day-ft-veris",
+      "source_url": "https://events.trymimetic.com/events/nyc/rescheduled-to-december-abliterated-models-demo-day-ft-veris-dec-2026",
+      "source_name": "events.trymimetic.com",
+      "registration_url": "https://events.trymimetic.com/events/nyc/rescheduled-to-december-abliterated-models-demo-day-ft-veris-dec-2026",
       "verification": "verified",
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-12T20:41:42.016734+00:00",
-      "last_checked": "2026-11-24T22:56:40.581888+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
       "sources": [
-        "https://nyc.aitinkerers.org/p/abliterated-models-demo-day-ft-veris"
+        "https://events.trymimetic.com/events/nyc/rescheduled-to-december-abliterated-models-demo-day-ft-veris-dec-2026"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "04c2ef40c576d4b7",
+      "title": "Founders Holiday Mixer (w/ The AI Collective)",
+      "start": "2026-12-22T18:00:00-05:00",
+      "end": "2026-12-22T20:30:00-05:00",
+      "time_known": true,
+      "venue": "New York City, New York City, NY, US",
+      "format": "in-person",
+      "organizer": "The AI Collective, Jenny Ge @ Syndicat, Jonathan K",
+      "description": "Tue, Dec 22, 6 PM in New York City. Free. Approval required. Hosted by The AI Collective, Jenny Ge @ Syndicat. Join New York’s AI startup community for a",
+      "categories": [
+        "AI/ML"
+      ],
+      "cost": "Free",
+      "is_free": true,
+      "student_only": false,
+      "source_url": "https://events.trymimetic.com/events/nyc/founders-holiday-mixer-w-the-ai-collective-dec-2026",
+      "source_name": "events.trymimetic.com",
+      "registration_url": "https://events.trymimetic.com/events/nyc/founders-holiday-mixer-w-the-ai-collective-dec-2026",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://events.trymimetic.com/events/nyc/founders-holiday-mixer-w-the-ai-collective-dec-2026"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "f5284251dcd2908b",
+      "title": "Flatiron AI Reading Group (FLAIR)",
+      "start": "2026-12-23T19:30:00-05:00",
+      "end": "2026-12-23T21:00:00-05:00",
+      "time_known": true,
+      "venue": "New York City, New York City, NY, US",
+      "format": "in-person",
+      "organizer": "Sapien Team",
+      "description": "Wed, Dec 23, 7:30 PM in New York City. Free. Approval required. Hosted by Sapien Team. Every Wednesday, we pick a cool AI paper, discuss it as a group, and",
+      "categories": [
+        "AI/ML"
+      ],
+      "cost": "Free",
+      "is_free": true,
+      "student_only": false,
+      "source_url": "https://events.trymimetic.com/events/nyc/flatiron-ai-reading-group-flair-dec-2026-4",
+      "source_name": "events.trymimetic.com",
+      "registration_url": "https://events.trymimetic.com/events/nyc/flatiron-ai-reading-group-flair-dec-2026-4",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://events.trymimetic.com/events/nyc/flatiron-ai-reading-group-flair-dec-2026-4"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "b9aed23adf8057eb",
+      "title": "Haiti Tech Summit 10th Annual Edition (UNGA Week)",
+      "start": "2026-12-29T00:00:00-05:00",
+      "end": "2026-12-29T00:00:00-05:00",
+      "time_known": false,
+      "venue": "New York, Location Virtual, New York, NY, US",
+      "format": "in-person",
+      "organizer": "",
+      "description": "Deemed the “Davos of the Caribbean”Haiti Tech Summit brings together thousands of entrepreneurs, investors, pioneers, and creatives together",
+      "categories": [
+        "Emerging Tech"
+      ],
+      "cost": "Cost not listed",
+      "is_free": null,
+      "student_only": false,
+      "source_url": "https://www.eventbrite.com/e/haiti-tech-summit-10th-annual-edition-unga-week-tickets-1985988046709",
+      "source_name": "Eventbrite",
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "The page is reachable, but matching structured title, date and location evidence could not be confirmed. Details may have been extracted by AI.",
+      "confidence": 55,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://www.eventbrite.com/e/haiti-tech-summit-10th-annual-edition-unga-week-tickets-1985988046709"
       ],
       "extraction": "jsonld"
     },
@@ -1526,14 +3331,131 @@
       "student_only": false,
       "source_url": "https://www.eventbrite.com/e/ghana-tech-summit-2026-ai-edition-tickets-1362903052719",
       "source_name": "Eventbrite",
-      "registration_url": "https://www.eventbrite.com/e/ghana-tech-summit-2026-ai-edition-tickets-1362903052719",
-      "verification": "verified",
-      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
-      "confidence": 90,
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "Retained from an earlier collection. This run could not confirm the event again; check the source for changes.",
+      "confidence": 25,
       "first_seen": "2026-11-20T20:57:42.608312+00:00",
       "last_checked": "2026-11-24T22:56:40.581888+00:00",
       "sources": [
         "https://www.eventbrite.com/e/ghana-tech-summit-2026-ai-edition-tickets-1362903052719"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "553673f8d579f5e0",
+      "title": "Ai Ready Startup Accelerator",
+      "start": "2027-01-12T00:00:00-05:00",
+      "end": "2027-01-14T00:00:00-05:00",
+      "time_known": false,
+      "venue": "New York, Live Virtual Series, New York, NY, US",
+      "format": "in-person",
+      "organizer": "",
+      "description": "New virtual Intensive Designed to Equip Founders to Help Entrepreneurs Build, Launch, and Generate Sales in the AI Economy",
+      "categories": [
+        "AI/ML"
+      ],
+      "cost": "Cost not listed",
+      "is_free": null,
+      "student_only": false,
+      "source_url": "https://www.eventbrite.com/e/ai-ready-startup-accelerator-tickets-2004217891666",
+      "source_name": "Eventbrite",
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "The page is reachable, but matching structured title, date and location evidence could not be confirmed. Details may have been extracted by AI.",
+      "confidence": 55,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://www.eventbrite.com/e/ai-ready-startup-accelerator-tickets-2004217891666"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "1af4f85deaf827c0",
+      "title": "Reimagining the Classical Musician: Artistic Practice and Professional Futu",
+      "start": "2027-01-21T00:00:00-05:00",
+      "end": "2027-01-21T00:00:00-05:00",
+      "time_known": false,
+      "venue": "330 7th Ave, 330 7th Avenue, New York, NY, US",
+      "format": "in-person",
+      "organizer": "",
+      "description": "How is artificial intelligence reshaping the future of classical music?",
+      "categories": [
+        "AI/ML"
+      ],
+      "cost": "Cost not listed",
+      "is_free": null,
+      "student_only": false,
+      "source_url": "https://www.eventbrite.com/e/reimagining-the-classical-musician-artistic-practice-and-professional-futu-tickets-2004530380328",
+      "source_name": "Eventbrite",
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "The page is reachable, but matching structured title, date and location evidence could not be confirmed. Details may have been extracted by AI.",
+      "confidence": 55,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://www.eventbrite.com/e/reimagining-the-classical-musician-artistic-practice-and-professional-futu-tickets-2004530380328"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "956cbf9cb366bb9b",
+      "title": "Future of Faith: A Christian Conference on AI",
+      "start": "2027-01-29T00:00:00-05:00",
+      "end": "2027-01-30T00:00:00-05:00",
+      "time_known": false,
+      "venue": "Redeemer Presbyterian Church West Side, 150 West 83rd Street, New York, NY, US",
+      "format": "in-person",
+      "organizer": "",
+      "description": "AI is reshaping what it means to be human. Explore faith, work, and the future of AI through Christian wisdom and gospel hope.",
+      "categories": [
+        "AI/ML"
+      ],
+      "cost": "Cost not listed",
+      "is_free": null,
+      "student_only": false,
+      "source_url": "https://www.eventbrite.com/e/future-of-faith-a-christian-conference-on-ai-tickets-2005169621315",
+      "source_name": "Eventbrite",
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "The page is reachable, but matching structured title, date and location evidence could not be confirmed. Details may have been extracted by AI.",
+      "confidence": 55,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://www.eventbrite.com/e/future-of-faith-a-christian-conference-on-ai-tickets-2005169621315"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "102fa95d38be6893",
+      "title": "S&F 51 Feminist Futures Beyond AI: Refusing Inevitability",
+      "start": "2027-02-27T00:00:00-05:00",
+      "end": "2027-02-27T00:00:00-05:00",
+      "time_known": false,
+      "venue": "Diana Event Oval, Barnard College, 3009 Broadway, New York, NY, US",
+      "format": "in-person",
+      "organizer": "",
+      "description": "Join us for BCRW's 51st annual Scholar and Feminist Conference.",
+      "categories": [
+        "AI/ML",
+        "Students"
+      ],
+      "cost": "Cost not listed",
+      "is_free": null,
+      "student_only": false,
+      "source_url": "https://www.eventbrite.com/e/sf-51-feminist-futures-beyond-ai-refusing-inevitability-tickets-2001406695302",
+      "source_name": "Eventbrite",
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "The page is reachable, but matching structured title, date and location evidence could not be confirmed. Details may have been extracted by AI.",
+      "confidence": 55,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-25T22:12:33.616328+00:00",
+      "sources": [
+        "https://www.eventbrite.com/e/sf-51-feminist-futures-beyond-ai-refusing-inevitability-tickets-2001406695302"
       ],
       "extraction": "jsonld"
     }
