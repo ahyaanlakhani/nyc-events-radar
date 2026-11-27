@@ -1,38 +1,9 @@
 {
   "schema_version": 1,
   "mode": "live",
-  "generated_at": "2026-11-26T22:10:40.302339+00:00",
+  "generated_at": "2026-11-27T21:51:41.372688+00:00",
   "timezone": "America/New_York",
   "events": [
-    {
-      "id": "4a06a68733596fd9",
-      "title": "NYC IT & Tech Social Mixer – Every Friday @ 7PM",
-      "start": "2026-11-27T00:00:00-05:00",
-      "end": "2026-11-27T00:00:00-05:00",
-      "time_known": false,
-      "venue": "The Irish American Pub, 17 John Street, New York, NY, US",
-      "format": "in-person",
-      "organizer": "",
-      "description": "This weekly after-work mixer is for you.",
-      "categories": [
-        "Emerging Tech"
-      ],
-      "cost": "Cost not listed",
-      "is_free": null,
-      "student_only": false,
-      "source_url": "https://www.eventbrite.com/e/nyc-it-tech-social-mixer-every-friday-7pm-tickets-1507566314429",
-      "source_name": "Eventbrite",
-      "registration_url": "",
-      "verification": "unverified",
-      "verification_reason": "Retained from an earlier collection. This run could not confirm the event again; check the source for changes.",
-      "confidence": 25,
-      "first_seen": "2026-11-25T22:12:33.616328+00:00",
-      "last_checked": "2026-11-25T22:12:33.616328+00:00",
-      "sources": [
-        "https://www.eventbrite.com/e/nyc-it-tech-social-mixer-every-friday-7pm-tickets-1507566314429"
-      ],
-      "extraction": "jsonld"
-    },
     {
       "id": "96e95f6bac877890",
       "title": "AI, Dajjal, and the End of Times - DINNER TICKET",
@@ -56,7 +27,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-25T22:12:33.616328+00:00",
-      "last_checked": "2026-11-26T22:10:40.302339+00:00",
+      "last_checked": "2026-11-27T21:51:41.372688+00:00",
       "sources": [
         "https://www.eventbrite.com/e/ai-dajjal-and-the-end-of-times-dinner-ticket-tickets-2005216123404"
       ],
@@ -82,8 +53,8 @@
       "source_name": "Eventbrite",
       "registration_url": "",
       "verification": "unverified",
-      "verification_reason": "The page is reachable, but matching structured title, date and location evidence could not be confirmed. Details may have been extracted by AI.",
-      "confidence": 55,
+      "verification_reason": "Retained from an earlier collection. This run could not confirm the event again; check the source for changes.",
+      "confidence": 25,
       "first_seen": "2026-11-26T22:10:40.302339+00:00",
       "last_checked": "2026-11-26T22:10:40.302339+00:00",
       "sources": [
@@ -143,7 +114,7 @@
       "verification_reason": "The page is reachable, but matching structured title, date and location evidence could not be confirmed. Details may have been extracted by AI.",
       "confidence": 55,
       "first_seen": "2026-11-26T22:10:40.302339+00:00",
-      "last_checked": "2026-11-26T22:10:40.302339+00:00",
+      "last_checked": "2026-11-27T21:51:41.372688+00:00",
       "sources": [
         "https://www.eventbrite.com/e/free-remote-adaptive-intelligence-network-new-york-tickets-1990797234118"
       ],
@@ -172,7 +143,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-21T19:59:06.273433+00:00",
-      "last_checked": "2026-11-26T22:10:40.302339+00:00",
+      "last_checked": "2026-11-27T21:51:41.372688+00:00",
       "sources": [
         "https://www.meetup.com/founders-running-club-new-york/events/317256768"
       ],
@@ -202,7 +173,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-25T22:12:33.616328+00:00",
-      "last_checked": "2026-11-26T22:10:40.302339+00:00",
+      "last_checked": "2026-11-27T21:51:41.372688+00:00",
       "sources": [
         "https://www.eventbrite.com/e/ai-app-challenge-create-your-first-app-in-7-days-tickets-1993299714103"
       ],
@@ -231,7 +202,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-24T22:56:40.581888+00:00",
-      "last_checked": "2026-11-26T22:10:40.302339+00:00",
+      "last_checked": "2026-11-27T21:51:41.372688+00:00",
       "sources": [
         "https://www.meetup.com/nycneo4j/events/317468979"
       ],
@@ -261,7 +232,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-10T20:20:24.381421+00:00",
-      "last_checked": "2026-11-26T22:10:40.302339+00:00",
+      "last_checked": "2026-11-27T21:51:41.372688+00:00",
       "sources": [
         "https://luma.com/gl8rycz0"
       ],
@@ -290,7 +261,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-25T22:12:33.616328+00:00",
-      "last_checked": "2026-11-26T22:10:40.302339+00:00",
+      "last_checked": "2026-11-27T21:51:41.372688+00:00",
       "sources": [
         "https://www.eventbrite.com/e/ai-intelligence-what-is-smart-tickets-2004289336359"
       ],
@@ -320,7 +291,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-13T20:23:37.001585+00:00",
-      "last_checked": "2026-11-26T22:10:40.302339+00:00",
+      "last_checked": "2026-11-27T21:51:41.372688+00:00",
       "sources": [
         "https://createwith.com/event/new-york-ai-dev-nyc-2026-deeplearning-ai-nov-2026"
       ],
@@ -350,7 +321,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-25T22:12:33.616328+00:00",
-      "last_checked": "2026-11-26T22:10:40.302339+00:00",
+      "last_checked": "2026-11-27T21:51:41.372688+00:00",
       "sources": [
         "https://www.hackathonradar.com/database/hackathon/santai-hackathon-1-2026"
       ],
@@ -379,7 +350,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-01T18:18:39.814150+00:00",
-      "last_checked": "2026-11-26T22:10:40.302339+00:00",
+      "last_checked": "2026-11-27T21:51:41.372688+00:00",
       "sources": [
         "https://www.meetup.com/ai-conferencecrew/events/317195000"
       ],
@@ -409,7 +380,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-21T19:59:06.273433+00:00",
-      "last_checked": "2026-11-26T22:10:40.302339+00:00",
+      "last_checked": "2026-11-27T21:51:41.372688+00:00",
       "sources": [
         "https://ai-dev.deeplearning.ai/"
       ],
@@ -438,9 +409,38 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-21T19:59:06.273433+00:00",
-      "last_checked": "2026-11-26T22:10:40.302339+00:00",
+      "last_checked": "2026-11-27T21:51:41.372688+00:00",
       "sources": [
         "https://www.meetup.com/meetup-group-grbqwgeh/events/316791882"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "7aa446816e827282",
+      "title": "HITLAB Innovators Summit 2026",
+      "start": "2026-12-01T09:00:00-05:00",
+      "end": "2026-12-03T17:00:00-05:00",
+      "time_known": true,
+      "venue": "Microsoft, 11 Times Square, New York, NY 10036, New York, NY, US",
+      "format": "in-person",
+      "organizer": "HITLAB",
+      "description": "The Fall Innovators Summit will be held December 1-3, 2026 at the Microsoft Tech Center in New York City.",
+      "categories": [
+        "Emerging Tech"
+      ],
+      "cost": "Free",
+      "is_free": true,
+      "student_only": false,
+      "source_url": "https://www.eventbrite.com/e/hitlab-innovators-summit-2026-tickets-1998385127712",
+      "source_name": "Eventbrite",
+      "registration_url": "https://www.eventbrite.com/e/hitlab-innovators-summit-2026-tickets-1998385127712",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
+      "first_seen": "2026-11-27T21:51:41.372688+00:00",
+      "last_checked": "2026-11-27T21:51:41.372688+00:00",
+      "sources": [
+        "https://www.eventbrite.com/e/hitlab-innovators-summit-2026-tickets-1998385127712"
       ],
       "extraction": "jsonld"
     },
@@ -467,7 +467,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-25T22:12:33.616328+00:00",
-      "last_checked": "2026-11-26T22:10:40.302339+00:00",
+      "last_checked": "2026-11-27T21:51:41.372688+00:00",
       "sources": [
         "https://www.eventbrite.com/e/current-work-forms-of-intelligence-labor-tickets-2004234358920"
       ],
@@ -496,7 +496,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-13T20:23:37.001585+00:00",
-      "last_checked": "2026-11-26T22:10:40.302339+00:00",
+      "last_checked": "2026-11-27T21:51:41.372688+00:00",
       "sources": [
         "https://createwith.com/event/new-york-odsc-ai-nyc-2026-ai-for-work-summit-dec-2026"
       ],
@@ -555,7 +555,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-25T22:12:33.616328+00:00",
-      "last_checked": "2026-11-26T22:10:40.302339+00:00",
+      "last_checked": "2026-11-27T21:51:41.372688+00:00",
       "sources": [
         "https://www.eventbrite.com/e/odsc-ai-nyc-ai-for-work-summit-tickets-1998353845145"
       ],
@@ -584,7 +584,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-12T20:41:42.016734+00:00",
-      "last_checked": "2026-11-26T22:10:40.302339+00:00",
+      "last_checked": "2026-11-27T21:51:41.372688+00:00",
       "sources": [
         "https://events.trymimetic.com/events/nyc/ai-for-work-summit-odsc-ai-nyc-dec-2026"
       ],
@@ -613,7 +613,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-10-27T18:36:08.669428+00:00",
-      "last_checked": "2026-11-26T22:10:40.302339+00:00",
+      "last_checked": "2026-11-27T21:51:41.372688+00:00",
       "sources": [
         "https://www.meetup.com/open-data-science-ny-odsc/events/316165866"
       ],
@@ -642,7 +642,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-12T20:41:42.016734+00:00",
-      "last_checked": "2026-11-26T22:10:40.302339+00:00",
+      "last_checked": "2026-11-27T21:51:41.372688+00:00",
       "sources": [
         "https://events.trymimetic.com/events/nyc/nyc-pitch-night-w-the-ai-collective-nov-2026"
       ],
@@ -671,7 +671,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-25T22:12:33.616328+00:00",
-      "last_checked": "2026-11-26T22:10:40.302339+00:00",
+      "last_checked": "2026-11-27T21:51:41.372688+00:00",
       "sources": [
         "https://events.trymimetic.com/events/nyc/show-your-work-nyc-finance-leaders-on-ai-dec-2026"
       ],
@@ -701,7 +701,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-26T22:10:40.302339+00:00",
-      "last_checked": "2026-11-26T22:10:40.302339+00:00",
+      "last_checked": "2026-11-27T21:51:41.372688+00:00",
       "sources": [
         "https://www.eventbrite.com/e/ai-tech-founders-investors-pitch-connect-i-manhattan-new-york-tickets-2004864757459"
       ],
@@ -731,7 +731,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-25T22:12:33.616328+00:00",
-      "last_checked": "2026-11-26T22:10:40.302339+00:00",
+      "last_checked": "2026-11-27T21:51:41.372688+00:00",
       "sources": [
         "https://www.eventbrite.com/e/ai-tech-networking-event-in-nyc-by-ascent-valley-tickets-1999718943190"
       ],
@@ -761,7 +761,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-25T22:12:33.616328+00:00",
-      "last_checked": "2026-11-26T22:10:40.302339+00:00",
+      "last_checked": "2026-11-27T21:51:41.372688+00:00",
       "sources": [
         "https://www.eventbrite.com/e/ai-tech-startup-night-i-manhattan-new-york-tickets-2004250218356"
       ],
@@ -790,7 +790,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-24T22:56:40.581888+00:00",
-      "last_checked": "2026-11-26T22:10:40.302339+00:00",
+      "last_checked": "2026-11-27T21:51:41.372688+00:00",
       "sources": [
         "https://www.meetup.com/ai-circle-for-entrepreneurs/events/317489177"
       ],
@@ -819,7 +819,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-24T22:56:40.581888+00:00",
-      "last_checked": "2026-11-26T22:10:40.302339+00:00",
+      "last_checked": "2026-11-27T21:51:41.372688+00:00",
       "sources": [
         "https://www.meetup.com/startup-networking-founder-ecosystem-new-york/events/316405909"
       ],
@@ -848,7 +848,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-25T22:12:33.616328+00:00",
-      "last_checked": "2026-11-26T22:10:40.302339+00:00",
+      "last_checked": "2026-11-27T21:51:41.372688+00:00",
       "sources": [
         "https://events.trymimetic.com/events/nyc/nov-ai-engineers-devs-drinks-nov-2026"
       ],
@@ -877,7 +877,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-25T22:12:33.616328+00:00",
-      "last_checked": "2026-11-26T22:10:40.302339+00:00",
+      "last_checked": "2026-11-27T21:51:41.372688+00:00",
       "sources": [
         "https://events.trymimetic.com/events/nyc/health-ai-happy-hour-health-frontier-nyc-dec-2026"
       ],
@@ -906,7 +906,7 @@
       "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
       "confidence": 90,
       "first_seen": "2026-11-24T22:56:40.581888+00:00",
-      "last_checked": "2026-11-26T22:10:40.302339+00:00",
+      "last_checked": "2026-11-27T21:51:41.372688+00:00",
       "sources": [
         "https://www.meetup.com/nyc-ai-governance-safety/events/317288861"
       ],
@@ -930,10 +930,10 @@
       "student_only": false,
       "source_url": "https://www.meetup.com/wagmi-connect-networking-events/events/317126638",
       "source_name": "Meetup",
-      "registration_url": "https://www.meetup.com/wagmi-connect-networking-events/events/317126638/",
-      "verification": "verified",
-      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
-      "confidence": 90,
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "Retained from an earlier collection. This run could not confirm the event again; check the source for changes.",
+      "confidence": 25,
       "first_seen": "2026-11-24T22:56:40.581888+00:00",
       "last_checked": "2026-11-26T22:10:40.302339+00:00",
       "sources": [
@@ -1338,10 +1338,10 @@
       "student_only": false,
       "source_url": "https://www.meetup.com/aittg-nyc/events/317479236",
       "source_name": "Meetup",
-      "registration_url": "https://www.meetup.com/aittg-nyc/events/317479236/",
-      "verification": "verified",
-      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
-      "confidence": 90,
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "Retained from an earlier collection. This run could not confirm the event again; check the source for changes.",
+      "confidence": 25,
       "first_seen": "2026-11-21T19:59:06.273433+00:00",
       "last_checked": "2026-11-26T22:10:40.302339+00:00",
       "sources": [
@@ -1368,10 +1368,10 @@
       "student_only": false,
       "source_url": "https://www.meetup.com/nyc-agentic-enterprise-ai/events/317479313",
       "source_name": "Meetup",
-      "registration_url": "https://www.meetup.com/nyc-agentic-enterprise-ai/events/317479313/",
-      "verification": "verified",
-      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
-      "confidence": 90,
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "Retained from an earlier collection. This run could not confirm the event again; check the source for changes.",
+      "confidence": 25,
       "first_seen": "2026-11-24T22:56:40.581888+00:00",
       "last_checked": "2026-11-26T22:10:40.302339+00:00",
       "sources": [
@@ -1464,6 +1464,35 @@
       "last_checked": "2026-11-25T22:12:33.616328+00:00",
       "sources": [
         "https://www.meetup.com/nyc-professional-networking/events/317440230"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "ee2c0b10e809c86a",
+      "title": "How Neuroscience & Technology are Reshaping Business & the World",
+      "start": "2026-12-03T17:30:00-05:00",
+      "end": "2026-12-03T19:00:00-05:00",
+      "time_known": true,
+      "venue": "Gabelli School of Business, 140 West 62nd Street, New York, NY 10023, New York, NY, US",
+      "format": "in-person",
+      "organizer": "gsbevents@fordham.edu",
+      "description": "A fascinating discuss with Moran Cerf",
+      "categories": [
+        "Emerging Tech"
+      ],
+      "cost": "Free",
+      "is_free": true,
+      "student_only": false,
+      "source_url": "https://www.eventbrite.com/e/how-neuroscience-technology-are-reshaping-business-the-world-tickets-2002569393965",
+      "source_name": "Eventbrite",
+      "registration_url": "https://www.eventbrite.com/e/how-neuroscience-technology-are-reshaping-business-the-world-tickets-2002569393965",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
+      "first_seen": "2026-11-27T21:51:41.372688+00:00",
+      "last_checked": "2026-11-27T21:51:41.372688+00:00",
+      "sources": [
+        "https://www.eventbrite.com/e/how-neuroscience-technology-are-reshaping-business-the-world-tickets-2002569393965"
       ],
       "extraction": "jsonld"
     },
@@ -1636,8 +1665,8 @@
       "source_name": "Meetup",
       "registration_url": "",
       "verification": "unverified",
-      "verification_reason": "The page is reachable, but matching structured title, date and location evidence could not be confirmed. Details may have been extracted by AI.",
-      "confidence": 55,
+      "verification_reason": "Retained from an earlier collection. This run could not confirm the event again; check the source for changes.",
+      "confidence": 25,
       "first_seen": "2026-11-26T22:10:40.302339+00:00",
       "last_checked": "2026-11-26T22:10:40.302339+00:00",
       "sources": [
@@ -1752,8 +1781,8 @@
       "source_name": "Meetup",
       "registration_url": "",
       "verification": "unverified",
-      "verification_reason": "The page is reachable, but matching structured title, date and location evidence could not be confirmed. Details may have been extracted by AI.",
-      "confidence": 55,
+      "verification_reason": "Retained from an earlier collection. This run could not confirm the event again; check the source for changes.",
+      "confidence": 25,
       "first_seen": "2026-11-26T22:10:40.302339+00:00",
       "last_checked": "2026-11-26T22:10:40.302339+00:00",
       "sources": [
@@ -1781,8 +1810,8 @@
       "source_name": "Meetup",
       "registration_url": "",
       "verification": "unverified",
-      "verification_reason": "The page is reachable, but matching structured title, date and location evidence could not be confirmed. Details may have been extracted by AI.",
-      "confidence": 55,
+      "verification_reason": "Retained from an earlier collection. This run could not confirm the event again; check the source for changes.",
+      "confidence": 25,
       "first_seen": "2026-11-26T22:10:40.302339+00:00",
       "last_checked": "2026-11-26T22:10:40.302339+00:00",
       "sources": [
@@ -1808,10 +1837,10 @@
       "student_only": false,
       "source_url": "https://www.meetup.com/drawingnewyork/events/317457408",
       "source_name": "Meetup",
-      "registration_url": "https://www.meetup.com/drawingnewyork/events/317457408/",
-      "verification": "verified",
-      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
-      "confidence": 90,
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "Retained from an earlier collection. This run could not confirm the event again; check the source for changes.",
+      "confidence": 25,
       "first_seen": "2026-11-26T22:10:40.302339+00:00",
       "last_checked": "2026-11-26T22:10:40.302339+00:00",
       "sources": [
@@ -1937,36 +1966,6 @@
       "extraction": "jsonld"
     },
     {
-      "id": "7925a59c528f7642",
-      "title": "NYC AI & Tech Startups, Investors, Innovators Networking Mixer",
-      "start": "2026-12-08T00:00:00-05:00",
-      "end": "2026-12-08T00:00:00-05:00",
-      "time_known": false,
-      "venue": "The Three Monkeys, 832 8th Avenue, New York, NY, US",
-      "format": "in-person",
-      "organizer": "",
-      "description": "Discover cutting-edge AI & ML startups, pitch your ideas, and network with investors, founders, and tech innovators.",
-      "categories": [
-        "AI/ML",
-        "Emerging Tech"
-      ],
-      "cost": "Cost not listed",
-      "is_free": null,
-      "student_only": false,
-      "source_url": "https://www.eventbrite.com/e/nyc-ai-tech-startups-investors-innovators-networking-mixer-tickets-2004164363562",
-      "source_name": "Eventbrite",
-      "registration_url": "",
-      "verification": "unverified",
-      "verification_reason": "Retained from an earlier collection. This run could not confirm the event again; check the source for changes.",
-      "confidence": 25,
-      "first_seen": "2026-11-25T22:12:33.616328+00:00",
-      "last_checked": "2026-11-25T22:12:33.616328+00:00",
-      "sources": [
-        "https://www.eventbrite.com/e/nyc-ai-tech-startups-investors-innovators-networking-mixer-tickets-2004164363562"
-      ],
-      "extraction": "jsonld"
-    },
-    {
       "id": "4d1bfb697608aab8",
       "title": "Pixels and Poetics [exhibition opening]",
       "start": "2026-12-08T00:00:00-05:00",
@@ -1992,35 +1991,6 @@
       "last_checked": "2026-11-25T22:12:33.616328+00:00",
       "sources": [
         "https://www.eventbrite.com/e/pixels-and-poetics-exhibition-opening-tickets-2004793271643"
-      ],
-      "extraction": "jsonld"
-    },
-    {
-      "id": "14b2967aa4c5e9fc",
-      "title": "Cornell Tech Presents: Builders and Disruptors",
-      "start": "2026-12-08T00:00:00-05:00",
-      "end": "2026-12-08T00:00:00-05:00",
-      "time_known": false,
-      "venue": "Verizon Executive Education Center, 34 North Loop Road, New York, NY, US",
-      "format": "in-person",
-      "organizer": "",
-      "description": "Cornell Tech Presents: Builders and Disruptors",
-      "categories": [
-        "Emerging Tech"
-      ],
-      "cost": "Cost not listed",
-      "is_free": null,
-      "student_only": false,
-      "source_url": "https://www.eventbrite.com/e/cornell-tech-presents-builders-and-disruptors-tickets-2004247941546",
-      "source_name": "Eventbrite",
-      "registration_url": "",
-      "verification": "unverified",
-      "verification_reason": "Retained from an earlier collection. This run could not confirm the event again; check the source for changes.",
-      "confidence": 25,
-      "first_seen": "2026-11-25T22:12:33.616328+00:00",
-      "last_checked": "2026-11-25T22:12:33.616328+00:00",
-      "sources": [
-        "https://www.eventbrite.com/e/cornell-tech-presents-builders-and-disruptors-tickets-2004247941546"
       ],
       "extraction": "jsonld"
     },
@@ -2113,6 +2083,35 @@
       "extraction": "jsonld"
     },
     {
+      "id": "14b2967aa4c5e9fc",
+      "title": "Cornell Tech Presents: Builders and Disruptors",
+      "start": "2026-12-08T17:30:00-05:00",
+      "end": "2026-12-08T20:30:00-05:00",
+      "time_known": true,
+      "venue": "Verizon Executive Education Center, 34 North Loop Road, New York, NY 10044, New York, NY, US",
+      "format": "in-person",
+      "organizer": "The Studio Team at Cornell Tech",
+      "description": "Cornell Tech Presents: Builders and Disruptors",
+      "categories": [
+        "Emerging Tech"
+      ],
+      "cost": "Free",
+      "is_free": true,
+      "student_only": false,
+      "source_url": "https://www.eventbrite.com/e/cornell-tech-presents-builders-and-disruptors-tickets-2004247941546",
+      "source_name": "Eventbrite",
+      "registration_url": "https://www.eventbrite.com/e/cornell-tech-presents-builders-and-disruptors-tickets-2004247941546",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-27T21:51:41.372688+00:00",
+      "sources": [
+        "https://www.eventbrite.com/e/cornell-tech-presents-builders-and-disruptors-tickets-2004247941546"
+      ],
+      "extraction": "jsonld"
+    },
+    {
       "id": "28cfd3ff73074ee9",
       "title": "From Pilot to Patient: Deploying AI Agents in Healthcare",
       "start": "2026-12-08T17:30:00-05:00",
@@ -2172,6 +2171,36 @@
       "extraction": "jsonld"
     },
     {
+      "id": "7925a59c528f7642",
+      "title": "NYC AI & Tech Startups, Investors, Innovators Networking Mixer",
+      "start": "2026-12-08T19:00:00-05:00",
+      "end": "2026-12-08T22:00:00-05:00",
+      "time_known": true,
+      "venue": "The Three Monkeys, 832 8th Avenue, New York, NY 10019, New York, NY, US",
+      "format": "in-person",
+      "organizer": "The Founders Club",
+      "description": "Discover cutting-edge AI & ML startups, pitch your ideas, and network with investors, founders, and tech innovators.",
+      "categories": [
+        "AI/ML",
+        "Emerging Tech"
+      ],
+      "cost": "USD 9.85",
+      "is_free": false,
+      "student_only": false,
+      "source_url": "https://www.eventbrite.com/e/nyc-ai-tech-startups-investors-innovators-networking-mixer-tickets-2004164363562",
+      "source_name": "Eventbrite",
+      "registration_url": "https://www.eventbrite.com/e/nyc-ai-tech-startups-investors-innovators-networking-mixer-tickets-2004164363562",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-27T21:51:41.372688+00:00",
+      "sources": [
+        "https://www.eventbrite.com/e/nyc-ai-tech-startups-investors-innovators-networking-mixer-tickets-2004164363562"
+      ],
+      "extraction": "jsonld"
+    },
+    {
       "id": "2f124f60f97eb871",
       "title": "AI & Machine Learning Start-Ups, Professionals, Investors Networking NYC",
       "start": "2026-12-08T19:00:00-05:00",
@@ -2190,10 +2219,10 @@
       "student_only": false,
       "source_url": "https://www.meetup.com/startup-pitch-networking-nyc/events/317311521",
       "source_name": "Meetup",
-      "registration_url": "https://www.meetup.com/startup-pitch-networking-nyc/events/317311521/",
-      "verification": "verified",
-      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
-      "confidence": 90,
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "Retained from an earlier collection. This run could not confirm the event again; check the source for changes.",
+      "confidence": 25,
       "first_seen": "2026-11-24T22:56:40.581888+00:00",
       "last_checked": "2026-11-26T22:10:40.302339+00:00",
       "sources": [
@@ -2427,10 +2456,10 @@
       "student_only": false,
       "source_url": "https://www.meetup.com/startup-grind-nyc/events/316638863",
       "source_name": "Meetup",
-      "registration_url": "https://www.meetup.com/startup-grind-nyc/events/316638863/",
-      "verification": "verified",
-      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
-      "confidence": 90,
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "Retained from an earlier collection. This run could not confirm the event again; check the source for changes.",
+      "confidence": 25,
       "first_seen": "2026-10-27T18:36:08.669428+00:00",
       "last_checked": "2026-11-26T22:10:40.302339+00:00",
       "sources": [
@@ -2690,10 +2719,10 @@
       "student_only": false,
       "source_url": "https://www.meetup.com/new-york-young-professionals-meetup-group/events/317309869",
       "source_name": "Meetup",
-      "registration_url": "https://www.meetup.com/new-york-young-professionals-meetup-group/events/317309869/",
-      "verification": "verified",
-      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
-      "confidence": 90,
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "Retained from an earlier collection. This run could not confirm the event again; check the source for changes.",
+      "confidence": 25,
       "first_seen": "2026-11-24T22:56:40.581888+00:00",
       "last_checked": "2026-11-26T22:10:40.302339+00:00",
       "sources": [
@@ -2720,10 +2749,10 @@
       "student_only": false,
       "source_url": "https://www.meetup.com/ai-for-finance/events/317309870",
       "source_name": "Meetup",
-      "registration_url": "https://www.meetup.com/ai-for-finance/events/317309870/",
-      "verification": "verified",
-      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
-      "confidence": 90,
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "Retained from an earlier collection. This run could not confirm the event again; check the source for changes.",
+      "confidence": 25,
       "first_seen": "2026-11-26T22:10:40.302339+00:00",
       "last_checked": "2026-11-26T22:10:40.302339+00:00",
       "sources": [
@@ -2836,10 +2865,10 @@
       "student_only": false,
       "source_url": "https://www.meetup.com/startup-grind-nyc/events/317554106",
       "source_name": "Meetup",
-      "registration_url": "https://www.meetup.com/startup-grind-nyc/events/317554106/",
-      "verification": "verified",
-      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
-      "confidence": 90,
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "Retained from an earlier collection. This run could not confirm the event again; check the source for changes.",
+      "confidence": 25,
       "first_seen": "2026-11-24T22:56:40.581888+00:00",
       "last_checked": "2026-11-26T22:10:40.302339+00:00",
       "sources": [
@@ -2877,65 +2906,6 @@
       "extraction": "jsonld"
     },
     {
-      "id": "8c8a1877007c4927",
-      "title": "Women in AI, Tech & Digital Innovation Networking NYC",
-      "start": "2026-12-14T00:00:00-05:00",
-      "end": "2026-12-14T00:00:00-05:00",
-      "time_known": false,
-      "venue": "231 2nd Ave, The Laurels, 231 2nd Avenue, New York, NY, US",
-      "format": "in-person",
-      "organizer": "",
-      "description": "Connect with inspiring women in artificial intelligence, technology, startups and digital innovation!",
-      "categories": [
-        "AI/ML",
-        "Emerging Tech"
-      ],
-      "cost": "Cost not listed",
-      "is_free": null,
-      "student_only": false,
-      "source_url": "https://www.eventbrite.com/e/women-in-ai-tech-digital-innovation-networking-nyc-tickets-2004430953941",
-      "source_name": "Eventbrite",
-      "registration_url": "",
-      "verification": "unverified",
-      "verification_reason": "Retained from an earlier collection. This run could not confirm the event again; check the source for changes.",
-      "confidence": 25,
-      "first_seen": "2026-11-25T22:12:33.616328+00:00",
-      "last_checked": "2026-11-25T22:12:33.616328+00:00",
-      "sources": [
-        "https://www.eventbrite.com/e/women-in-ai-tech-digital-innovation-networking-nyc-tickets-2004430953941"
-      ],
-      "extraction": "jsonld"
-    },
-    {
-      "id": "73c96dcacefe42ce",
-      "title": "CUNY Tech Prep Demo Night 2026 | Sponsored by LinkedIn",
-      "start": "2026-12-14T00:00:00-05:00",
-      "end": "2026-12-14T00:00:00-05:00",
-      "time_known": false,
-      "venue": "350 5th Ave, 350 5th Avenue, New York, NY, US",
-      "format": "in-person",
-      "organizer": "",
-      "description": "Join us at the LinkedIn office for CUNY Tech Prep's Demo Night 2026 and explore the incredible projects created by our CTP fellows.",
-      "categories": [
-        "Emerging Tech"
-      ],
-      "cost": "Cost not listed",
-      "is_free": null,
-      "student_only": false,
-      "source_url": "https://www.eventbrite.com/e/cuny-tech-prep-demo-night-2026-sponsored-by-linkedin-tickets-2003360323657",
-      "source_name": "Eventbrite",
-      "registration_url": "",
-      "verification": "unverified",
-      "verification_reason": "Retained from an earlier collection. This run could not confirm the event again; check the source for changes.",
-      "confidence": 25,
-      "first_seen": "2026-11-25T22:12:33.616328+00:00",
-      "last_checked": "2026-11-25T22:12:33.616328+00:00",
-      "sources": [
-        "https://www.eventbrite.com/e/cuny-tech-prep-demo-night-2026-sponsored-by-linkedin-tickets-2003360323657"
-      ],
-      "extraction": "jsonld"
-    },
-    {
       "id": "8e6a046995251d49",
       "title": "CUNY Tech Prep Demo Night 2026 | Sponsored by LinkedIn",
       "start": "2026-12-14T13:00:00-05:00",
@@ -2965,6 +2935,35 @@
       "extraction": "jsonld"
     },
     {
+      "id": "73c96dcacefe42ce",
+      "title": "CUNY Tech Prep Demo Night 2026 | Sponsored by LinkedIn",
+      "start": "2026-12-14T18:00:00-05:00",
+      "end": "2026-12-14T20:00:00-05:00",
+      "time_known": true,
+      "venue": "350 5th Ave, 350 5th Avenue, New York, NY 10118, New York, NY, US",
+      "format": "in-person",
+      "organizer": "CUNY Tech Prep",
+      "description": "Join us at the LinkedIn office for CUNY Tech Prep's Demo Night 2026 and explore the incredible projects created by our CTP fellows.",
+      "categories": [
+        "Emerging Tech"
+      ],
+      "cost": "Free",
+      "is_free": true,
+      "student_only": false,
+      "source_url": "https://www.eventbrite.com/e/cuny-tech-prep-demo-night-2026-sponsored-by-linkedin-tickets-2003360323657",
+      "source_name": "Eventbrite",
+      "registration_url": "https://www.eventbrite.com/e/cuny-tech-prep-demo-night-2026-sponsored-by-linkedin-tickets-2003360323657",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-27T21:51:41.372688+00:00",
+      "sources": [
+        "https://www.eventbrite.com/e/cuny-tech-prep-demo-night-2026-sponsored-by-linkedin-tickets-2003360323657"
+      ],
+      "extraction": "jsonld"
+    },
+    {
       "id": "9794a9263db69149",
       "title": "Merry Shipmas · New York",
       "start": "2026-12-14T18:00:00-05:00",
@@ -2990,6 +2989,36 @@
       "last_checked": "2026-11-25T22:12:33.616328+00:00",
       "sources": [
         "https://events.trymimetic.com/events/nyc/merry-shipmas-new-york-dec-2026"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "8c8a1877007c4927",
+      "title": "Women in AI, Tech & Digital Innovation Networking NYC",
+      "start": "2026-12-14T19:00:00-05:00",
+      "end": "2026-12-14T22:00:00-05:00",
+      "time_known": true,
+      "venue": "231 2nd Ave, The Laurels, 231 2nd Avenue, New York, NY 10003, New York, NY, US",
+      "format": "in-person",
+      "organizer": "Business Minds Events",
+      "description": "Connect with inspiring women in artificial intelligence, technology, startups and digital innovation!",
+      "categories": [
+        "AI/ML",
+        "Emerging Tech"
+      ],
+      "cost": "USD 9.85",
+      "is_free": false,
+      "student_only": false,
+      "source_url": "https://www.eventbrite.com/e/women-in-ai-tech-digital-innovation-networking-nyc-tickets-2004430953941",
+      "source_name": "Eventbrite",
+      "registration_url": "https://www.eventbrite.com/e/women-in-ai-tech-digital-innovation-networking-nyc-tickets-2004430953941",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
+      "first_seen": "2026-11-25T22:12:33.616328+00:00",
+      "last_checked": "2026-11-27T21:51:41.372688+00:00",
+      "sources": [
+        "https://www.eventbrite.com/e/women-in-ai-tech-digital-innovation-networking-nyc-tickets-2004430953941"
       ],
       "extraction": "jsonld"
     },
@@ -3188,10 +3217,10 @@
       "student_only": false,
       "source_url": "https://events.trymimetic.com/events/nyc/nyc-ai-builder-nights-pizza-prompts-dec-2026",
       "source_name": "events.trymimetic.com",
-      "registration_url": "https://events.trymimetic.com/events/nyc/nyc-ai-builder-nights-pizza-prompts-dec-2026",
-      "verification": "verified",
-      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
-      "confidence": 90,
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "Retained from an earlier collection. This run could not confirm the event again; check the source for changes.",
+      "confidence": 25,
       "first_seen": "2026-11-25T22:12:33.616328+00:00",
       "last_checked": "2026-11-26T22:10:40.302339+00:00",
       "sources": [
@@ -3217,10 +3246,10 @@
       "student_only": false,
       "source_url": "https://events.trymimetic.com/events/nyc/ditch-the-deck-nyc-ai-show-not-tell-dec-2026",
       "source_name": "events.trymimetic.com",
-      "registration_url": "https://events.trymimetic.com/events/nyc/ditch-the-deck-nyc-ai-show-not-tell-dec-2026",
-      "verification": "verified",
-      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
-      "confidence": 90,
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "Retained from an earlier collection. This run could not confirm the event again; check the source for changes.",
+      "confidence": 25,
       "first_seen": "2026-11-25T22:12:33.616328+00:00",
       "last_checked": "2026-11-26T22:10:40.302339+00:00",
       "sources": [
@@ -3246,14 +3275,43 @@
       "student_only": false,
       "source_url": "https://events.trymimetic.com/events/nyc/ai-circle-x-epam-signal-noise-downtown-nyc-gallery-night-for-ai-researchers-dec",
       "source_name": "events.trymimetic.com",
-      "registration_url": "https://events.trymimetic.com/events/nyc/ai-circle-x-epam-signal-noise-downtown-nyc-gallery-night-for-ai-researchers-dec",
-      "verification": "verified",
-      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
-      "confidence": 90,
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "Retained from an earlier collection. This run could not confirm the event again; check the source for changes.",
+      "confidence": 25,
       "first_seen": "2026-11-25T22:12:33.616328+00:00",
       "last_checked": "2026-11-26T22:10:40.302339+00:00",
       "sources": [
         "https://events.trymimetic.com/events/nyc/ai-circle-x-epam-signal-noise-downtown-nyc-gallery-night-for-ai-researchers-dec"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "ad1eaaf30211c111",
+      "title": "NYC Tech Startups Networking & Elevator Pitches Event",
+      "start": "2026-12-15T19:00:00-05:00",
+      "end": "2026-12-15T22:00:00-05:00",
+      "time_known": true,
+      "venue": "The Three Monkeys, 832 8th Avenue, New York, NY 10019, New York, NY, US",
+      "format": "in-person",
+      "organizer": "Business Founders Group",
+      "description": "Come meet other tech startups, investors, and innovators, and practice your elevator pitch at our networking event!",
+      "categories": [
+        "Emerging Tech"
+      ],
+      "cost": "USD 9.85",
+      "is_free": false,
+      "student_only": false,
+      "source_url": "https://www.eventbrite.com/e/nyc-tech-startups-networking-elevator-pitches-event-tickets-2004513350391",
+      "source_name": "Eventbrite",
+      "registration_url": "https://www.eventbrite.com/e/nyc-tech-startups-networking-elevator-pitches-event-tickets-2004513350391",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
+      "first_seen": "2026-11-27T21:51:41.372688+00:00",
+      "last_checked": "2026-11-27T21:51:41.372688+00:00",
+      "sources": [
+        "https://www.eventbrite.com/e/nyc-tech-startups-networking-elevator-pitches-event-tickets-2004513350391"
       ],
       "extraction": "jsonld"
     },
@@ -3275,14 +3333,43 @@
       "student_only": false,
       "source_url": "https://happening-nyc.com/event/queens-tech-night-2026-7a09416a1f51277e780e466a1b50267d7b09",
       "source_name": "happening-nyc.com",
-      "registration_url": "https://happening-nyc.com/event/queens-tech-night-2026-7a09416a1f51277e780e466a1b50267d7b09",
-      "verification": "verified",
-      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
-      "confidence": 90,
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "Retained from an earlier collection. This run could not confirm the event again; check the source for changes.",
+      "confidence": 25,
       "first_seen": "2026-11-18T21:10:24.492633+00:00",
       "last_checked": "2026-11-26T22:10:40.302339+00:00",
       "sources": [
         "https://happening-nyc.com/event/queens-tech-night-2026-7a09416a1f51277e780e466a1b50267d7b09"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "5296e1b8ad692b33",
+      "title": "Queens Tech Night 2026",
+      "start": "2026-12-16T18:00:00-05:00",
+      "end": "2026-12-16T21:00:00-05:00",
+      "time_known": true,
+      "venue": "Culture Lab LIC, 5-25 46th Avenue, Queens, NY 11101, Queens, NY, US",
+      "format": "in-person",
+      "organizer": "Queens Tech Night",
+      "description": "Save the Date: Queens Tech Night returns for 2026 on December 16 at Culture Lab LIC",
+      "categories": [
+        "Emerging Tech"
+      ],
+      "cost": "Free",
+      "is_free": true,
+      "student_only": false,
+      "source_url": "https://www.eventbrite.com/e/queens-tech-night-2026-tickets-2003770431300",
+      "source_name": "Eventbrite",
+      "registration_url": "https://www.eventbrite.com/e/queens-tech-night-2026-tickets-2003770431300",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
+      "first_seen": "2026-11-27T21:51:41.372688+00:00",
+      "last_checked": "2026-11-27T21:51:41.372688+00:00",
+      "sources": [
+        "https://www.eventbrite.com/e/queens-tech-night-2026-tickets-2003770431300"
       ],
       "extraction": "jsonld"
     },
@@ -3304,10 +3391,10 @@
       "student_only": false,
       "source_url": "https://events.trymimetic.com/events/nyc/ai-socratic-december-dec-2026",
       "source_name": "events.trymimetic.com",
-      "registration_url": "https://events.trymimetic.com/events/nyc/ai-socratic-december-dec-2026",
-      "verification": "verified",
-      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
-      "confidence": 90,
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "Retained from an earlier collection. This run could not confirm the event again; check the source for changes.",
+      "confidence": 25,
       "first_seen": "2026-11-25T22:12:33.616328+00:00",
       "last_checked": "2026-11-26T22:10:40.302339+00:00",
       "sources": [
@@ -3333,10 +3420,10 @@
       "student_only": false,
       "source_url": "https://events.trymimetic.com/events/nyc/flatiron-ai-reading-group-flair-dec-2026-3",
       "source_name": "events.trymimetic.com",
-      "registration_url": "https://events.trymimetic.com/events/nyc/flatiron-ai-reading-group-flair-dec-2026-3",
-      "verification": "verified",
-      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
-      "confidence": 90,
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "Retained from an earlier collection. This run could not confirm the event again; check the source for changes.",
+      "confidence": 25,
       "first_seen": "2026-11-25T22:12:33.616328+00:00",
       "last_checked": "2026-11-26T22:10:40.302339+00:00",
       "sources": [
@@ -3362,10 +3449,10 @@
       "student_only": false,
       "source_url": "https://www.eventbrite.com/e/hackerx-new-york-city-ai-employer-ticket-1217-tickets-1982701841581",
       "source_name": "Eventbrite",
-      "registration_url": "https://www.eventbrite.com/e/hackerx-new-york-city-ai-employer-ticket-1217-tickets-1982701841581",
-      "verification": "verified",
-      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
-      "confidence": 90,
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "Retained from an earlier collection. This run could not confirm the event again; check the source for changes.",
+      "confidence": 25,
       "first_seen": "2026-11-25T22:12:33.616328+00:00",
       "last_checked": "2026-11-26T22:10:40.302339+00:00",
       "sources": [
@@ -3391,10 +3478,10 @@
       "student_only": false,
       "source_url": "https://events.trymimetic.com/events/nyc/rescheduled-to-december-abliterated-models-demo-day-ft-veris-dec-2026",
       "source_name": "events.trymimetic.com",
-      "registration_url": "https://events.trymimetic.com/events/nyc/rescheduled-to-december-abliterated-models-demo-day-ft-veris-dec-2026",
-      "verification": "verified",
-      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
-      "confidence": 90,
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "Retained from an earlier collection. This run could not confirm the event again; check the source for changes.",
+      "confidence": 25,
       "first_seen": "2026-11-12T20:41:42.016734+00:00",
       "last_checked": "2026-11-26T22:10:40.302339+00:00",
       "sources": [
@@ -3420,14 +3507,44 @@
       "student_only": false,
       "source_url": "https://events.trymimetic.com/events/nyc/founders-holiday-mixer-w-the-ai-collective-dec-2026",
       "source_name": "events.trymimetic.com",
-      "registration_url": "https://events.trymimetic.com/events/nyc/founders-holiday-mixer-w-the-ai-collective-dec-2026",
-      "verification": "verified",
-      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
-      "confidence": 90,
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "Retained from an earlier collection. This run could not confirm the event again; check the source for changes.",
+      "confidence": 25,
       "first_seen": "2026-11-25T22:12:33.616328+00:00",
       "last_checked": "2026-11-26T22:10:40.302339+00:00",
       "sources": [
         "https://events.trymimetic.com/events/nyc/founders-holiday-mixer-w-the-ai-collective-dec-2026"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "63946448e527751e",
+      "title": "Startup Tech & AI Networking in NYC",
+      "start": "2026-12-23T18:00:00-05:00",
+      "end": "2026-12-23T21:00:00-05:00",
+      "time_known": true,
+      "venue": "The Lobby Bar & Garden, 518 West 27th Street, #Lower Level, New York, NY 10001, New York, NY, US",
+      "format": "in-person",
+      "organizer": "Startup Ascent",
+      "description": "Dive into tech with other professionals! Network and build strong relationships with investors, tech experts, and entrepreneurs in NYC.",
+      "categories": [
+        "AI/ML",
+        "Emerging Tech"
+      ],
+      "cost": "Free",
+      "is_free": true,
+      "student_only": false,
+      "source_url": "https://www.eventbrite.com/e/startup-tech-ai-networking-in-nyc-tickets-2004812281502",
+      "source_name": "Eventbrite",
+      "registration_url": "https://www.eventbrite.com/e/startup-tech-ai-networking-in-nyc-tickets-2004812281502",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
+      "first_seen": "2026-11-27T21:51:41.372688+00:00",
+      "last_checked": "2026-11-27T21:51:41.372688+00:00",
+      "sources": [
+        "https://www.eventbrite.com/e/startup-tech-ai-networking-in-nyc-tickets-2004812281502"
       ],
       "extraction": "jsonld"
     },
@@ -3449,10 +3566,10 @@
       "student_only": false,
       "source_url": "https://events.trymimetic.com/events/nyc/flatiron-ai-reading-group-flair-dec-2026-4",
       "source_name": "events.trymimetic.com",
-      "registration_url": "https://events.trymimetic.com/events/nyc/flatiron-ai-reading-group-flair-dec-2026-4",
-      "verification": "verified",
-      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
-      "confidence": 90,
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "Retained from an earlier collection. This run could not confirm the event again; check the source for changes.",
+      "confidence": 25,
       "first_seen": "2026-11-25T22:12:33.616328+00:00",
       "last_checked": "2026-11-26T22:10:40.302339+00:00",
       "sources": [
@@ -3478,10 +3595,10 @@
       "student_only": false,
       "source_url": "https://www.eventbrite.com/e/haiti-tech-summit-10th-annual-edition-unga-week-tickets-1985988046709",
       "source_name": "Eventbrite",
-      "registration_url": "https://www.eventbrite.com/e/haiti-tech-summit-10th-annual-edition-unga-week-tickets-1985988046709",
-      "verification": "verified",
-      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
-      "confidence": 90,
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "Retained from an earlier collection. This run could not confirm the event again; check the source for changes.",
+      "confidence": 25,
       "first_seen": "2026-11-25T22:12:33.616328+00:00",
       "last_checked": "2026-11-26T22:10:40.302339+00:00",
       "sources": [
@@ -3509,10 +3626,10 @@
       "student_only": false,
       "source_url": "https://www.eventbrite.com/e/ghana-tech-summit-2026-ai-edition-tickets-1362903052719",
       "source_name": "Eventbrite",
-      "registration_url": "https://www.eventbrite.com/e/ghana-tech-summit-2026-ai-edition-tickets-1362903052719",
-      "verification": "verified",
-      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
-      "confidence": 90,
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "Retained from an earlier collection. This run could not confirm the event again; check the source for changes.",
+      "confidence": 25,
       "first_seen": "2026-11-20T20:57:42.608312+00:00",
       "last_checked": "2026-11-26T22:10:40.302339+00:00",
       "sources": [
@@ -3538,10 +3655,10 @@
       "student_only": false,
       "source_url": "https://www.eventbrite.com/e/ai-ready-startup-accelerator-tickets-2004217891666",
       "source_name": "Eventbrite",
-      "registration_url": "https://www.eventbrite.com/e/ai-ready-startup-accelerator-tickets-2004217891666",
-      "verification": "verified",
-      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
-      "confidence": 90,
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "Retained from an earlier collection. This run could not confirm the event again; check the source for changes.",
+      "confidence": 25,
       "first_seen": "2026-11-25T22:12:33.616328+00:00",
       "last_checked": "2026-11-26T22:10:40.302339+00:00",
       "sources": [
@@ -3567,14 +3684,43 @@
       "student_only": false,
       "source_url": "https://www.eventbrite.com/e/reimagining-the-classical-musician-artistic-practice-and-professional-futu-tickets-2004530380328",
       "source_name": "Eventbrite",
-      "registration_url": "https://www.eventbrite.com/e/reimagining-the-classical-musician-artistic-practice-and-professional-futu-tickets-2004530380328",
-      "verification": "verified",
-      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
-      "confidence": 90,
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "Retained from an earlier collection. This run could not confirm the event again; check the source for changes.",
+      "confidence": 25,
       "first_seen": "2026-11-25T22:12:33.616328+00:00",
       "last_checked": "2026-11-26T22:10:40.302339+00:00",
       "sources": [
         "https://www.eventbrite.com/e/reimagining-the-classical-musician-artistic-practice-and-professional-futu-tickets-2004530380328"
+      ],
+      "extraction": "jsonld"
+    },
+    {
+      "id": "103b546487705a96",
+      "title": "Women in Tech NYC 2026",
+      "start": "2027-01-28T18:00:00-05:00",
+      "end": "2027-01-28T20:00:00-05:00",
+      "time_known": true,
+      "venue": "Arlo Williamsburg, 96 Wythe Avenue, Brooklyn, NY 11249, Brooklyn, NY, US",
+      "format": "in-person",
+      "organizer": "women in tech NYC",
+      "description": "THE BEST NETWORKING IN NYC!!! Williamsburg Hotel",
+      "categories": [
+        "Emerging Tech"
+      ],
+      "cost": "Free",
+      "is_free": true,
+      "student_only": false,
+      "source_url": "https://www.eventbrite.com/e/women-in-tech-nyc-2026-tickets-2004794649765",
+      "source_name": "Eventbrite",
+      "registration_url": "https://www.eventbrite.com/e/women-in-tech-nyc-2026-tickets-2004794649765",
+      "verification": "verified",
+      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
+      "confidence": 90,
+      "first_seen": "2026-11-27T21:51:41.372688+00:00",
+      "last_checked": "2026-11-27T21:51:41.372688+00:00",
+      "sources": [
+        "https://www.eventbrite.com/e/women-in-tech-nyc-2026-tickets-2004794649765"
       ],
       "extraction": "jsonld"
     },
@@ -3596,10 +3742,10 @@
       "student_only": false,
       "source_url": "https://www.eventbrite.com/e/future-of-faith-a-christian-conference-on-ai-tickets-2005169621315",
       "source_name": "Eventbrite",
-      "registration_url": "https://www.eventbrite.com/e/future-of-faith-a-christian-conference-on-ai-tickets-2005169621315",
-      "verification": "verified",
-      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
-      "confidence": 90,
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "Retained from an earlier collection. This run could not confirm the event again; check the source for changes.",
+      "confidence": 25,
       "first_seen": "2026-11-25T22:12:33.616328+00:00",
       "last_checked": "2026-11-26T22:10:40.302339+00:00",
       "sources": [
@@ -3626,10 +3772,10 @@
       "student_only": false,
       "source_url": "https://www.eventbrite.com/e/sf-51-feminist-futures-beyond-ai-refusing-inevitability-tickets-2001406695302",
       "source_name": "Eventbrite",
-      "registration_url": "https://www.eventbrite.com/e/sf-51-feminist-futures-beyond-ai-refusing-inevitability-tickets-2001406695302",
-      "verification": "verified",
-      "verification_reason": "Matching title, date and location were found in structured event data on the reachable event page. Registration availability is not guaranteed.",
-      "confidence": 90,
+      "registration_url": "",
+      "verification": "unverified",
+      "verification_reason": "Retained from an earlier collection. This run could not confirm the event again; check the source for changes.",
+      "confidence": 25,
       "first_seen": "2026-11-25T22:12:33.616328+00:00",
       "last_checked": "2026-11-26T22:10:40.302339+00:00",
       "sources": [
